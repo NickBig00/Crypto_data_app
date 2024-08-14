@@ -13,6 +13,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import WebDriverWait
 
 # Pfad zur ChromeDriver-Datei
+chrome_driver_path = 'C:/Users/gross/chromedriver-win64/chromedriver.exe'
 
 # Logging-Konfiguration
 logging.basicConfig(filename='crypto_data.log', level=logging.INFO,
@@ -28,48 +29,81 @@ API_ENDPOINTS = {
     'uzx.kr': "",
 }
 
-KRAKEN_PAIRS = {
-    'BTCUSDT': 'XXBTZUSD',
-    'ETHUSDT': 'XETHZUSD',
-    'LINKUSDT': 'LINKUSD',
-    'ETCUSDT': 'XETCZUSD',
-    'FILUSDT': 'FILUSD',
-    'LTCUSDT': 'XLTCZUSD',
-    'AAVEUSDT': 'AAVEUSD',
-    'UNIUSDT': 'UNIUSD',
-    'DOGEUSDT': 'XDGUSD',
-    '1INCHUSDT': '1INCHUSD'
-}
-
-COINBASE_PAIRS = {
-    'BTCUSDT': 'BTC-USD',
-    'ETHUSDT': 'ETH-USD',
-    'LINKUSDT': 'LINK-USD',
-    'ETCUSDT': 'ETC-USD',
-    'FILUSDT': 'FIL-USD',
-    'LTCUSDT': 'LTC-USD',
-    'AAVEUSDT': 'AAVE-USD',
-    'UNIUSDT': 'UNI-USD',
-    'DOGEUSDT': 'DOGE-USD',
-    '1INCHUSDT': '1INCH-USD'
-}
-
-CRYPTO_COM_PAIRS = {
-    'BTCUSDT': 'BTC_USDT',
-    'ETHUSDT': 'ETH_USDT',
-    'LINKUSDT': 'LINK_USDT',
-    'ETCUSDT': 'ETC_USDT',
-    'FILUSDT': 'FIL_USDT',
-    'LTCUSDT': 'LTC_USDT',
-    'AAVEUSDT': 'AAVE_USDT',
-    'UNIUSDT': 'UNI_USDT',
-    'DOGEUSDT': 'DOGE_USDT',
-    '1INCHUSDT': '1INCH_USDT'
-}
-
-COINS = ["BTCUSDT", "ETHUSDT", "LINKUSDT", "ETCUSDT", "FILUSDT",
-         "LTCUSDT", "AAVEUSDT", "UNIUSDT", "DOGEUSDT", "1INCHUSDT"]
-
+API_SYMBOL_MAPPINGS = {
+    'BTCUSDT': {'Bybit': 'BTCUSDT', 'Binance': 'BTCUSDT', 'Coinbase': 'BTC-USD', 'Crypto.com': 'BTC_USDT',
+                'Kraken': 'XXBTZUSD', 'uzx.kr': 'btc_usdt'},
+    'ETHUSDT': {'Bybit': 'ETHUSDT', 'Binance': 'ETHUSDT', 'Coinbase': 'ETH-USD', 'Crypto.com': 'ETH_USDT',
+                'Kraken': 'XETHZUSD', 'uzx.kr': 'eth_usdt'},
+    'LINKUSDT': {'Bybit': 'LINKUSDT', 'Binance': 'LINKUSDT', 'Coinbase': 'LINK-USD', 'Crypto.com': 'LINK_USDT',
+                 'Kraken': 'LINKUSD', 'uzx.kr': 'link_usdt'},
+    'LTCUSDT': {'Bybit': 'LTCUSDT', 'Binance': 'LTCUSDT', 'Coinbase': 'LTC-USD', 'Crypto.com': 'LTC_USDT',
+                'Kraken': 'XLTCZUSD', 'uzx.kr': 'ltc_usdt'},
+    'ETCUSDT': {'Bybit': 'ETCUSDT', 'Binance': 'ETCUSDT', 'Coinbase': 'ETC-USD', 'Crypto.com': 'ETC_USDT',
+                'Kraken': 'XETCZUSD', 'uzx.kr': 'etc_usdt'},
+    'FILUSDT': {'Bybit': 'FILUSDT', 'Binance': 'FILUSDT', 'Coinbase': 'FIL-USD', 'Crypto.com': 'FIL_USDT',
+                'Kraken': 'FILUSD', 'uzx.kr': 'fil_usdt'},
+    'AAVEUSDT': {'Bybit': 'AAVEUSDT', 'Binance': 'AAVEUSDT', 'Coinbase': 'AAVE-USD', 'Crypto.com': 'AAVE_USDT',
+                 'Kraken': 'AAVEUSD', 'uzx.kr': 'aave_usdt'},
+    'UNIUSDT': {'Bybit': 'UNIUSDT', 'Binance': 'UNIUSDT', 'Coinbase': 'UNI-USD', 'Crypto.com': 'UNI_USDT',
+                'Kraken': 'UNIUSD', 'uzx.kr': 'uni_usdt'},
+    'DOGEUSDT': {'Bybit': 'DOGEUSDT', 'Binance': 'DOGEUSDT', 'Coinbase': 'DOGE-USD', 'Crypto.com': 'DOGE_USDT',
+                 'Kraken': 'XDGUSD', 'uzx.kr': 'doge_usdt'},
+    '1INCHUSDT': {'Bybit': '1INCHUSDT', 'Binance': '1INCHUSDT', 'Coinbase': '1INCH-USD', 'Crypto.com': '1INCH_USDT',
+                  'Kraken': '1INCHUSD', 'uzx.kr': '1inch_usdt'},
+    'ADAUSDT': {'Bybit': 'ADAUSDT', 'Binance': 'ADAUSDT', 'Coinbase': 'ADA-USD', 'Crypto.com': 'ADA_USDT',
+                'Kraken': 'ADAUSD', 'uzx.kr': 'ada_usdt'},
+    'DOTUSDT': {'Bybit': 'DOTUSDT', 'Binance': 'DOTUSDT', 'Coinbase': 'DOT-USD', 'Crypto.com': 'DOT_USDT',
+                'Kraken': 'DOTUSD', 'uzx.kr': 'dot_usdt'},
+    'SOLUSDT': {'Bybit': 'SOLUSDT', 'Binance': 'SOLUSDT', 'Coinbase': 'SOL-USD', 'Crypto.com': 'SOL_USDT',
+                'Kraken': 'SOLUSD', 'uzx.kr': 'sol_usdt'},
+    'MATICUSDT': {'Bybit': 'MATICUSDT', 'Binance': 'MATICUSDT', 'Coinbase': 'MATIC-USD', 'Crypto.com': 'MATIC_USDT',
+                  'Kraken': 'MATICUSD', 'uzx.kr': 'matic_usdt'},
+    'AVAXUSDT': {'Bybit': 'AVAXUSDT', 'Binance': 'AVAXUSDT', 'Coinbase': 'AVAX-USD', 'Crypto.com': 'AVAX_USDT',
+                 'Kraken': 'AVAXUSD', 'uzx.kr': 'avax_usdt'},
+    'XLMUSDT': {'Bybit': 'XLMUSDT', 'Binance': 'XLMUSDT', 'Coinbase': 'XLM-USD', 'Crypto.com': 'XLM_USDT',
+                'Kraken': 'XXLMZUSD', 'uzx.kr': 'xlm_usdt'},
+    'ATOMUSDT': {'Bybit': 'ATOMUSDT', 'Binance': 'ATOMUSDT', 'Coinbase': 'ATOM-USD', 'Crypto.com': 'ATOM_USDT',
+                 'Kraken': 'ATOMUSD', 'uzx.kr': 'atom_usdt'},
+    'VETUSDT': {'Bybit': 'VETUSDT', 'Binance': 'VETUSDT', 'Coinbase': 'VET-USD', 'Crypto.com': 'VET_USDT',
+                'Kraken': 'VETUSD', 'uzx.kr': 'vet_usdt'},
+    'TRXUSDT': {'Bybit': 'TRXUSDT', 'Binance': 'TRXUSDT', 'Coinbase': 'TRX-USD', 'Crypto.com': 'TRX_USDT',
+                'Kraken': 'TRXUSD', 'uzx.kr': 'trx_usdt'},
+    'FTTUSDT': {'Bybit': 'FTTUSDT', 'Binance': 'FTTUSDT', 'Coinbase': 'FTT-USD', 'Crypto.com': 'FTT_USDT',
+                'Kraken': 'FTTUSD', 'uzx.kr': 'ftt_usdt'},
+    'BCHUSDT': {'Bybit': 'BCHUSDT', 'Binance': 'BCHUSDT', 'Coinbase': 'BCH-USD', 'Crypto.com': 'BCH_USDT',
+                'Kraken': 'BCHUSD', 'uzx.kr': 'bch_usdt'},
+    'SUSHIUSDT': {'Bybit': 'SUSHIUSDT', 'Binance': 'SUSHIUSDT', 'Coinbase': 'SUSHI-USD', 'Crypto.com': 'SUSHI_USDT',
+                  'Kraken': 'SUSHIUSD', 'uzx.kr': 'sushi_usdt'},
+    'CRVUSDT': {'Bybit': 'CRVUSDT', 'Binance': 'CRVUSDT', 'Coinbase': 'CRV-USD', 'Crypto.com': 'CRV_USDT',
+                'Kraken': 'CRVUSD', 'uzx.kr': 'crv_usdt'},
+    'YFIUSDT': {'Bybit': 'YFIUSDT', 'Binance': 'YFIUSDT', 'Coinbase': 'YFI-USD', 'Crypto.com': 'YFI_USDT',
+                'Kraken': 'YFIUSD', 'uzx.kr': 'yfi_usdt'},
+    'RENUSDT': {'Bybit': 'RENUSDT', 'Binance': 'RENUSDT', 'Coinbase': 'REN-USD', 'Crypto.com': 'REN_USDT',
+                'Kraken': 'RENUSD', 'uzx.kr': 'ren_usdt'},
+    'COMPUSDT': {'Bybit': 'COMPUSDT', 'Binance': 'COMPUSDT', 'Coinbase': 'COMP-USD', 'Crypto.com': 'COMP_USDT',
+                 'Kraken': 'COMPUSD', 'uzx.kr': 'comp_usdt'},
+    'SNXUSDT': {'Bybit': 'SNXUSDT', 'Binance': 'SNXUSDT', 'Coinbase': 'SNX-USD', 'Crypto.com': 'SNX_USDT',
+                'Kraken': 'SNXUSD', 'uzx.kr': 'snx_usdt'},
+    'ZRXUSDT': {'Bybit': 'ZRXUSDT', 'Binance': 'ZRXUSDT', 'Coinbase': 'ZRX-USD', 'Crypto.com': 'ZRX_USDT',
+                'Kraken': 'ZRXUSD', 'uzx.kr': 'zrx_usdt'},
+    'ALGOUSDT': {'Bybit': 'ALGOUSDT', 'Binance': 'ALGOUSDT', 'Coinbase': 'ALGO-USD', 'Crypto.com': 'ALGO_USDT',
+                 'Kraken': 'ALGOUSD', 'uzx.kr': 'algo_usdt'},
+    'CHZUSDT': {'Bybit': 'CHZUSDT', 'Binance': 'CHZUSDT', 'Coinbase': 'CHZ-USD', 'Crypto.com': 'CHZ_USDT',
+                'Kraken': 'CHZUSD', 'uzx.kr': 'chz_usdt'},
+    'GRTUSDT': {'Bybit': 'GRTUSDT', 'Binance': 'GRTUSDT', 'Coinbase': 'GRT-USD', 'Crypto.com': 'GRT_USDT',
+                'Kraken': 'GRTUSD', 'uzx.kr': 'grt_usdt'},
+    'MANAUSDT': {'Bybit': 'MANAUSDT', 'Binance': 'MANAUSDT', 'Coinbase': 'MANA-USD', 'Crypto.com': 'MANA_USDT',
+                 'Kraken': 'MANAUSD', 'uzx.kr': 'mana_usdt'},
+    'BATUSDT': {'Bybit': 'BATUSDT', 'Binance': 'BATUSDT', 'Coinbase': 'BAT-USD', 'Crypto.com': 'BAT_USDT',
+                'Kraken': 'BATUSD', 'uzx.kr': 'bat_usdt'},
+    'ZILUSDT': {'Bybit': 'ZILUSDT', 'Binance': 'ZILUSDT', 'Coinbase': 'ZIL-USD', 'Crypto.com': 'ZIL_USDT',
+                'Kraken': 'ZILUSD', 'uzx.kr': 'zil_usdt'},
+    'ENJUSDT': {'Bybit': 'ENJUSDT', 'Binance': 'ENJUSDT', 'Coinbase': 'ENJ-USD', 'Crypto.com': 'ENJ_USDT',
+                'Kraken': 'ENJUSD', 'uzx.kr': 'enj_usdt'},
+    'KSMUSDT': {'Bybit': 'KSMUSDT', 'Binance': 'KSMUSDT', 'Coinbase': 'KSM-USD', 'Crypto.com': 'KSM_USDT',
+                'Kraken': 'KSMUSD', 'uzx.kr': 'ksm_usdt'},
+    'NEARUSDT': {'Bybit': 'NEARUSDT', 'Binance': 'NEARUSDT', 'Coinbase': 'NEAR-USD', 'Crypto.com': 'NEAR_USDT',
+                 'Kraken': '', 'uzx.kr': 'near_usdt'}}
 
 def main():
     root = tk.Tk()
@@ -102,11 +136,13 @@ def main():
 
     coin_comboboxes = []
     for i in range(10):
-        combo = ttk.Combobox(table_frame, values=COINS)
+        combo = ttk.Combobox(table_frame, values=sorted(list(API_SYMBOL_MAPPINGS.keys())), state="readonly")
         combo.grid(row=i + 1, column=0, padx=5, pady=5)
         coin_comboboxes.append(combo)
         for j in range(1, len(labels)):
-            tk.Label(table_frame, text="").grid(row=i + 1, column=j, padx=10)
+            entry = tk.Entry(table_frame)
+            entry.grid(row=i + 1, column=j, padx=10)
+            entry.config(state='readonly')
 
     # Button erstellen
     button = tk.Button(root, text="Update prices", command=lambda: update_selected_prices(table_frame, coin_comboboxes))
@@ -116,7 +152,7 @@ def main():
     root.update_idletasks()
 
     # Breite und Höhe festlegen
-    width = sum(label.winfo_reqwidth() for label in table_frame.winfo_children()[:len(labels)]) + 400
+    width = sum(label.winfo_reqwidth() for label in table_frame.winfo_children()[:len(labels)]) + 700
     height = root.winfo_reqheight() + 60
     root.geometry(f"{width}x{height}")
 
@@ -130,8 +166,11 @@ def main():
 def update_selected_prices(table_frame, coin_comboboxes):
     def update_gui_with_prices(i, prices):
         for j, price in enumerate(prices):
-            label = tk.Label(table_frame, text=price)
-            label.grid(row=i + 1, column=j + 1, padx=10)
+            entry = table_frame.grid_slaves(row=i + 1, column=j + 1)[0]
+            entry.config(state='normal')
+            entry.delete(0, tk.END)
+            entry.insert(0, price)
+            entry.config(state='readonly')
 
     with ThreadPoolExecutor(max_workers=len(coin_comboboxes) * len(API_ENDPOINTS)) as executor:
         future_to_coin = {
@@ -143,42 +182,14 @@ def update_selected_prices(table_frame, coin_comboboxes):
             i = future_to_coin[future]
             try:
                 prices = future.result()
-                # GUI-Update im Hauptthread
                 table_frame.after(0, lambda i=i, prices=prices: update_gui_with_prices(i, prices))
             except Exception as e:
                 logging.error(f"Fehler bei der Verarbeitung von {i}: {e}")
 
-def create_table(root, coins, exchanges):
-    columns = ["Coin"] + list(exchanges)
-    table = ttk.Treeview(root, columns=columns, show="headings")
-    table.pack(expand=True, fill="both")
-
-    # Spaltenüberschriften setzen
-    for col in columns:
-        table.heading(col, text=col)
-        table.column(col, width=100, anchor="center")
-
-    # Daten in die Tabelle einfügen und Comboboxen für die Coin-Spalte hinzufügen
-    coin_comboboxes = []
-    for i in range(10):  # 10 Zeilen
-        combo = ttk.Combobox(table, values=COINS)
-        combo.pack(padx=5, pady=5)
-        table.insert("", "end", iid=f"row{i + 1}", values=[""] + [""] * len(exchanges))
-        table.set(f"row{i + 1}", "Coin", combo)
-        coin_comboboxes.append(combo)
-        table.update_idletasks()
-
-    return table
-
-
-def create_update_button(root, table):
-    button = tk.Button(root, text="Update prices", command=lambda: update_selected_prices(table))
-    button.pack()
-
 
 def fetch_prices_for_coin(coin):
     prices = []
-    with ThreadPoolExecutor(max_workers=5) as executor:  # Erhöhung der max_workers
+    with ThreadPoolExecutor(max_workers=5) as executor:
         futures = []
         for exchange in API_ENDPOINTS.keys():
             mapped_symbol = get_mapped_symbol(exchange, coin)
@@ -220,8 +231,6 @@ def parse_price_data(exchange, data, symbol):
 
 
 def get_uzx_price(coin):
-    chrome_driver_path = 'C:/Users/gross/chromedriver-win64/chromedriver.exe'
-
     # Chrome-Optionen (optional, falls du das Browser-Fenster nicht sehen möchtest)
     chrome_options = Options()
     chrome_options.add_argument("--headless")  # Kommentar entfernen, wenn du den Browser sehen möchtest
@@ -266,31 +275,8 @@ def get_uzx_price(coin):
         driver.quit()
 
 
-def update_prices(table):
-    with ThreadPoolExecutor(max_workers=len(COINS) * len(API_ENDPOINTS)) as executor:
-        future_to_coin = {
-            executor.submit(fetch_prices_for_coin, coin): coin for coin in COINS
-        }
-        for future in as_completed(future_to_coin):
-            coin = future_to_coin[future]
-            try:
-                prices = future.result()
-                table.item(coin, values=[coin] + prices)
-            except Exception as e:
-                logging.error(f"Fehler bei der Verarbeitung von {coin}: {e}")
-
-
 def get_mapped_symbol(exchange, coin):
-    if exchange == 'Kraken':
-        return KRAKEN_PAIRS.get(coin)
-    elif exchange == 'Coinbase':
-        return COINBASE_PAIRS.get(coin)
-    elif exchange == 'Crypto.com':
-        return CRYPTO_COM_PAIRS.get(coin)
-    elif exchange == 'uzx.kr':
-        return CRYPTO_COM_PAIRS.get(coin).lower()
-    else:
-        return coin
+    return API_SYMBOL_MAPPINGS[coin].get(exchange)
 
 
 if __name__ == "__main__":

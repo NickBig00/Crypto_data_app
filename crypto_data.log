@@ -1,0 +1,652 @@
+2024-08-13 17:45:06,603:INFO:Programm gestartet
+2024-08-13 17:45:15,638:INFO:Preis für BTCUSDT auf Bybit: 59452.38
+2024-08-13 17:45:16,011:INFO:Preis für BTCUSDT auf Binance: 59447.5
+2024-08-13 17:45:16,132:INFO:Preis für BTCUSDT auf Coinbase: 59480.735
+2024-08-13 17:45:16,620:INFO:Preis für BTCUSDT auf Crypto.com: 59462.91
+2024-08-13 17:45:16,756:INFO:Preis für BTCUSDT auf Kraken: 59452.4
+2024-08-13 17:45:17,283:INFO:Preis für ETHUSDT auf Bybit: 2649.8
+2024-08-13 17:45:17,643:INFO:Preis für ETHUSDT auf Binance: 2649.69
+2024-08-13 17:45:17,728:INFO:Preis für ETHUSDT auf Coinbase: 2649.5
+2024-08-13 17:45:18,156:INFO:Preis für ETHUSDT auf Crypto.com: 2648.99
+2024-08-13 17:45:18,269:INFO:Preis für ETHUSDT auf Kraken: 2650.81
+2024-08-13 17:45:18,479:INFO:Preis für LINKUSDT auf Bybit: 10.3131
+2024-08-13 17:45:18,769:INFO:Preis für LINKUSDT auf Binance: 10.32
+2024-08-13 17:45:18,960:INFO:Preis für LINKUSDT auf Coinbase: 10.316
+2024-08-13 17:45:19,385:INFO:Preis für LINKUSDT auf Crypto.com: 10.315
+2024-08-13 17:45:19,807:INFO:Preis für LINKUSDT auf Kraken: 10.3178
+2024-08-13 17:45:20,099:INFO:Preis für ETCUSDT auf Bybit: 18.89
+2024-08-13 17:45:20,373:INFO:Preis für ETCUSDT auf Binance: 18.88
+2024-08-13 17:45:20,615:INFO:Preis für ETCUSDT auf Coinbase: 18.87
+2024-08-13 17:45:21,024:INFO:Preis für ETCUSDT auf Crypto.com: 18.886
+2024-08-13 17:45:21,154:INFO:Preis für ETCUSDT auf Kraken: 18.891
+2024-08-13 17:45:21,431:INFO:Preis für FILUSDT auf Bybit: 3.673
+2024-08-13 17:45:21,738:INFO:Preis für FILUSDT auf Binance: 3.673
+2024-08-13 17:45:21,945:INFO:Preis für FILUSDT auf Coinbase: 3.67
+2024-08-13 17:45:22,456:INFO:Preis für FILUSDT auf Crypto.com: 3.6692
+2024-08-13 17:45:22,648:INFO:Preis für FILUSDT auf Kraken: 3.667
+2024-08-13 17:45:23,276:INFO:Preis für LTCUSDT auf Bybit: 62.69
+2024-08-13 17:45:23,581:INFO:Preis für LTCUSDT auf Binance: 62.69
+2024-08-13 17:45:24,096:INFO:Preis für LTCUSDT auf Coinbase: 62.71
+2024-08-13 17:45:24,508:INFO:Preis für LTCUSDT auf Crypto.com: 62.696
+2024-08-13 17:45:24,882:INFO:Preis für LTCUSDT auf Kraken: 62.69
+2024-08-13 17:45:25,429:INFO:Preis für AAVEUSDT auf Bybit: 94.8451
+2024-08-13 17:45:25,732:INFO:Preis für AAVEUSDT auf Binance: 94.87
+2024-08-13 17:45:26,041:INFO:Preis für AAVEUSDT auf Coinbase: 95.0
+2024-08-13 17:45:26,450:INFO:Preis für AAVEUSDT auf Crypto.com: 94.917
+2024-08-13 17:45:26,628:INFO:Preis für AAVEUSDT auf Kraken: 95.01
+2024-08-13 17:45:27,153:INFO:Preis für UNIUSDT auf Bybit: 6.2165
+2024-08-13 17:45:27,474:INFO:Preis für UNIUSDT auf Binance: 6.216
+2024-08-13 17:45:27,782:INFO:Preis für UNIUSDT auf Coinbase: 6.222
+2024-08-13 17:45:28,211:INFO:Preis für UNIUSDT auf Crypto.com: 6.2204
+2024-08-13 17:45:28,518:INFO:Preis für UNIUSDT auf Kraken: 6.211
+2024-08-13 17:45:28,732:INFO:Preis für DOGEUSDT auf Bybit: 0.10517
+2024-08-13 17:45:29,112:INFO:Preis für DOGEUSDT auf Binance: 0.10517
+2024-08-13 17:45:29,624:INFO:Preis für DOGEUSDT auf Coinbase: 0.10525
+2024-08-13 17:45:30,035:INFO:Preis für DOGEUSDT auf Crypto.com: 0.105204
+2024-08-13 17:45:30,164:INFO:Preis für DOGEUSDT auf Kraken: 0.1052356
+2024-08-13 17:45:30,749:INFO:Preis für 1INCHUSDT auf Bybit: 0.2566
+2024-08-13 17:45:31,058:INFO:Preis für 1INCHUSDT auf Binance: 0.2566
+2024-08-13 17:45:31,263:INFO:Preis für 1INCHUSDT auf Coinbase: 0.2565
+2024-08-13 17:45:31,608:INFO:Preis für 1INCHUSDT auf Crypto.com: 0.25662
+2024-08-13 17:45:31,744:INFO:Preis für 1INCHUSDT auf Kraken: 0.256
+2024-08-13 17:45:32,081:INFO:Preis für BTCUSDT auf Bybit: 59414.62
+2024-08-13 17:45:32,388:INFO:Preis für BTCUSDT auf Binance: 59412.91
+2024-08-13 17:45:32,484:INFO:Preis für BTCUSDT auf Coinbase: 59474.205
+2024-08-13 17:45:32,864:INFO:Preis für BTCUSDT auf Crypto.com: 59462.91
+2024-08-13 17:45:33,008:INFO:Preis für BTCUSDT auf Kraken: 59461.8
+2024-08-13 17:45:33,310:INFO:Preis für ETHUSDT auf Bybit: 2648.37
+2024-08-13 17:45:33,618:INFO:Preis für ETHUSDT auf Binance: 2648.31
+2024-08-13 17:45:33,687:INFO:Preis für ETHUSDT auf Coinbase: 2650.465
+2024-08-13 17:45:34,131:INFO:Preis für ETHUSDT auf Crypto.com: 2648.99
+2024-08-13 17:45:34,223:INFO:Preis für ETHUSDT auf Kraken: 2650.81
+2024-08-13 17:45:34,846:INFO:Preis für LINKUSDT auf Bybit: 10.3087
+2024-08-13 17:45:35,153:INFO:Preis für LINKUSDT auf Binance: 10.31
+2024-08-13 17:45:35,359:INFO:Preis für LINKUSDT auf Coinbase: 10.3105
+2024-08-13 17:45:35,768:INFO:Preis für LINKUSDT auf Crypto.com: 10.315
+2024-08-13 17:45:35,900:INFO:Preis für LINKUSDT auf Kraken: 10.3178
+2024-08-13 17:45:36,178:INFO:Preis für ETCUSDT auf Bybit: 18.88
+2024-08-13 17:45:36,456:INFO:Preis für ETCUSDT auf Binance: 18.88
+2024-08-13 17:45:36,691:INFO:Preis für ETCUSDT auf Coinbase: 18.87
+2024-08-13 17:45:37,114:INFO:Preis für ETCUSDT auf Crypto.com: 18.886
+2024-08-13 17:45:37,419:INFO:Preis für ETCUSDT auf Kraken: 18.891
+2024-08-13 17:45:37,714:INFO:Preis für FILUSDT auf Bybit: 3.672
+2024-08-13 17:45:38,025:INFO:Preis für FILUSDT auf Binance: 3.673
+2024-08-13 17:45:38,537:INFO:Preis für FILUSDT auf Coinbase: 3.67
+2024-08-13 17:45:38,944:INFO:Preis für FILUSDT auf Crypto.com: 3.6692
+2024-08-13 17:45:39,091:INFO:Preis für FILUSDT auf Kraken: 3.667
+2024-08-13 17:45:39,352:INFO:Preis für LTCUSDT auf Bybit: 62.68
+2024-08-13 17:45:39,870:INFO:Preis für LTCUSDT auf Binance: 62.67
+2024-08-13 17:45:40,172:INFO:Preis für LTCUSDT auf Coinbase: 62.72
+2024-08-13 17:45:40,585:INFO:Preis für LTCUSDT auf Crypto.com: 62.696
+2024-08-13 17:45:40,693:INFO:Preis für LTCUSDT auf Kraken: 62.69
+2024-08-13 17:45:40,991:INFO:Preis für AAVEUSDT auf Bybit: 94.9132
+2024-08-13 17:45:41,298:INFO:Preis für AAVEUSDT auf Binance: 94.87
+2024-08-13 17:46:37,157:INFO:Programm gestartet
+2024-08-13 17:46:37,503:INFO:Preis für BTCUSDT auf Bybit: 59531.36
+2024-08-13 17:46:37,926:INFO:Preis für BTCUSDT auf Binance: 59517.53
+2024-08-13 17:46:38,435:INFO:Preis für BTCUSDT auf Coinbase: 59527.235
+2024-08-13 17:46:38,845:INFO:Preis für BTCUSDT auf Crypto.com: 59457.98
+2024-08-13 17:46:39,062:INFO:Preis für BTCUSDT auf Kraken: 59544.3
+2024-08-13 17:46:39,361:INFO:Preis für ETHUSDT auf Bybit: 2652.33
+2024-08-13 17:46:39,772:INFO:Preis für ETHUSDT auf Binance: 2652.32
+2024-08-13 17:46:39,884:INFO:Preis für ETHUSDT auf Coinbase: 2653.765
+2024-08-13 17:46:40,391:INFO:Preis für ETHUSDT auf Crypto.com: 2651.03
+2024-08-13 17:46:40,629:INFO:Preis für ETHUSDT auf Kraken: 2651.48
+2024-08-13 17:46:40,842:INFO:Preis für LINKUSDT auf Bybit: 10.3275
+2024-08-13 17:46:41,203:INFO:Preis für LINKUSDT auf Binance: 10.33
+2024-08-13 17:46:41,412:INFO:Preis für LINKUSDT auf Coinbase: 10.33
+2024-08-13 17:46:41,922:INFO:Preis für LINKUSDT auf Crypto.com: 10.309
+2024-08-13 17:46:42,053:INFO:Preis für LINKUSDT auf Kraken: 10.3178
+2024-08-13 17:46:42,269:INFO:Preis für ETCUSDT auf Bybit: 18.9
+2024-08-13 17:46:42,636:INFO:Preis für ETCUSDT auf Binance: 18.9
+2024-08-13 17:46:43,068:INFO:Preis für ETCUSDT auf Coinbase: 18.87
+2024-08-13 17:46:43,461:INFO:Preis für ETCUSDT auf Crypto.com: 18.883
+2024-08-13 17:46:43,618:INFO:Preis für ETCUSDT auf Kraken: 18.891
+2024-08-13 17:46:44,173:INFO:Preis für FILUSDT auf Bybit: 3.673
+2024-08-13 17:46:44,482:INFO:Preis für FILUSDT auf Binance: 3.678
+2024-08-13 17:46:44,993:INFO:Preis für FILUSDT auf Coinbase: 3.677
+2024-08-13 17:46:45,500:INFO:Preis für FILUSDT auf Crypto.com: 3.6711
+2024-08-13 17:46:45,625:INFO:Preis für FILUSDT auf Kraken: 3.667
+2024-08-13 17:46:45,918:INFO:Preis für LTCUSDT auf Bybit: 62.69
+2024-08-13 17:46:46,333:INFO:Preis für LTCUSDT auf Binance: 62.71
+2024-08-13 17:46:46,940:INFO:Preis für LTCUSDT auf Coinbase: 62.68
+2024-08-13 17:46:47,344:INFO:Preis für LTCUSDT auf Crypto.com: 62.687
+2024-08-13 17:46:47,515:INFO:Preis für LTCUSDT auf Kraken: 62.7
+2024-08-13 17:46:48,165:INFO:Preis für AAVEUSDT auf Bybit: 95.0481
+2024-08-13 17:46:48,507:INFO:Preis für AAVEUSDT auf Binance: 95.06
+2024-08-13 17:46:49,040:INFO:Preis für AAVEUSDT auf Coinbase: 95.0
+2024-08-13 17:46:49,504:INFO:Preis für AAVEUSDT auf Crypto.com: 94.917
+2024-08-13 17:46:49,646:INFO:Preis für AAVEUSDT auf Kraken: 95.07
+2024-08-13 17:46:50,217:INFO:Preis für UNIUSDT auf Bybit: 6.2165
+2024-08-13 17:46:50,520:INFO:Preis für UNIUSDT auf Binance: 6.224
+2024-08-13 17:46:50,731:INFO:Preis für UNIUSDT auf Coinbase: 6.2225
+2024-08-13 17:46:51,136:INFO:Preis für UNIUSDT auf Crypto.com: 6.2185
+2024-08-13 17:46:51,247:INFO:Preis für UNIUSDT auf Kraken: 6.227
+2024-08-13 17:46:51,548:INFO:Preis für DOGEUSDT auf Bybit: 0.10533
+2024-08-13 17:46:51,852:INFO:Preis für DOGEUSDT auf Binance: 0.10534
+2024-08-13 17:46:51,938:INFO:Preis für DOGEUSDT auf Coinbase: 0.10533
+2024-08-13 17:46:52,369:INFO:Preis für DOGEUSDT auf Crypto.com: 0.105155
+2024-08-13 17:46:52,503:INFO:Preis für DOGEUSDT auf Kraken: 0.1052592
+2024-08-13 17:46:52,769:INFO:Preis für 1INCHUSDT auf Bybit: 0.2568
+2024-08-13 17:46:53,084:INFO:Preis für 1INCHUSDT auf Binance: 0.2569
+2024-08-13 17:46:53,593:INFO:Preis für 1INCHUSDT auf Coinbase: 0.2565
+2024-08-13 17:46:53,968:INFO:Preis für 1INCHUSDT auf Crypto.com: 0.25684
+2024-08-13 17:46:54,202:INFO:Preis für 1INCHUSDT auf Kraken: 0.256
+2024-08-13 17:47:02,312:INFO:Programm gestartet
+2024-08-13 17:47:05,198:INFO:Preis für BTCUSDT auf Bybit: 59516.37
+2024-08-13 17:47:05,535:INFO:Preis für BTCUSDT auf Binance: 59517.5
+2024-08-13 17:47:05,663:INFO:Preis für BTCUSDT auf Coinbase: 59540.985
+2024-08-13 17:47:06,088:INFO:Preis für BTCUSDT auf Crypto.com: 59526.54
+2024-08-13 17:47:06,203:INFO:Preis für BTCUSDT auf Kraken: 59544.4
+2024-08-13 17:47:06,497:INFO:Preis für ETHUSDT auf Bybit: 2653.33
+2024-08-13 17:47:06,779:INFO:Preis für ETHUSDT auf Binance: 2653.35
+2024-08-13 17:47:06,869:INFO:Preis für ETHUSDT auf Coinbase: 2654.36
+2024-08-13 17:47:07,219:INFO:Preis für ETHUSDT auf Crypto.com: 2654.6
+2024-08-13 17:47:07,319:INFO:Preis für ETHUSDT auf Kraken: 2654.66
+2024-08-13 17:47:07,624:INFO:Preis für LINKUSDT auf Bybit: 10.3363
+2024-08-13 17:47:07,930:INFO:Preis für LINKUSDT auf Binance: 10.33
+2024-08-13 17:47:08,137:INFO:Preis für LINKUSDT auf Coinbase: 10.34
+2024-08-13 17:47:08,547:INFO:Preis für LINKUSDT auf Crypto.com: 10.337
+2024-08-13 17:47:08,643:INFO:Preis für LINKUSDT auf Kraken: 10.34617
+2024-08-13 17:47:08,856:INFO:Preis für ETCUSDT auf Bybit: 18.91
+2024-08-13 17:47:09,143:INFO:Preis für ETCUSDT auf Binance: 18.9
+2024-08-13 17:47:09,775:INFO:Preis für ETCUSDT auf Coinbase: 18.87
+2024-08-13 17:47:10,183:INFO:Preis für ETCUSDT auf Crypto.com: 18.906
+2024-08-13 17:47:10,339:INFO:Preis für ETCUSDT auf Kraken: 18.891
+2024-08-13 17:47:10,596:INFO:Preis für FILUSDT auf Bybit: 3.673
+2024-08-13 17:47:10,899:INFO:Preis für FILUSDT auf Binance: 3.676
+2024-08-13 17:47:11,106:INFO:Preis für FILUSDT auf Coinbase: 3.677
+2024-08-13 17:47:11,479:INFO:Preis für FILUSDT auf Crypto.com: 3.6758
+2024-08-13 17:47:11,664:INFO:Preis für FILUSDT auf Kraken: 3.667
+2024-08-13 17:47:11,931:INFO:Preis für LTCUSDT auf Bybit: 62.74
+2024-08-13 17:47:12,336:INFO:Preis für LTCUSDT auf Binance: 62.77
+2024-08-13 17:47:12,846:INFO:Preis für LTCUSDT auf Coinbase: 62.78
+2024-08-13 17:47:13,358:INFO:Preis für LTCUSDT auf Crypto.com: 62.727
+2024-08-13 17:47:13,543:INFO:Preis für LTCUSDT auf Kraken: 62.71
+2024-08-13 17:47:13,869:INFO:Preis für AAVEUSDT auf Bybit: 95.0481
+2024-08-13 17:47:14,176:INFO:Preis für AAVEUSDT auf Binance: 95.08
+2024-08-13 17:47:14,636:INFO:Preis für AAVEUSDT auf Coinbase: 95.0
+2024-08-13 17:47:14,998:INFO:Preis für AAVEUSDT auf Crypto.com: 95.097
+2024-08-13 17:47:15,187:INFO:Preis für AAVEUSDT auf Kraken: 95.07
+2024-08-13 17:47:15,509:INFO:Preis für UNIUSDT auf Bybit: 6.2165
+2024-08-13 17:47:16,327:INFO:Preis für UNIUSDT auf Binance: 6.224
+2024-08-13 17:47:16,534:INFO:Preis für UNIUSDT auf Coinbase: 6.227
+2024-08-13 17:47:16,942:INFO:Preis für UNIUSDT auf Crypto.com: 6.2248
+2024-08-13 17:47:17,063:INFO:Preis für UNIUSDT auf Kraken: 6.227
+2024-08-13 17:47:17,351:INFO:Preis für DOGEUSDT auf Bybit: 0.10534
+2024-08-13 17:47:17,658:INFO:Preis für DOGEUSDT auf Binance: 0.10535
+2024-08-13 17:47:17,757:INFO:Preis für DOGEUSDT auf Coinbase: 0.105375
+2024-08-13 17:47:18,112:INFO:Preis für DOGEUSDT auf Crypto.com: 0.105336
+2024-08-13 17:47:18,254:INFO:Preis für DOGEUSDT auf Kraken: 0.1052592
+2024-08-13 17:47:18,888:INFO:Preis für 1INCHUSDT auf Bybit: 0.2571
+2024-08-13 17:47:19,195:INFO:Preis für 1INCHUSDT auf Binance: 0.2569
+2024-08-13 17:47:19,708:INFO:Preis für 1INCHUSDT auf Coinbase: 0.2565
+2024-08-13 17:47:20,118:INFO:Preis für 1INCHUSDT auf Crypto.com: 0.25694
+2024-08-13 17:47:20,229:INFO:Preis für 1INCHUSDT auf Kraken: 0.256
+2024-08-13 17:47:26,159:INFO:Programm gestartet
+2024-08-13 17:49:47,494:INFO:Programm gestartet
+2024-08-13 17:49:47,886:INFO:Preis für BTCUSDT auf Bybit: 59488.37
+2024-08-13 17:49:48,294:INFO:Preis für BTCUSDT auf Binance: 59476.91
+2024-08-13 17:49:48,807:INFO:Preis für BTCUSDT auf Coinbase: 59500.275
+2024-08-13 17:49:49,218:INFO:Preis für BTCUSDT auf Crypto.com: 59507.44
+2024-08-13 17:49:49,334:INFO:Preis für BTCUSDT auf Kraken: 59489.0
+2024-08-13 17:49:49,629:INFO:Preis für ETHUSDT auf Bybit: 2651.52
+2024-08-13 17:49:49,903:INFO:Preis für ETHUSDT auf Binance: 2651.49
+2024-08-13 17:49:49,994:INFO:Preis für ETHUSDT auf Coinbase: 2651.11
+2024-08-13 17:49:50,372:INFO:Preis für ETHUSDT auf Crypto.com: 2652.92
+2024-08-13 17:49:50,475:INFO:Preis für ETHUSDT auf Kraken: 2652.93
+2024-08-13 17:49:50,753:INFO:Preis für LINKUSDT auf Bybit: 10.3219
+2024-08-13 17:49:51,061:INFO:Preis für LINKUSDT auf Binance: 10.32
+2024-08-13 17:49:51,578:INFO:Preis für LINKUSDT auf Coinbase: 10.323
+2024-08-13 17:49:52,192:INFO:Preis für LINKUSDT auf Crypto.com: 10.326
+2024-08-13 17:49:52,391:INFO:Preis für LINKUSDT auf Kraken: 10.34617
+2024-08-13 17:49:52,701:INFO:Preis für ETCUSDT auf Bybit: 18.9
+2024-08-13 17:49:53,005:INFO:Preis für ETCUSDT auf Binance: 18.89
+2024-08-13 17:49:53,211:INFO:Preis für ETCUSDT auf Coinbase: 18.905
+2024-08-13 17:49:53,621:INFO:Preis für ETCUSDT auf Crypto.com: 18.903
+2024-08-13 17:49:53,960:INFO:Preis für ETCUSDT auf Kraken: 18.891
+2024-08-13 17:49:54,209:INFO:Preis für FILUSDT auf Bybit: 3.681
+2024-08-13 17:49:54,674:INFO:Preis für FILUSDT auf Binance: 3.682
+2024-08-13 17:49:55,155:INFO:Preis für FILUSDT auf Coinbase: 3.6805
+2024-08-13 17:49:55,504:INFO:Preis für FILUSDT auf Crypto.com: 3.6781
+2024-08-13 17:49:55,600:INFO:Preis für FILUSDT auf Kraken: 3.667
+2024-08-13 17:49:55,814:INFO:Preis für LTCUSDT auf Bybit: 62.86
+2024-08-13 17:49:56,180:INFO:Preis für LTCUSDT auf Binance: 62.87
+2024-08-13 17:49:56,717:INFO:Preis für LTCUSDT auf Coinbase: 62.895
+2024-08-13 17:49:57,205:INFO:Preis für LTCUSDT auf Crypto.com: 62.942
+2024-08-13 17:49:57,524:INFO:Preis für LTCUSDT auf Kraken: 62.85
+2024-08-13 17:49:57,818:INFO:Preis für AAVEUSDT auf Bybit: 95.0767
+2024-08-13 17:49:58,125:INFO:Preis für AAVEUSDT auf Binance: 95.03
+2024-08-13 17:49:58,200:INFO:Preis für AAVEUSDT auf Coinbase: 95.0
+2024-08-13 17:49:58,641:INFO:Preis für AAVEUSDT auf Crypto.com: 95.076
+2024-08-13 17:49:58,787:INFO:Preis für AAVEUSDT auf Kraken: 95.07
+2024-08-13 17:49:59,048:INFO:Preis für UNIUSDT auf Bybit: 6.2119
+2024-08-13 17:49:59,378:INFO:Preis für UNIUSDT auf Binance: 6.214
+2024-08-13 17:49:59,678:INFO:Preis für UNIUSDT auf Coinbase: 6.2155
+2024-08-13 17:50:00,072:INFO:Preis für UNIUSDT auf Crypto.com: 6.2145
+2024-08-13 17:50:00,211:INFO:Preis für UNIUSDT auf Kraken: 6.227
+2024-08-13 17:50:00,420:INFO:Preis für DOGEUSDT auf Bybit: 0.10524
+2024-08-13 17:50:00,792:INFO:Preis für DOGEUSDT auf Binance: 0.10526
+2024-08-13 17:50:00,869:INFO:Preis für DOGEUSDT auf Coinbase: 0.10526
+2024-08-13 17:50:01,403:INFO:Preis für DOGEUSDT auf Crypto.com: 0.105223
+2024-08-13 17:50:01,531:INFO:Preis für DOGEUSDT auf Kraken: 0.1052837
+2024-08-13 17:50:01,813:INFO:Preis für 1INCHUSDT auf Bybit: 0.2571
+2024-08-13 17:50:02,120:INFO:Preis für 1INCHUSDT auf Binance: 0.257
+2024-08-13 17:50:02,635:INFO:Preis für 1INCHUSDT auf Coinbase: 0.2565
+2024-08-13 17:50:03,059:INFO:Preis für 1INCHUSDT auf Crypto.com: 0.25675
+2024-08-13 17:50:03,267:INFO:Preis für 1INCHUSDT auf Kraken: 0.256
+2024-08-13 17:56:05,895:INFO:Programm gestartet
+2024-08-13 17:56:06,268:INFO:Preis für BTCUSDT auf Bybit: 59470.3
+2024-08-13 17:56:06,678:INFO:Preis für BTCUSDT auf Binance: 59467.01
+2024-08-13 17:56:06,870:INFO:Preis für BTCUSDT auf Coinbase: 59475.54
+2024-08-13 17:56:07,291:INFO:Preis für BTCUSDT auf Crypto.com: 59460.57
+2024-08-13 17:56:07,497:INFO:Preis für BTCUSDT auf Kraken: 59491.9
+2024-08-13 17:56:07,719:INFO:Preis für ETHUSDT auf Bybit: 2651.0
+2024-08-13 17:56:08,016:INFO:Preis für ETHUSDT auf Binance: 2650.71
+2024-08-13 17:56:08,522:INFO:Preis für ETHUSDT auf Coinbase: 2650.995
+2024-08-13 17:56:08,931:INFO:Preis für ETHUSDT auf Crypto.com: 2650.5
+2024-08-13 17:56:09,036:INFO:Preis für ETHUSDT auf Kraken: 2650.0
+2024-08-13 17:56:09,339:INFO:Preis für LINKUSDT auf Bybit: 10.3049
+2024-08-13 17:56:09,647:INFO:Preis für LINKUSDT auf Binance: 10.3
+2024-08-13 17:56:09,917:INFO:Preis für LINKUSDT auf Coinbase: 10.3165
+2024-08-13 17:56:10,365:INFO:Preis für LINKUSDT auf Crypto.com: 10.304
+2024-08-13 17:56:10,684:INFO:Preis für LINKUSDT auf Kraken: 10.31663
+2024-08-13 17:56:11,285:INFO:Preis für ETCUSDT auf Bybit: 18.89
+2024-08-13 17:56:11,592:INFO:Preis für ETCUSDT auf Binance: 18.87
+2024-08-13 17:56:12,007:INFO:Preis für ETCUSDT auf Coinbase: 18.905
+2024-08-13 17:56:12,414:INFO:Preis für ETCUSDT auf Crypto.com: 18.873
+2024-08-13 17:56:12,581:INFO:Preis für ETCUSDT auf Kraken: 18.911
+2024-08-13 17:56:12,924:INFO:Preis für FILUSDT auf Bybit: 3.681
+2024-08-13 17:56:13,235:INFO:Preis für FILUSDT auf Binance: 3.678
+2024-08-13 17:56:13,414:INFO:Preis für FILUSDT auf Coinbase: 3.6775
+2024-08-13 17:56:13,781:INFO:Preis für FILUSDT auf Crypto.com: 3.6761
+2024-08-13 17:56:13,864:INFO:Preis für FILUSDT auf Kraken: 3.679
+2024-08-13 17:56:14,183:INFO:Preis für LTCUSDT auf Bybit: 63.04
+2024-08-13 17:56:14,575:INFO:Preis für LTCUSDT auf Binance: 63.05
+2024-08-13 17:56:15,075:INFO:Preis für LTCUSDT auf Coinbase: 63.03
+2024-08-13 17:56:15,486:INFO:Preis für LTCUSDT auf Crypto.com: 63.02
+2024-08-13 17:56:15,585:INFO:Preis für LTCUSDT auf Kraken: 63.01
+2024-08-13 17:56:15,884:INFO:Preis für AAVEUSDT auf Bybit: 94.9885
+2024-08-13 17:56:16,200:INFO:Preis für AAVEUSDT auf Binance: 95.06
+2024-08-13 17:56:16,760:INFO:Preis für AAVEUSDT auf Coinbase: 94.975
+2024-08-13 17:56:17,226:INFO:Preis für AAVEUSDT auf Crypto.com: 95.072
+2024-08-13 17:56:17,391:INFO:Preis für AAVEUSDT auf Kraken: 95.06
+2024-08-13 17:56:18,044:INFO:Preis für UNIUSDT auf Bybit: 6.2104
+2024-08-13 17:56:18,351:INFO:Preis für UNIUSDT auf Binance: 6.21
+2024-08-13 17:56:18,865:INFO:Preis für UNIUSDT auf Coinbase: 6.212
+2024-08-13 17:56:19,273:INFO:Preis für UNIUSDT auf Crypto.com: 6.2075
+2024-08-13 17:56:19,409:INFO:Preis für UNIUSDT auf Kraken: 6.209
+2024-08-13 17:56:19,654:INFO:Preis für DOGEUSDT auf Bybit: 0.10515
+2024-08-13 17:56:19,989:INFO:Preis für DOGEUSDT auf Binance: 0.10514
+2024-08-13 17:56:20,195:INFO:Preis für DOGEUSDT auf Coinbase: 0.105185
+2024-08-13 17:56:20,604:INFO:Preis für DOGEUSDT auf Crypto.com: 0.105096
+2024-08-13 17:56:20,774:INFO:Preis für DOGEUSDT auf Kraken: 0.1051094
+2024-08-13 17:56:21,013:INFO:Preis für 1INCHUSDT auf Bybit: 0.2566
+2024-08-13 17:56:21,424:INFO:Preis für 1INCHUSDT auf Binance: 0.2564
+2024-08-13 17:56:21,852:INFO:Preis für 1INCHUSDT auf Coinbase: 0.2565
+2024-08-13 17:56:22,245:INFO:Preis für 1INCHUSDT auf Crypto.com: 0.25638
+2024-08-13 17:56:22,362:INFO:Preis für 1INCHUSDT auf Kraken: 0.256
+2024-08-13 17:56:31,356:INFO:Preis für BTCUSDT auf Bybit: 59487.19
+2024-08-13 17:56:31,664:INFO:Preis für BTCUSDT auf Binance: 59481.66
+2024-08-13 17:56:31,745:INFO:Preis für BTCUSDT auf Coinbase: 59494.2
+2024-08-13 17:56:32,176:INFO:Preis für BTCUSDT auf Crypto.com: 59460.57
+2024-08-13 17:56:32,301:INFO:Preis für BTCUSDT auf Kraken: 59503.6
+2024-08-13 17:56:32,586:INFO:Preis für ETHUSDT auf Bybit: 2652.09
+2024-08-13 17:56:32,892:INFO:Preis für ETHUSDT auf Binance: 2652.0
+2024-08-13 17:56:33,201:INFO:Preis für ETHUSDT auf Coinbase: 2652.045
+2024-08-13 17:56:33,612:INFO:Preis für ETHUSDT auf Crypto.com: 2650.5
+2024-08-13 17:56:33,710:INFO:Preis für ETHUSDT auf Kraken: 2650.0
+2024-08-13 17:56:33,931:INFO:Preis für LINKUSDT auf Bybit: 10.3077
+2024-08-13 17:56:34,223:INFO:Preis für LINKUSDT auf Binance: 10.31
+2024-08-13 17:56:34,535:INFO:Preis für LINKUSDT auf Coinbase: 10.302
+2024-08-13 17:56:35,044:INFO:Preis für LINKUSDT auf Crypto.com: 10.304
+2024-08-13 17:56:35,376:INFO:Preis für LINKUSDT auf Kraken: 10.31663
+2024-08-13 17:56:35,657:INFO:Preis für ETCUSDT auf Bybit: 18.89
+2024-08-13 17:56:36,271:INFO:Preis für ETCUSDT auf Binance: 18.87
+2024-08-13 17:56:36,707:INFO:Preis für ETCUSDT auf Coinbase: 18.905
+2024-08-13 17:56:37,111:INFO:Preis für ETCUSDT auf Crypto.com: 18.873
+2024-08-13 17:56:37,456:INFO:Preis für ETCUSDT auf Kraken: 18.911
+2024-08-13 17:56:37,727:INFO:Preis für FILUSDT auf Bybit: 3.681
+2024-08-13 17:56:38,114:INFO:Preis für FILUSDT auf Binance: 3.679
+2024-08-13 17:56:38,628:INFO:Preis für FILUSDT auf Coinbase: 3.68
+2024-08-13 17:56:39,026:INFO:Preis für FILUSDT auf Crypto.com: 3.6761
+2024-08-13 17:56:39,109:INFO:Preis für FILUSDT auf Kraken: 3.679
+2024-08-13 17:56:39,664:INFO:Preis für LTCUSDT auf Bybit: 63.1
+2024-08-13 17:56:40,063:INFO:Preis für LTCUSDT auf Binance: 63.1
+2024-08-13 17:56:40,265:INFO:Preis für LTCUSDT auf Coinbase: 63.075
+2024-08-13 17:56:41,700:INFO:Preis für LTCUSDT auf Crypto.com: 63.02
+2024-08-13 17:56:41,833:INFO:Preis für LTCUSDT auf Kraken: 63.07
+2024-08-13 17:56:42,050:INFO:Preis für AAVEUSDT auf Bybit: 94.9885
+2024-08-13 17:56:42,354:INFO:Preis für AAVEUSDT auf Binance: 95.17
+2024-08-13 17:56:42,438:INFO:Preis für AAVEUSDT auf Coinbase: 94.975
+2024-08-13 17:56:42,829:INFO:Preis für AAVEUSDT auf Crypto.com: 95.072
+2024-08-13 17:56:43,151:INFO:Preis für AAVEUSDT auf Kraken: 95.06
+2024-08-13 17:56:43,365:INFO:Preis für UNIUSDT auf Bybit: 6.2104
+2024-08-13 17:56:43,749:INFO:Preis für UNIUSDT auf Binance: 6.214
+2024-08-13 17:56:44,056:INFO:Preis für UNIUSDT auf Coinbase: 6.212
+2024-08-13 17:56:44,465:INFO:Preis für UNIUSDT auf Crypto.com: 6.2075
+2024-08-13 17:56:44,639:INFO:Preis für UNIUSDT auf Kraken: 6.209
+2024-08-13 17:56:45,236:INFO:Preis für DOGEUSDT auf Bybit: 0.10518
+2024-08-13 17:56:45,926:INFO:Preis für DOGEUSDT auf Binance: 0.10517
+2024-08-13 17:56:46,218:INFO:Preis für DOGEUSDT auf Coinbase: 0.105205
+2024-08-13 17:56:46,615:INFO:Preis für DOGEUSDT auf Crypto.com: 0.105096
+2024-08-13 17:56:46,943:INFO:Preis für DOGEUSDT auf Kraken: 0.1051094
+2024-08-13 17:56:47,531:INFO:Preis für 1INCHUSDT auf Bybit: 0.2566
+2024-08-13 17:56:47,946:INFO:Preis für 1INCHUSDT auf Binance: 0.2564
+2024-08-13 17:56:48,458:INFO:Preis für 1INCHUSDT auf Coinbase: 0.2565
+2024-08-13 17:56:48,897:INFO:Preis für 1INCHUSDT auf Crypto.com: 0.25638
+2024-08-13 17:56:49,162:INFO:Preis für 1INCHUSDT auf Kraken: 0.256
+2024-08-13 17:56:52,860:INFO:Preis für BTCUSDT auf Bybit: 59495.51
+2024-08-13 17:56:53,475:INFO:Preis für BTCUSDT auf Binance: 59488.83
+2024-08-13 17:56:53,571:INFO:Preis für BTCUSDT auf Coinbase: 59511.685
+2024-08-13 17:56:53,991:INFO:Preis für BTCUSDT auf Crypto.com: 59460.57
+2024-08-13 17:56:54,410:INFO:Preis für BTCUSDT auf Kraken: 59513.2
+2024-08-13 17:56:54,703:INFO:Preis für ETHUSDT auf Bybit: 2652.53
+2024-08-13 17:56:54,997:INFO:Preis für ETHUSDT auf Binance: 2652.19
+2024-08-13 17:56:55,076:INFO:Preis für ETHUSDT auf Coinbase: 2653.095
+2024-08-13 17:56:55,430:INFO:Preis für ETHUSDT auf Crypto.com: 2650.5
+2024-08-13 17:56:55,627:INFO:Preis für ETHUSDT auf Kraken: 2650.71
+2024-08-13 17:56:55,932:INFO:Preis für LINKUSDT auf Bybit: 10.3072
+2024-08-13 17:56:56,240:INFO:Preis für LINKUSDT auf Binance: 10.31
+2024-08-13 17:56:56,446:INFO:Preis für LINKUSDT auf Coinbase: 10.309
+2024-08-13 17:56:56,860:INFO:Preis für LINKUSDT auf Crypto.com: 10.304
+2024-08-13 17:56:56,966:INFO:Preis für LINKUSDT auf Kraken: 10.31663
+2024-08-13 17:56:57,264:INFO:Preis für ETCUSDT auf Bybit: 18.9
+2024-08-13 17:56:57,572:INFO:Preis für ETCUSDT auf Binance: 18.89
+2024-08-13 17:56:58,086:INFO:Preis für ETCUSDT auf Coinbase: 18.905
+2024-08-13 17:56:58,495:INFO:Preis für ETCUSDT auf Crypto.com: 18.873
+2024-08-13 17:56:58,631:INFO:Preis für ETCUSDT auf Kraken: 18.911
+2024-08-13 17:56:58,904:INFO:Preis für FILUSDT auf Bybit: 3.681
+2024-08-13 17:56:59,210:INFO:Preis für FILUSDT auf Binance: 3.679
+2024-08-13 17:56:59,293:INFO:Preis für FILUSDT auf Coinbase: 3.68
+2024-08-13 17:56:59,727:INFO:Preis für FILUSDT auf Crypto.com: 3.6788
+2024-08-13 17:56:59,878:INFO:Preis für FILUSDT auf Kraken: 3.679
+2024-08-13 17:57:00,234:INFO:Preis für LTCUSDT auf Bybit: 63.06
+2024-08-13 17:57:00,907:INFO:Preis für LTCUSDT auf Binance: 63.06
+2024-08-13 17:57:00,997:INFO:Preis für LTCUSDT auf Coinbase: 63.11
+2024-08-13 17:57:01,362:INFO:Preis für LTCUSDT auf Crypto.com: 63.093
+2024-08-13 17:57:01,523:INFO:Preis für LTCUSDT auf Kraken: 63.07
+2024-08-13 17:57:02,180:INFO:Preis für AAVEUSDT auf Bybit: 94.9885
+2024-08-13 17:57:02,589:INFO:Preis für AAVEUSDT auf Binance: 95.07
+2024-08-13 17:57:03,120:INFO:Preis für AAVEUSDT auf Coinbase: 94.975
+2024-08-13 17:57:03,483:INFO:Preis für AAVEUSDT auf Crypto.com: 95.09
+2024-08-13 17:57:03,638:INFO:Preis für AAVEUSDT auf Kraken: 95.06
+2024-08-13 17:57:03,873:INFO:Preis für UNIUSDT auf Bybit: 6.2104
+2024-08-13 17:57:04,331:INFO:Preis für UNIUSDT auf Binance: 6.217
+2024-08-13 17:57:04,536:INFO:Preis für UNIUSDT auf Coinbase: 6.212
+2024-08-13 17:57:04,907:INFO:Preis für UNIUSDT auf Crypto.com: 6.2165
+2024-08-13 17:57:05,074:INFO:Preis für UNIUSDT auf Kraken: 6.209
+2024-08-13 17:57:05,288:INFO:Preis für DOGEUSDT auf Bybit: 0.10515
+2024-08-13 17:57:05,565:INFO:Preis für DOGEUSDT auf Binance: 0.10515
+2024-08-13 17:57:05,636:INFO:Preis für DOGEUSDT auf Coinbase: 0.105205
+2024-08-13 17:57:06,071:INFO:Preis für DOGEUSDT auf Crypto.com: 0.105175
+2024-08-13 17:57:06,262:INFO:Preis für DOGEUSDT auf Kraken: 0.1051094
+2024-08-13 17:57:06,582:INFO:Preis für 1INCHUSDT auf Bybit: 0.2566
+2024-08-13 17:57:07,095:INFO:Preis für 1INCHUSDT auf Binance: 0.2566
+2024-08-13 17:57:07,608:INFO:Preis für 1INCHUSDT auf Coinbase: 0.2565
+2024-08-13 17:57:08,018:INFO:Preis für 1INCHUSDT auf Crypto.com: 0.25658
+2024-08-13 17:57:08,178:INFO:Preis für 1INCHUSDT auf Kraken: 0.256
+2024-08-13 17:57:08,529:INFO:Preis für BTCUSDT auf Bybit: 59476.61
+2024-08-13 17:57:08,839:INFO:Preis für BTCUSDT auf Binance: 59468.49
+2024-08-13 17:57:08,926:INFO:Preis für BTCUSDT auf Coinbase: 59502.055
+2024-08-13 17:57:09,348:INFO:Preis für BTCUSDT auf Crypto.com: 59489.37
+2024-08-13 17:57:09,470:INFO:Preis für BTCUSDT auf Kraken: 59513.2
+2024-08-13 17:57:09,757:INFO:Preis für ETHUSDT auf Bybit: 2651.93
+2024-08-13 17:57:10,066:INFO:Preis für ETHUSDT auf Binance: 2651.8
+2024-08-13 17:57:10,169:INFO:Preis für ETHUSDT auf Coinbase: 2652.94
+2024-08-13 17:57:10,578:INFO:Preis für ETHUSDT auf Crypto.com: 2652.1
+2024-08-13 17:57:10,711:INFO:Preis für ETHUSDT auf Kraken: 2650.71
+2024-08-13 17:57:10,986:INFO:Preis für LINKUSDT auf Bybit: 10.3059
+2024-08-13 17:57:11,396:INFO:Preis für LINKUSDT auf Binance: 10.31
+2024-08-13 17:57:11,602:INFO:Preis für LINKUSDT auf Coinbase: 10.308
+2024-08-13 17:57:12,018:INFO:Preis für LINKUSDT auf Crypto.com: 10.305
+2024-08-13 17:57:12,336:INFO:Preis für LINKUSDT auf Kraken: 10.31663
+2024-08-13 17:57:12,727:INFO:Preis für ETCUSDT auf Bybit: 18.9
+2024-08-13 17:57:13,049:INFO:Preis für ETCUSDT auf Binance: 18.89
+2024-08-13 17:57:13,548:INFO:Preis für ETCUSDT auf Coinbase: 18.905
+2024-08-13 17:57:13,956:INFO:Preis für ETCUSDT auf Crypto.com: 18.895
+2024-08-13 17:57:14,276:INFO:Preis für ETCUSDT auf Kraken: 18.911
+2024-08-13 17:57:14,880:INFO:Preis für FILUSDT auf Bybit: 3.681
+2024-08-13 17:57:15,185:INFO:Preis für FILUSDT auf Binance: 3.679
+2024-08-13 17:57:15,397:INFO:Preis für FILUSDT auf Coinbase: 3.68
+2024-08-13 17:57:15,800:INFO:Preis für FILUSDT auf Crypto.com: 3.6788
+2024-08-13 17:57:15,927:INFO:Preis für FILUSDT auf Kraken: 3.679
+2024-08-13 17:57:16,516:INFO:Preis für LTCUSDT auf Bybit: 63.04
+2024-08-13 17:57:16,825:INFO:Preis für LTCUSDT auf Binance: 63.06
+2024-08-13 17:57:16,922:INFO:Preis für LTCUSDT auf Coinbase: 63.06
+2024-08-13 17:57:17,336:INFO:Preis für LTCUSDT auf Crypto.com: 63.093
+2024-08-13 17:57:17,463:INFO:Preis für LTCUSDT auf Kraken: 63.07
+2024-08-13 17:57:17,744:INFO:Preis für AAVEUSDT auf Bybit: 94.9885
+2024-08-13 17:57:18,051:INFO:Preis für AAVEUSDT auf Binance: 95.06
+2024-08-13 17:57:18,564:INFO:Preis für AAVEUSDT auf Coinbase: 94.975
+2024-08-13 17:57:18,974:INFO:Preis für AAVEUSDT auf Crypto.com: 95.09
+2024-08-13 17:57:19,178:INFO:Preis für AAVEUSDT auf Kraken: 95.06
+2024-08-13 17:57:19,754:INFO:Preis für UNIUSDT auf Bybit: 6.2104
+2024-08-13 17:57:20,101:INFO:Preis für UNIUSDT auf Binance: 6.218
+2024-08-13 17:57:20,306:INFO:Preis für UNIUSDT auf Coinbase: 6.212
+2024-08-13 17:57:20,715:INFO:Preis für UNIUSDT auf Crypto.com: 6.2165
+2024-08-13 17:57:20,834:INFO:Preis für UNIUSDT auf Kraken: 6.209
+2024-08-13 17:57:21,125:INFO:Preis für DOGEUSDT auf Bybit: 0.10515
+2024-08-13 17:57:21,432:INFO:Preis für DOGEUSDT auf Binance: 0.10514
+2024-08-13 17:57:21,637:INFO:Preis für DOGEUSDT auf Coinbase: 0.105205
+2024-08-13 17:57:22,150:INFO:Preis für DOGEUSDT auf Crypto.com: 0.105175
+2024-08-13 17:57:22,274:INFO:Preis für DOGEUSDT auf Kraken: 0.1051094
+2024-08-13 17:57:22,517:INFO:Preis für 1INCHUSDT auf Bybit: 0.2566
+2024-08-13 17:57:22,867:INFO:Preis für 1INCHUSDT auf Binance: 0.2566
+2024-08-13 17:57:23,379:INFO:Preis für 1INCHUSDT auf Coinbase: 0.2565
+2024-08-13 17:57:23,824:INFO:Preis für 1INCHUSDT auf Crypto.com: 0.25658
+2024-08-13 17:57:24,224:INFO:Preis für 1INCHUSDT auf Kraken: 0.256
+2024-08-13 17:57:24,504:INFO:Preis für BTCUSDT auf Bybit: 59491.32
+2024-08-13 17:57:25,323:INFO:Preis für BTCUSDT auf Binance: 59481.84
+2024-08-13 17:57:25,837:INFO:Preis für BTCUSDT auf Coinbase: 59495.965
+2024-08-13 17:57:26,561:INFO:Preis für BTCUSDT auf Crypto.com: 59489.37
+2024-08-13 17:57:26,773:INFO:Preis für BTCUSDT auf Kraken: 59513.2
+2024-08-13 17:57:27,048:INFO:Preis für ETHUSDT auf Bybit: 2652.32
+2024-08-13 17:57:27,370:INFO:Preis für ETHUSDT auf Binance: 2652.26
+2024-08-13 17:57:27,438:INFO:Preis für ETHUSDT auf Coinbase: 2652.665
+2024-08-13 17:57:27,884:INFO:Preis für ETHUSDT auf Crypto.com: 2652.1
+2024-08-13 17:57:27,983:INFO:Preis für ETHUSDT auf Kraken: 2650.71
+2024-08-13 17:57:28,294:INFO:Preis für LINKUSDT auf Bybit: 10.3063
+2024-08-13 17:57:28,600:INFO:Preis für LINKUSDT auf Binance: 10.3
+2024-08-13 17:57:29,113:INFO:Preis für LINKUSDT auf Coinbase: 10.3055
+2024-08-13 17:57:29,626:INFO:Preis für LINKUSDT auf Crypto.com: 10.305
+2024-08-13 17:57:30,251:INFO:Preis für LINKUSDT auf Kraken: 10.31663
+2024-08-13 17:57:30,546:INFO:Preis für ETCUSDT auf Bybit: 18.9
+2024-08-13 17:57:30,854:INFO:Preis für ETCUSDT auf Binance: 18.89
+2024-08-13 17:57:31,365:INFO:Preis für ETCUSDT auf Coinbase: 18.905
+2024-08-13 17:57:31,775:INFO:Preis für ETCUSDT auf Crypto.com: 18.895
+2024-08-13 17:57:32,093:INFO:Preis für ETCUSDT auf Kraken: 18.911
+2024-08-13 17:57:32,633:INFO:Preis für FILUSDT auf Bybit: 3.681
+2024-08-13 17:57:32,914:INFO:Preis für FILUSDT auf Binance: 3.678
+2024-08-13 17:57:33,412:INFO:Preis für FILUSDT auf Coinbase: 3.68
+2024-08-13 17:57:33,822:INFO:Preis für FILUSDT auf Crypto.com: 3.6788
+2024-08-13 17:57:33,976:INFO:Preis für FILUSDT auf Kraken: 3.679
+2024-08-13 17:57:34,233:INFO:Preis für LTCUSDT auf Bybit: 63.08
+2024-08-13 17:57:34,743:INFO:Preis für LTCUSDT auf Binance: 63.09
+2024-08-13 17:57:35,294:INFO:Preis für LTCUSDT auf Coinbase: 63.075
+2024-08-13 17:57:35,684:INFO:Preis für LTCUSDT auf Crypto.com: 63.093
+2024-08-13 17:57:36,225:INFO:Preis für LTCUSDT auf Kraken: 63.13
+2024-08-13 17:57:36,484:INFO:Preis für AAVEUSDT auf Bybit: 94.9885
+2024-08-13 17:57:36,795:INFO:Preis für AAVEUSDT auf Binance: 95.1
+2024-08-13 17:57:37,098:INFO:Preis für AAVEUSDT auf Coinbase: 95.075
+2024-08-13 17:57:37,511:INFO:Preis für AAVEUSDT auf Crypto.com: 95.09
+2024-08-13 17:57:37,721:INFO:Preis für AAVEUSDT auf Kraken: 95.06
+2024-08-13 17:57:38,026:INFO:Preis für UNIUSDT auf Bybit: 6.2226
+2024-08-13 17:57:38,329:INFO:Preis für UNIUSDT auf Binance: 6.224
+2024-08-13 17:57:38,561:INFO:Preis für UNIUSDT auf Coinbase: 6.222
+2024-08-13 17:57:39,045:INFO:Preis für UNIUSDT auf Crypto.com: 6.2165
+2024-08-13 17:57:39,178:INFO:Preis für UNIUSDT auf Kraken: 6.214
+2024-08-13 17:57:39,762:INFO:Preis für DOGEUSDT auf Bybit: 0.10516
+2024-08-13 17:57:40,068:INFO:Preis für DOGEUSDT auf Binance: 0.10515
+2024-08-13 17:57:40,144:INFO:Preis für DOGEUSDT auf Coinbase: 0.10518
+2024-08-13 17:57:40,580:INFO:Preis für DOGEUSDT auf Crypto.com: 0.105175
+2024-08-13 17:57:40,903:INFO:Preis für DOGEUSDT auf Kraken: 0.1051094
+2024-08-13 17:57:41,502:INFO:Preis für 1INCHUSDT auf Bybit: 0.2566
+2024-08-13 17:57:41,810:INFO:Preis für 1INCHUSDT auf Binance: 0.2564
+2024-08-13 17:57:42,292:INFO:Preis für 1INCHUSDT auf Coinbase: 0.2565
+2024-08-13 17:57:42,838:INFO:Preis für 1INCHUSDT auf Crypto.com: 0.25658
+2024-08-13 17:57:42,971:INFO:Preis für 1INCHUSDT auf Kraken: 0.256
+2024-08-14 00:51:16,749:INFO:Programm gestartet
+2024-08-14 00:51:17,147:INFO:Preis für BTCUSDT auf Bybit: 60676.83
+2024-08-14 00:51:17,754:INFO:Preis für BTCUSDT auf Binance: 60683.12
+2024-08-14 00:51:18,000:INFO:Preis für BTCUSDT auf Coinbase: 60711.745
+2024-08-14 00:51:18,395:INFO:Preis für BTCUSDT auf Crypto.com: 60685.59
+2024-08-14 00:51:18,563:INFO:Preis für BTCUSDT auf Kraken: 60703.9
+2024-08-14 00:51:19,376:INFO:Preis für ETHUSDT auf Bybit: 2719.71
+2024-08-14 00:51:20,135:INFO:Preis für ETHUSDT auf Binance: 2719.74
+2024-08-14 00:51:20,214:INFO:Preis für ETHUSDT auf Coinbase: 2719.735
+2024-08-14 00:51:20,533:INFO:Preis für ETHUSDT auf Crypto.com: 2719.14
+2024-08-14 00:51:20,655:INFO:Preis für ETHUSDT auf Kraken: 2720.0
+2024-08-14 00:51:21,106:INFO:Preis für LINKUSDT auf Bybit: 10.6191
+2024-08-14 00:51:21,394:INFO:Preis für LINKUSDT auf Binance: 10.61
+2024-08-14 00:51:21,937:INFO:Preis für LINKUSDT auf Coinbase: 10.62
+2024-08-14 00:51:22,288:INFO:Preis für LINKUSDT auf Crypto.com: 10.618
+2024-08-14 00:51:22,403:INFO:Preis für LINKUSDT auf Kraken: 10.62895
+2024-08-14 00:51:22,624:INFO:Preis für ETCUSDT auf Bybit: 19.18
+2024-08-14 00:51:22,925:INFO:Preis für ETCUSDT auf Binance: 19.17
+2024-08-14 00:51:23,465:INFO:Preis für ETCUSDT auf Coinbase: 19.175
+2024-08-14 00:51:23,797:INFO:Preis für ETCUSDT auf Crypto.com: 19.176
+2024-08-14 00:51:23,946:INFO:Preis für ETCUSDT auf Kraken: 19.134
+2024-08-14 00:51:24,230:INFO:Preis für FILUSDT auf Bybit: 3.71
+2024-08-14 00:51:24,539:INFO:Preis für FILUSDT auf Binance: 3.711
+2024-08-14 13:18:09,429:ERROR:Fehler beim Abrufen des Preises von uzx.kr für ETHUSDT: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+2024-08-14 13:18:09,453:ERROR:Fehler beim Abrufen des Preises von uzx.kr für BTCUSDT: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+2024-08-14 13:18:09,462:ERROR:Fehler beim Abrufen des Preises von uzx.kr für DOGEUSDT: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+2024-08-14 13:18:09,555:ERROR:Fehler beim Abrufen des Preises von uzx.kr für AAVEUSDT: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+2024-08-14 13:18:09,582:ERROR:Fehler beim Abrufen des Preises von uzx.kr für UNIUSDT: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+2024-08-14 13:18:09,646:ERROR:Fehler beim Abrufen des Preises von uzx.kr für LTCUSDT: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+2024-08-14 13:18:09,665:ERROR:Fehler beim Abrufen des Preises von uzx.kr für LINKUSDT: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+2024-08-14 13:18:09,950:ERROR:Fehler beim Abrufen des Preises von uzx.kr für 1INCHUSDT: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+2024-08-14 13:18:09,991:ERROR:Fehler beim Abrufen des Preises von uzx.kr für ETCUSDT: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+2024-08-14 13:18:10,184:ERROR:Fehler beim Abrufen des Preises von uzx.kr für FILUSDT: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+2024-08-14 13:18:51,733:ERROR:Fehler beim Abrufen des Preises von uzx.kr für ETHUSDT: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+2024-08-14 13:18:51,745:ERROR:Fehler beim Abrufen des Preises von uzx.kr für FILUSDT: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+2024-08-14 13:18:51,752:ERROR:Fehler beim Abrufen des Preises von uzx.kr für DOGEUSDT: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+2024-08-14 13:18:51,768:ERROR:Fehler beim Abrufen des Preises von uzx.kr für BTCUSDT: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+2024-08-14 13:18:52,041:ERROR:Fehler beim Abrufen des Preises von uzx.kr für LINKUSDT: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+2024-08-14 13:18:52,055:ERROR:Fehler beim Abrufen des Preises von uzx.kr für ETCUSDT: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+2024-08-14 13:18:52,076:ERROR:Fehler beim Abrufen des Preises von uzx.kr für UNIUSDT: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+2024-08-14 13:18:52,136:ERROR:Fehler beim Abrufen des Preises von uzx.kr für AAVEUSDT: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+2024-08-14 13:18:52,185:ERROR:Fehler beim Abrufen des Preises von uzx.kr für LTCUSDT: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+2024-08-14 13:18:52,320:ERROR:Fehler beim Abrufen des Preises von uzx.kr für 1INCHUSDT: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+2024-08-14 13:31:57,078:ERROR:Fehler beim Abrufen des Preises von uzx.kr für BTCUSDT: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+2024-08-14 13:31:57,144:ERROR:Fehler beim Abrufen des Preises von uzx.kr für DOGEUSDT: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+2024-08-14 13:31:57,201:ERROR:Fehler beim Abrufen des Preises von uzx.kr für 1INCHUSDT: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+2024-08-14 13:31:57,217:ERROR:Fehler beim Abrufen des Preises von uzx.kr für LTCUSDT: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+2024-08-14 13:31:57,293:ERROR:Fehler beim Abrufen des Preises von uzx.kr für AAVEUSDT: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+2024-08-14 13:31:57,308:ERROR:Fehler beim Abrufen des Preises von uzx.kr für ETHUSDT: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+2024-08-14 13:31:57,396:ERROR:Fehler beim Abrufen des Preises von uzx.kr für FILUSDT: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+2024-08-14 13:31:57,494:ERROR:Fehler beim Abrufen des Preises von uzx.kr für ETCUSDT: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+2024-08-14 13:31:58,025:ERROR:Fehler beim Abrufen des Preises von uzx.kr für LINKUSDT: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+2024-08-14 13:31:58,264:ERROR:Fehler beim Abrufen des Preises von uzx.kr für UNIUSDT: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+2024-08-14 13:32:58,264:ERROR:Fehler beim Abrufen des Preises von uzx.kr für ETHUSDT: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+2024-08-14 13:32:58,344:ERROR:Fehler beim Abrufen des Preises von uzx.kr für AAVEUSDT: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+2024-08-14 13:32:58,383:ERROR:Fehler beim Abrufen des Preises von uzx.kr für LINKUSDT: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+2024-08-14 13:32:58,435:ERROR:Fehler beim Abrufen des Preises von uzx.kr für UNIUSDT: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+2024-08-14 13:32:58,441:ERROR:Fehler beim Abrufen des Preises von uzx.kr für LTCUSDT: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+2024-08-14 13:32:58,443:ERROR:Fehler beim Abrufen des Preises von uzx.kr für DOGEUSDT: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+2024-08-14 13:32:58,487:ERROR:Fehler beim Abrufen des Preises von uzx.kr für ETCUSDT: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+2024-08-14 13:32:58,537:ERROR:Fehler beim Abrufen des Preises von uzx.kr für FILUSDT: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+2024-08-14 13:32:58,603:ERROR:Fehler beim Abrufen des Preises von uzx.kr für BTCUSDT: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+2024-08-14 13:32:59,167:ERROR:Fehler beim Abrufen des Preises von uzx.kr für 1INCHUSDT: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+2024-08-14 13:33:03,186:ERROR:Fehler beim Abrufen des Preises von uzx.kr für ETHUSDT: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+2024-08-14 13:33:03,284:ERROR:Fehler beim Abrufen des Preises von uzx.kr für AAVEUSDT: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+2024-08-14 13:33:03,367:ERROR:Fehler beim Abrufen des Preises von uzx.kr für UNIUSDT: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+2024-08-14 13:33:03,439:ERROR:Fehler beim Abrufen des Preises von uzx.kr für LTCUSDT: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+2024-08-14 13:33:03,463:ERROR:Fehler beim Abrufen des Preises von uzx.kr für 1INCHUSDT: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+2024-08-14 13:33:03,556:ERROR:Fehler beim Abrufen des Preises von uzx.kr für LINKUSDT: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+2024-08-14 13:33:03,580:ERROR:Fehler beim Abrufen des Preises von uzx.kr für FILUSDT: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+2024-08-14 13:33:03,998:ERROR:Fehler beim Abrufen des Preises von uzx.kr für ETCUSDT: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+2024-08-14 13:33:04,040:ERROR:Fehler beim Abrufen des Preises von uzx.kr für BTCUSDT: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+2024-08-14 13:33:04,067:ERROR:Fehler beim Abrufen des Preises von uzx.kr für DOGEUSDT: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+2024-08-14 13:33:10,244:ERROR:Fehler beim Abrufen des Preises von uzx.kr für BTCUSDT: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+2024-08-14 13:33:10,287:ERROR:Fehler beim Abrufen des Preises von uzx.kr für ETCUSDT: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+2024-08-14 13:33:10,359:ERROR:Fehler beim Abrufen des Preises von uzx.kr für ETHUSDT: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+2024-08-14 13:33:10,393:ERROR:Fehler beim Abrufen des Preises von uzx.kr für 1INCHUSDT: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+2024-08-14 13:33:10,451:ERROR:Fehler beim Abrufen des Preises von uzx.kr für UNIUSDT: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+2024-08-14 13:33:10,499:ERROR:Fehler beim Abrufen des Preises von uzx.kr für AAVEUSDT: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+2024-08-14 13:33:10,720:ERROR:Fehler beim Abrufen des Preises von uzx.kr für DOGEUSDT: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+2024-08-14 13:33:11,252:ERROR:Fehler beim Abrufen des Preises von uzx.kr für FILUSDT: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+2024-08-14 13:33:11,264:ERROR:Fehler beim Abrufen des Preises von uzx.kr für LTCUSDT: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+2024-08-14 13:33:11,732:ERROR:Fehler beim Abrufen des Preises von uzx.kr für LINKUSDT: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+2024-08-14 13:33:58,089:ERROR:Fehler beim Abrufen des Preises von uzx.kr für FILUSDT: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+2024-08-14 13:33:58,090:ERROR:Fehler beim Abrufen des Preises von uzx.kr für DOGEUSDT: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+2024-08-14 13:33:58,203:ERROR:Fehler beim Abrufen des Preises von uzx.kr für LTCUSDT: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+2024-08-14 13:33:58,302:ERROR:Fehler beim Abrufen des Preises von uzx.kr für ETCUSDT: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+2024-08-14 13:33:58,309:ERROR:Fehler beim Abrufen des Preises von uzx.kr für ETHUSDT: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+2024-08-14 13:33:58,369:ERROR:Fehler beim Abrufen des Preises von uzx.kr für AAVEUSDT: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+2024-08-14 13:33:58,505:ERROR:Fehler beim Abrufen des Preises von uzx.kr für 1INCHUSDT: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+2024-08-14 13:33:58,521:ERROR:Fehler beim Abrufen des Preises von uzx.kr für LINKUSDT: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+2024-08-14 13:33:58,569:ERROR:Fehler beim Abrufen des Preises von uzx.kr für BTCUSDT: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+2024-08-14 13:33:58,695:ERROR:Fehler beim Abrufen des Preises von uzx.kr für UNIUSDT: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+2024-08-14 13:34:55,507:ERROR:Fehler beim Abrufen des Preises von uzx.kr für LTCUSDT: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+2024-08-14 13:34:55,533:ERROR:Fehler beim Abrufen des Preises von uzx.kr für LINKUSDT: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+2024-08-14 13:34:55,585:ERROR:Fehler beim Abrufen des Preises von uzx.kr für DOGEUSDT: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+2024-08-14 13:34:55,623:ERROR:Fehler beim Abrufen des Preises von uzx.kr für BTCUSDT: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+2024-08-14 13:34:55,730:ERROR:Fehler beim Abrufen des Preises von uzx.kr für ETHUSDT: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+2024-08-14 13:34:55,769:ERROR:Fehler beim Abrufen des Preises von uzx.kr für AAVEUSDT: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+2024-08-14 13:34:55,829:ERROR:Fehler beim Abrufen des Preises von uzx.kr für 1INCHUSDT: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+2024-08-14 13:34:56,110:ERROR:Fehler beim Abrufen des Preises von uzx.kr für FILUSDT: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+2024-08-14 13:34:56,294:ERROR:Fehler beim Abrufen des Preises von uzx.kr für ETCUSDT: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+2024-08-14 13:34:56,593:ERROR:Fehler beim Abrufen des Preises von uzx.kr für UNIUSDT: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+2024-08-14 13:35:01,723:ERROR:Fehler beim Abrufen des Preises von uzx.kr für BTCUSDT: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+2024-08-14 13:35:01,752:ERROR:Fehler beim Abrufen des Preises von uzx.kr für UNIUSDT: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+2024-08-14 13:35:01,777:ERROR:Fehler beim Abrufen des Preises von uzx.kr für 1INCHUSDT: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+2024-08-14 13:35:01,791:ERROR:Fehler beim Abrufen des Preises von uzx.kr für LINKUSDT: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+2024-08-14 13:35:01,920:ERROR:Fehler beim Abrufen des Preises von uzx.kr für LTCUSDT: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+2024-08-14 13:35:01,979:ERROR:Fehler beim Abrufen des Preises von uzx.kr für AAVEUSDT: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+2024-08-14 13:35:02,009:ERROR:Fehler beim Abrufen des Preises von uzx.kr für DOGEUSDT: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+2024-08-14 13:35:02,138:ERROR:Fehler beim Abrufen des Preises von uzx.kr für FILUSDT: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+2024-08-14 13:35:02,227:ERROR:Fehler beim Abrufen des Preises von uzx.kr für ETCUSDT: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+2024-08-14 13:35:02,654:ERROR:Fehler beim Abrufen des Preises von uzx.kr für ETHUSDT: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+2024-08-14 13:35:22,009:ERROR:Fehler beim Abrufen des Preises von uzx.kr für BTCUSDT: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+2024-08-14 13:35:22,017:ERROR:Fehler beim Abrufen des Preises von uzx.kr für LTCUSDT: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+2024-08-14 13:35:22,034:ERROR:Fehler beim Abrufen des Preises von uzx.kr für DOGEUSDT: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+2024-08-14 13:35:22,114:ERROR:Fehler beim Abrufen des Preises von uzx.kr für FILUSDT: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+2024-08-14 13:35:22,146:ERROR:Fehler beim Abrufen des Preises von uzx.kr für UNIUSDT: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+2024-08-14 13:35:22,171:ERROR:Fehler beim Abrufen des Preises von uzx.kr für ETHUSDT: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+2024-08-14 13:35:22,236:ERROR:Fehler beim Abrufen des Preises von uzx.kr für 1INCHUSDT: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+2024-08-14 13:35:22,338:ERROR:Fehler beim Abrufen des Preises von uzx.kr für LINKUSDT: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+2024-08-14 13:35:22,592:ERROR:Fehler beim Abrufen des Preises von uzx.kr für AAVEUSDT: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+2024-08-14 13:35:22,621:ERROR:Fehler beim Abrufen des Preises von uzx.kr für ETCUSDT: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+2024-08-14 13:36:04,167:ERROR:Fehler beim Abrufen des Preises von uzx.kr für BTCUSDT: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+2024-08-14 13:36:04,252:ERROR:Fehler beim Abrufen des Preises von uzx.kr für LTCUSDT: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+2024-08-14 13:36:04,271:ERROR:Fehler beim Abrufen des Preises von uzx.kr für LINKUSDT: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+2024-08-14 13:36:04,271:ERROR:Fehler beim Abrufen des Preises von uzx.kr für UNIUSDT: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+2024-08-14 13:36:04,376:ERROR:Fehler beim Abrufen des Preises von uzx.kr für ETCUSDT: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+2024-08-14 13:36:04,458:ERROR:Fehler beim Abrufen des Preises von uzx.kr für DOGEUSDT: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+2024-08-14 13:36:04,492:ERROR:Fehler beim Abrufen des Preises von uzx.kr für ETHUSDT: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+2024-08-14 13:36:04,676:ERROR:Fehler beim Abrufen des Preises von uzx.kr für FILUSDT: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+2024-08-14 13:36:04,764:ERROR:Fehler beim Abrufen des Preises von uzx.kr für AAVEUSDT: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+2024-08-14 13:36:05,583:ERROR:Fehler beim Abrufen des Preises von uzx.kr für 1INCHUSDT: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+2024-08-14 13:36:39,630:ERROR:Fehler beim Abrufen des Preises von uzx.kr für LTCUSDT: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+2024-08-14 13:36:39,698:ERROR:Fehler beim Abrufen des Preises von uzx.kr für BTCUSDT: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+2024-08-14 13:36:39,931:ERROR:Fehler beim Abrufen des Preises von uzx.kr für ETHUSDT: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+2024-08-14 13:36:39,931:ERROR:Fehler beim Abrufen des Preises von uzx.kr für AAVEUSDT: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+2024-08-14 13:36:39,931:ERROR:Fehler beim Abrufen des Preises von uzx.kr für LINKUSDT: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+2024-08-14 13:36:40,079:ERROR:Fehler beim Abrufen des Preises von uzx.kr für ETCUSDT: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+2024-08-14 13:36:40,104:ERROR:Fehler beim Abrufen des Preises von uzx.kr für FILUSDT: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+2024-08-14 13:36:40,205:ERROR:Fehler beim Abrufen des Preises von uzx.kr für DOGEUSDT: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+2024-08-14 13:36:40,283:ERROR:Fehler beim Abrufen des Preises von uzx.kr für UNIUSDT: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+2024-08-14 13:36:40,423:ERROR:Fehler beim Abrufen des Preises von uzx.kr für 1INCHUSDT: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+2024-08-14 13:41:09,296:ERROR:Fehler bei der Verarbeitung von BTCUSDT: get_uzx_price() takes 0 positional arguments but 1 was given
+2024-08-14 13:41:09,351:ERROR:Fehler bei der Verarbeitung von ETHUSDT: get_uzx_price() takes 0 positional arguments but 1 was given
+2024-08-14 13:41:09,380:ERROR:Fehler bei der Verarbeitung von UNIUSDT: get_uzx_price() takes 0 positional arguments but 1 was given
+2024-08-14 13:41:09,380:ERROR:Fehler bei der Verarbeitung von LTCUSDT: get_uzx_price() takes 0 positional arguments but 1 was given
+2024-08-14 13:41:09,503:ERROR:Fehler bei der Verarbeitung von LINKUSDT: get_uzx_price() takes 0 positional arguments but 1 was given
+2024-08-14 13:41:09,679:ERROR:Fehler bei der Verarbeitung von AAVEUSDT: get_uzx_price() takes 0 positional arguments but 1 was given
+2024-08-14 13:41:09,715:ERROR:Fehler bei der Verarbeitung von 1INCHUSDT: get_uzx_price() takes 0 positional arguments but 1 was given
+2024-08-14 13:41:09,734:ERROR:Fehler bei der Verarbeitung von DOGEUSDT: get_uzx_price() takes 0 positional arguments but 1 was given
+2024-08-14 13:41:09,759:ERROR:Fehler bei der Verarbeitung von ETCUSDT: get_uzx_price() takes 0 positional arguments but 1 was given
+2024-08-14 13:41:10,303:ERROR:Fehler bei der Verarbeitung von FILUSDT: get_uzx_price() takes 0 positional arguments but 1 was given
+2024-08-14 13:43:13,588:WARNING:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'Eine vorhandene Verbindung wurde vom Remotehost geschlossen', None, 10054, None)': /session/57d801a2db4e741aee9d0f62b6787e1a/element/f.D05BCCA710BAC0A3B320378C38145B1E.d.A3322E6F02EC82FAD72FF6B726882AB9.e.35/text
+2024-08-14 13:46:50,330:WARNING:('Connection aborted.', ConnectionResetError(10054, 'Eine vorhandene Verbindung wurde vom Remotehost geschlossen', None, 10054, None))
+2024-08-14 13:46:50,333:WARNING:('Connection aborted.', ConnectionResetError(10054, 'Eine vorhandene Verbindung wurde vom Remotehost geschlossen', None, 10054, None))
+2024-08-14 15:07:50,183:WARNING:('Connection aborted.', ConnectionResetError(10054, 'Eine vorhandene Verbindung wurde vom Remotehost geschlossen', None, 10054, None))
+2024-08-14 15:07:50,183:WARNING:('Connection aborted.', ConnectionResetError(10054, 'Eine vorhandene Verbindung wurde vom Remotehost geschlossen', None, 10054, None))
+2024-08-14 15:07:50,183:WARNING:('Connection aborted.', ConnectionResetError(10054, 'Eine vorhandene Verbindung wurde vom Remotehost geschlossen', None, 10054, None))
+2024-08-14 15:07:50,186:WARNING:('Connection aborted.', ConnectionResetError(10054, 'Eine vorhandene Verbindung wurde vom Remotehost geschlossen', None, 10054, None))
+2024-08-14 15:07:50,188:WARNING:('Connection aborted.', ConnectionResetError(10054, 'Eine vorhandene Verbindung wurde vom Remotehost geschlossen', None, 10054, None))
+2024-08-14 15:07:50,268:WARNING:('Connection aborted.', ConnectionResetError(10054, 'Eine vorhandene Verbindung wurde vom Remotehost geschlossen', None, 10054, None))
+2024-08-14 15:07:50,271:WARNING:('Connection aborted.', ConnectionResetError(10054, 'Eine vorhandene Verbindung wurde vom Remotehost geschlossen', None, 10054, None))
+2024-08-14 15:07:50,281:WARNING:('Connection aborted.', ConnectionResetError(10054, 'Eine vorhandene Verbindung wurde vom Remotehost geschlossen', None, 10054, None))

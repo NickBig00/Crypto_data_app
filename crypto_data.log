@@ -650,3 +650,2720 @@
 2024-08-14 15:07:50,268:WARNING:('Connection aborted.', ConnectionResetError(10054, 'Eine vorhandene Verbindung wurde vom Remotehost geschlossen', None, 10054, None))
 2024-08-14 15:07:50,271:WARNING:('Connection aborted.', ConnectionResetError(10054, 'Eine vorhandene Verbindung wurde vom Remotehost geschlossen', None, 10054, None))
 2024-08-14 15:07:50,281:WARNING:('Connection aborted.', ConnectionResetError(10054, 'Eine vorhandene Verbindung wurde vom Remotehost geschlossen', None, 10054, None))
+2024-08-14 17:02:44,135:INFO:====== WebDriver manager ======
+2024-08-14 17:02:45,511:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-14 17:02:45,581:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-14 17:02:45,628:INFO:There is no [win64] chromedriver "127.0.6533.119" for browser google-chrome "127.0.6533" in cache
+2024-08-14 17:02:45,629:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-14 17:02:45,741:INFO:WebDriver version 127.0.6533.119 selected
+2024-08-14 17:02:45,742:INFO:Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/127.0.6533.119/win32/chromedriver-win32.zip
+2024-08-14 17:02:45,743:INFO:About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/127.0.6533.119/win32/chromedriver-win32.zip
+2024-08-14 17:02:45,811:INFO:Driver downloading response is 200
+2024-08-14 17:02:47,083:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-14 17:02:47,231:INFO:Driver has been saved in cache [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119]
+2024-08-14 17:02:47,234:ERROR:Fehler bei der Verarbeitung von 0: 'str' object has no attribute 'capabilities'
+2024-08-14 17:02:52,278:INFO:====== WebDriver manager ======
+2024-08-14 17:02:53,543:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-14 17:02:53,600:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-14 17:02:53,663:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-14 17:02:53,664:ERROR:Fehler bei der Verarbeitung von 0: 'str' object has no attribute 'capabilities'
+2024-08-14 17:02:56,252:INFO:====== WebDriver manager ======
+2024-08-14 17:02:57,455:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-14 17:02:57,501:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-14 17:02:57,555:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-14 17:02:57,557:ERROR:Fehler bei der Verarbeitung von 0: 'str' object has no attribute 'capabilities'
+2024-08-14 17:02:57,757:INFO:====== WebDriver manager ======
+2024-08-14 17:02:58,995:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-14 17:02:59,043:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-14 17:02:59,089:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-14 17:02:59,091:ERROR:Fehler bei der Verarbeitung von 0: 'str' object has no attribute 'capabilities'
+2024-08-14 17:02:59,297:INFO:====== WebDriver manager ======
+2024-08-14 17:03:00,444:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-14 17:03:00,494:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-14 17:03:00,542:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-14 17:03:00,543:ERROR:Fehler bei der Verarbeitung von 0: 'str' object has no attribute 'capabilities'
+2024-08-14 17:03:10,229:INFO:====== WebDriver manager ======
+2024-08-14 17:03:11,414:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-14 17:03:11,461:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-14 17:03:11,512:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-14 17:03:11,514:ERROR:Fehler bei der Verarbeitung von 0: 'str' object has no attribute 'capabilities'
+2024-08-14 17:04:44,891:INFO:====== WebDriver manager ======
+2024-08-14 17:04:46,404:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-14 17:04:46,449:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-14 17:04:46,496:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-14 17:04:46,497:ERROR:Fehler bei der Verarbeitung von 0: 'str' object has no attribute 'capabilities'
+2024-08-14 17:07:06,306:INFO:====== WebDriver manager ======
+2024-08-14 17:07:07,666:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-14 17:07:07,714:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-14 17:07:07,768:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-14 17:07:07,769:ERROR:Fehler bei der Verarbeitung von 0: local variable 'driver' referenced before assignment
+2024-08-14 17:08:37,736:INFO:====== WebDriver manager ======
+2024-08-14 17:08:38,961:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-14 17:08:39,007:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-14 17:08:39,055:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-14 17:13:51,130:INFO:====== WebDriver manager ======
+2024-08-14 17:13:52,420:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-14 17:13:52,468:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-14 17:13:52,541:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-14 17:14:27,256:INFO:====== WebDriver manager ======
+2024-08-14 17:14:27,256:INFO:====== WebDriver manager ======
+2024-08-14 17:14:27,258:INFO:====== WebDriver manager ======
+2024-08-14 17:14:27,260:INFO:====== WebDriver manager ======
+2024-08-14 17:14:27,268:INFO:====== WebDriver manager ======
+2024-08-14 17:14:27,268:INFO:====== WebDriver manager ======
+2024-08-14 17:14:27,270:INFO:====== WebDriver manager ======
+2024-08-14 17:14:27,272:INFO:====== WebDriver manager ======
+2024-08-14 17:14:27,281:INFO:====== WebDriver manager ======
+2024-08-14 17:14:27,326:INFO:====== WebDriver manager ======
+2024-08-14 17:14:30,444:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-14 17:14:30,444:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-14 17:14:30,452:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-14 17:14:30,458:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-14 17:14:30,459:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-14 17:14:30,465:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-14 17:14:30,485:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-14 17:14:30,492:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-14 17:14:30,497:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-14 17:14:30,503:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-14 17:14:30,503:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-14 17:14:30,510:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-14 17:14:30,511:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-14 17:14:30,516:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-14 17:14:30,529:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-14 17:14:30,539:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-14 17:14:30,539:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-14 17:14:30,569:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-14 17:14:30,571:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-14 17:14:30,572:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-14 17:14:30,572:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-14 17:14:30,578:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-14 17:14:30,629:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-14 17:14:30,643:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-14 17:14:30,645:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-14 17:14:30,649:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-14 17:14:30,665:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-14 17:14:30,716:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-14 17:14:30,731:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-14 17:14:30,779:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 14:30:25,961:INFO:====== WebDriver manager ======
+2024-08-15 14:30:29,314:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 14:30:29,412:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 14:30:29,471:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 14:30:29,602:INFO:WebDriver version 127.0.6533.119 selected
+2024-08-15 14:30:29,603:INFO:Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/127.0.6533.119/win32/chromedriver-win32.zip
+2024-08-15 14:30:29,603:INFO:About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/127.0.6533.119/win32/chromedriver-win32.zip
+2024-08-15 14:30:29,677:INFO:Driver downloading response is 200
+2024-08-15 14:30:30,783:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 14:30:30,961:INFO:Driver has been saved in cache [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119]
+2024-08-15 14:31:13,815:WARNING:Message: 
+Stacktrace:
+	GetHandleVerifier [0x00D88923+23283]
+	(No symbol) [0x00D4E934]
+	(No symbol) [0x00C80733]
+	(No symbol) [0x00CC326F]
+	(No symbol) [0x00CC34AB]
+	(No symbol) [0x00CFEE42]
+	(No symbol) [0x00CE4464]
+	(No symbol) [0x00CFCB8D]
+	(No symbol) [0x00CE41B6]
+	(No symbol) [0x00CB8017]
+	(No symbol) [0x00CB890D]
+	GetHandleVerifier [0x00E7A5F3+1013699]
+	GetHandleVerifier [0x00E83E4C+1052700]
+	GetHandleVerifier [0x00E7D4B4+1025668]
+	GetHandleVerifier [0x00DAEA2B+179195]
+	(No symbol) [0x00D56833]
+	(No symbol) [0x00D53198]
+	(No symbol) [0x00D53337]
+	(No symbol) [0x00D4B4BE]
+	BaseThreadInitThunk [0x76CDFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x778E80CE+286]
+	RtlGetAppContainerNamedObjectPath [0x778E809E+238]
+
+2024-08-15 14:31:20,141:INFO:====== WebDriver manager ======
+2024-08-15 14:31:23,203:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 14:31:23,257:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 14:31:23,307:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 14:33:52,828:INFO:====== WebDriver manager ======
+2024-08-15 14:33:56,109:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 14:33:56,219:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 14:33:56,295:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 14:36:20,080:ERROR:Fehler beim Abrufen des Preises von Crypto.com für BTC_USDT: HTTPSConnectionPool(host='api.crypto.us', port=443): Max retries exceeded with url: /v2/public/get-ticker?instrument_name=BTC_USDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000225B47E7EE0>: Failed to resolve 'api.crypto.us' ([Errno 11001] getaddrinfo failed)"))
+2024-08-15 14:36:20,081:INFO:====== WebDriver manager ======
+2024-08-15 14:36:20,237:ERROR:Fehler beim Abrufen des Preises von Coinbase für BTC-USD: HTTPSConnectionPool(host='api.coinbase.us', port=443): Max retries exceeded with url: /v2/prices/BTC-USD/spot (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000225B48091F0>: Failed to resolve 'api.coinbase.us' ([Errno 11001] getaddrinfo failed)"))
+2024-08-15 14:36:21,160:ERROR:Fehler beim Abrufen des Preises von Kraken für XXBTZUSD: HTTPSConnectionPool(host='api.kraken.us', port=443): Max retries exceeded with url: /0/public/Ticker?pair=XXBTZUSD (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1129)')))
+2024-08-15 14:36:24,642:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 14:36:24,691:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 14:36:24,749:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 14:37:39,619:INFO:====== WebDriver manager ======
+2024-08-15 14:37:39,775:INFO:====== WebDriver manager ======
+2024-08-15 14:37:39,776:INFO:====== WebDriver manager ======
+2024-08-15 14:37:39,819:INFO:====== WebDriver manager ======
+2024-08-15 14:37:39,915:INFO:====== WebDriver manager ======
+2024-08-15 14:37:41,095:ERROR:Fehler beim Abrufen des Preises von Coinbase für CHZ-USD: 404 Client Error: Not Found for url: https://api.coinbase.com/v2/prices/CHZ-USD/spot
+2024-08-15 14:37:44,059:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 14:37:44,110:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 14:37:44,159:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 14:37:44,427:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 14:37:44,437:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 14:37:44,474:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 14:37:44,487:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 14:37:44,524:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 14:37:44,534:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 14:37:44,542:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 14:37:44,590:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 14:37:44,646:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 14:37:44,664:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 14:37:44,711:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 14:37:44,759:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 14:38:48,847:WARNING:Message: 
+Stacktrace:
+	GetHandleVerifier [0x00D88923+23283]
+	(No symbol) [0x00D4E934]
+	(No symbol) [0x00C80733]
+	(No symbol) [0x00CC326F]
+	(No symbol) [0x00CC34AB]
+	(No symbol) [0x00CFEE42]
+	(No symbol) [0x00CE4464]
+	(No symbol) [0x00CFCB8D]
+	(No symbol) [0x00CE41B6]
+	(No symbol) [0x00CB8017]
+	(No symbol) [0x00CB890D]
+	GetHandleVerifier [0x00E7A5F3+1013699]
+	GetHandleVerifier [0x00E83E4C+1052700]
+	GetHandleVerifier [0x00E7D4B4+1025668]
+	GetHandleVerifier [0x00DAEA2B+179195]
+	(No symbol) [0x00D56833]
+	(No symbol) [0x00D53198]
+	(No symbol) [0x00D53337]
+	(No symbol) [0x00D4B4BE]
+	BaseThreadInitThunk [0x76CDFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x778E80CE+286]
+	RtlGetAppContainerNamedObjectPath [0x778E809E+238]
+
+2024-08-15 14:41:12,693:INFO:====== WebDriver manager ======
+2024-08-15 14:41:12,766:INFO:====== WebDriver manager ======
+2024-08-15 14:41:12,770:INFO:====== WebDriver manager ======
+2024-08-15 14:41:12,816:INFO:====== WebDriver manager ======
+2024-08-15 14:41:12,836:INFO:====== WebDriver manager ======
+2024-08-15 14:41:12,891:ERROR:Fehler beim Abrufen des Preises von Coinbase für CHZ-USD: 404 Client Error: Not Found for url: https://api.coinbase.com/v2/prices/CHZ-USD/spot
+2024-08-15 14:41:18,200:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 14:41:18,273:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 14:41:18,331:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 14:41:18,338:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 14:41:18,339:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 14:41:18,411:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 14:41:18,412:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 14:41:18,460:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 14:41:18,463:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 14:41:18,472:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 14:41:18,473:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 14:41:18,528:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 14:41:18,532:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 14:41:18,586:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 14:41:18,587:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 14:42:18,675:WARNING:Message: 
+Stacktrace:
+	GetHandleVerifier [0x00D88923+23283]
+	(No symbol) [0x00D4E934]
+	(No symbol) [0x00C80733]
+	(No symbol) [0x00CC326F]
+	(No symbol) [0x00CC34AB]
+	(No symbol) [0x00CFEE42]
+	(No symbol) [0x00CE4464]
+	(No symbol) [0x00CFCB8D]
+	(No symbol) [0x00CE41B6]
+	(No symbol) [0x00CB8017]
+	(No symbol) [0x00CB890D]
+	GetHandleVerifier [0x00E7A5F3+1013699]
+	GetHandleVerifier [0x00E83E4C+1052700]
+	GetHandleVerifier [0x00E7D4B4+1025668]
+	GetHandleVerifier [0x00DAEA2B+179195]
+	(No symbol) [0x00D56833]
+	(No symbol) [0x00D53198]
+	(No symbol) [0x00D53337]
+	(No symbol) [0x00D4B4BE]
+	BaseThreadInitThunk [0x76CDFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x778E80CE+286]
+	RtlGetAppContainerNamedObjectPath [0x778E809E+238]
+
+2024-08-15 16:16:55,550:INFO:====== WebDriver manager ======
+2024-08-15 16:16:55,662:INFO:====== WebDriver manager ======
+2024-08-15 16:16:55,668:INFO:====== WebDriver manager ======
+2024-08-15 16:16:55,668:INFO:====== WebDriver manager ======
+2024-08-15 16:16:55,735:INFO:====== WebDriver manager ======
+2024-08-15 16:17:01,224:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:17:01,296:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:17:01,345:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 16:17:01,413:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:17:01,437:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:17:01,468:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:17:01,489:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:17:01,521:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 16:17:01,538:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 16:17:01,543:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:17:01,591:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:17:01,638:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 16:17:01,744:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:17:01,799:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:17:01,849:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 16:17:40,922:WARNING:Message: 
+Stacktrace:
+	GetHandleVerifier [0x00D88923+23283]
+	(No symbol) [0x00D4E934]
+	(No symbol) [0x00C80733]
+	(No symbol) [0x00CC326F]
+	(No symbol) [0x00CC34AB]
+	(No symbol) [0x00CFEE42]
+	(No symbol) [0x00CE4464]
+	(No symbol) [0x00CFCB8D]
+	(No symbol) [0x00CE41B6]
+	(No symbol) [0x00CB8017]
+	(No symbol) [0x00CB890D]
+	GetHandleVerifier [0x00E7A5F3+1013699]
+	GetHandleVerifier [0x00E83E4C+1052700]
+	GetHandleVerifier [0x00E7D4B4+1025668]
+	GetHandleVerifier [0x00DAEA2B+179195]
+	(No symbol) [0x00D56833]
+	(No symbol) [0x00D53198]
+	(No symbol) [0x00D53337]
+	(No symbol) [0x00D4B4BE]
+	BaseThreadInitThunk [0x76CDFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x778E80CE+286]
+	RtlGetAppContainerNamedObjectPath [0x778E809E+238]
+
+2024-08-15 16:22:44,938:INFO:====== WebDriver manager ======
+2024-08-15 16:22:45,032:INFO:====== WebDriver manager ======
+2024-08-15 16:22:45,033:INFO:====== WebDriver manager ======
+2024-08-15 16:22:45,041:INFO:====== WebDriver manager ======
+2024-08-15 16:22:45,043:INFO:====== WebDriver manager ======
+2024-08-15 16:22:45,050:INFO:====== WebDriver manager ======
+2024-08-15 16:22:45,094:INFO:====== WebDriver manager ======
+2024-08-15 16:22:45,096:INFO:====== WebDriver manager ======
+2024-08-15 16:22:45,103:INFO:====== WebDriver manager ======
+2024-08-15 16:22:45,113:INFO:====== WebDriver manager ======
+2024-08-15 16:22:55,241:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:22:55,297:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:22:55,353:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 16:22:55,389:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:22:55,425:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:22:55,436:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:22:55,446:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:22:55,481:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:22:55,494:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:22:55,499:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 16:22:55,534:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 16:22:55,552:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 16:22:55,576:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:22:55,629:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:22:55,670:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:22:55,682:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 16:22:55,721:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:22:55,772:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 16:22:55,980:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:22:56,001:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:22:56,026:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:22:56,037:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:22:56,055:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:22:56,078:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:22:56,090:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 16:22:56,098:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:22:56,111:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 16:22:56,128:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 16:22:56,149:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:22:56,194:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 16:23:28,890:WARNING:Message: 
+Stacktrace:
+	GetHandleVerifier [0x00D88923+23283]
+	(No symbol) [0x00D4E934]
+	(No symbol) [0x00C80733]
+	(No symbol) [0x00CC326F]
+	(No symbol) [0x00CC34AB]
+	(No symbol) [0x00CFEE42]
+	(No symbol) [0x00CE4464]
+	(No symbol) [0x00CFCB8D]
+	(No symbol) [0x00CE41B6]
+	(No symbol) [0x00CB8017]
+	(No symbol) [0x00CB890D]
+	GetHandleVerifier [0x00E7A5F3+1013699]
+	GetHandleVerifier [0x00E83E4C+1052700]
+	GetHandleVerifier [0x00E7D4B4+1025668]
+	GetHandleVerifier [0x00DAEA2B+179195]
+	(No symbol) [0x00D56833]
+	(No symbol) [0x00D53198]
+	(No symbol) [0x00D53337]
+	(No symbol) [0x00D4B4BE]
+	BaseThreadInitThunk [0x76CDFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x778E80CE+286]
+	RtlGetAppContainerNamedObjectPath [0x778E809E+238]
+
+2024-08-15 16:23:42,843:WARNING:Message: 
+Stacktrace:
+	GetHandleVerifier [0x00D88923+23283]
+	(No symbol) [0x00D4E934]
+	(No symbol) [0x00C80733]
+	(No symbol) [0x00CC326F]
+	(No symbol) [0x00CC34AB]
+	(No symbol) [0x00CFEE42]
+	(No symbol) [0x00CE4464]
+	(No symbol) [0x00CFCB8D]
+	(No symbol) [0x00CE41B6]
+	(No symbol) [0x00CB8017]
+	(No symbol) [0x00CB890D]
+	GetHandleVerifier [0x00E7A5F3+1013699]
+	GetHandleVerifier [0x00E83E4C+1052700]
+	GetHandleVerifier [0x00E7D4B4+1025668]
+	GetHandleVerifier [0x00DAEA2B+179195]
+	(No symbol) [0x00D56833]
+	(No symbol) [0x00D53198]
+	(No symbol) [0x00D53337]
+	(No symbol) [0x00D4B4BE]
+	BaseThreadInitThunk [0x76CDFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x778E80CE+286]
+	RtlGetAppContainerNamedObjectPath [0x778E809E+238]
+
+2024-08-15 16:23:43,085:WARNING:Message: 
+Stacktrace:
+	GetHandleVerifier [0x00D88923+23283]
+	(No symbol) [0x00D4E934]
+	(No symbol) [0x00C80733]
+	(No symbol) [0x00CC326F]
+	(No symbol) [0x00CC34AB]
+	(No symbol) [0x00CFEE42]
+	(No symbol) [0x00CE4464]
+	(No symbol) [0x00CFCB8D]
+	(No symbol) [0x00CE41B6]
+	(No symbol) [0x00CB8017]
+	(No symbol) [0x00CB890D]
+	GetHandleVerifier [0x00E7A5F3+1013699]
+	GetHandleVerifier [0x00E83E4C+1052700]
+	GetHandleVerifier [0x00E7D4B4+1025668]
+	GetHandleVerifier [0x00DAEA2B+179195]
+	(No symbol) [0x00D56833]
+	(No symbol) [0x00D53198]
+	(No symbol) [0x00D53337]
+	(No symbol) [0x00D4B4BE]
+	BaseThreadInitThunk [0x76CDFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x778E80CE+286]
+	RtlGetAppContainerNamedObjectPath [0x778E809E+238]
+
+2024-08-15 16:23:45,732:WARNING:Message: 
+Stacktrace:
+	GetHandleVerifier [0x00D88923+23283]
+	(No symbol) [0x00D4E934]
+	(No symbol) [0x00C80733]
+	(No symbol) [0x00CC326F]
+	(No symbol) [0x00CC34AB]
+	(No symbol) [0x00CFEE42]
+	(No symbol) [0x00CE4464]
+	(No symbol) [0x00CFCB8D]
+	(No symbol) [0x00CE41B6]
+	(No symbol) [0x00CB8017]
+	(No symbol) [0x00CB890D]
+	GetHandleVerifier [0x00E7A5F3+1013699]
+	GetHandleVerifier [0x00E83E4C+1052700]
+	GetHandleVerifier [0x00E7D4B4+1025668]
+	GetHandleVerifier [0x00DAEA2B+179195]
+	(No symbol) [0x00D56833]
+	(No symbol) [0x00D53198]
+	(No symbol) [0x00D53337]
+	(No symbol) [0x00D4B4BE]
+	BaseThreadInitThunk [0x76CDFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x778E80CE+286]
+	RtlGetAppContainerNamedObjectPath [0x778E809E+238]
+
+2024-08-15 16:23:45,778:WARNING:Message: 
+Stacktrace:
+	GetHandleVerifier [0x00D88923+23283]
+	(No symbol) [0x00D4E934]
+	(No symbol) [0x00C80733]
+	(No symbol) [0x00CC326F]
+	(No symbol) [0x00CC34AB]
+	(No symbol) [0x00CFEE42]
+	(No symbol) [0x00CE4464]
+	(No symbol) [0x00CFCB8D]
+	(No symbol) [0x00CE41B6]
+	(No symbol) [0x00CB8017]
+	(No symbol) [0x00CB890D]
+	GetHandleVerifier [0x00E7A5F3+1013699]
+	GetHandleVerifier [0x00E83E4C+1052700]
+	GetHandleVerifier [0x00E7D4B4+1025668]
+	GetHandleVerifier [0x00DAEA2B+179195]
+	(No symbol) [0x00D56833]
+	(No symbol) [0x00D53198]
+	(No symbol) [0x00D53337]
+	(No symbol) [0x00D4B4BE]
+	BaseThreadInitThunk [0x76CDFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x778E80CE+286]
+	RtlGetAppContainerNamedObjectPath [0x778E809E+238]
+
+2024-08-15 16:23:47,100:WARNING:Message: 
+Stacktrace:
+	GetHandleVerifier [0x00D88923+23283]
+	(No symbol) [0x00D4E934]
+	(No symbol) [0x00C80733]
+	(No symbol) [0x00CC326F]
+	(No symbol) [0x00CC34AB]
+	(No symbol) [0x00CFEE42]
+	(No symbol) [0x00CE4464]
+	(No symbol) [0x00CFCB8D]
+	(No symbol) [0x00CE41B6]
+	(No symbol) [0x00CB8017]
+	(No symbol) [0x00CB890D]
+	GetHandleVerifier [0x00E7A5F3+1013699]
+	GetHandleVerifier [0x00E83E4C+1052700]
+	GetHandleVerifier [0x00E7D4B4+1025668]
+	GetHandleVerifier [0x00DAEA2B+179195]
+	(No symbol) [0x00D56833]
+	(No symbol) [0x00D53198]
+	(No symbol) [0x00D53337]
+	(No symbol) [0x00D4B4BE]
+	BaseThreadInitThunk [0x76CDFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x778E80CE+286]
+	RtlGetAppContainerNamedObjectPath [0x778E809E+238]
+
+2024-08-15 16:23:47,373:WARNING:Message: 
+Stacktrace:
+	GetHandleVerifier [0x00D88923+23283]
+	(No symbol) [0x00D4E934]
+	(No symbol) [0x00C80733]
+	(No symbol) [0x00CC326F]
+	(No symbol) [0x00CC34AB]
+	(No symbol) [0x00CFEE42]
+	(No symbol) [0x00CE4464]
+	(No symbol) [0x00CFCB8D]
+	(No symbol) [0x00CE41B6]
+	(No symbol) [0x00CB8017]
+	(No symbol) [0x00CB890D]
+	GetHandleVerifier [0x00E7A5F3+1013699]
+	GetHandleVerifier [0x00E83E4C+1052700]
+	GetHandleVerifier [0x00E7D4B4+1025668]
+	GetHandleVerifier [0x00DAEA2B+179195]
+	(No symbol) [0x00D56833]
+	(No symbol) [0x00D53198]
+	(No symbol) [0x00D53337]
+	(No symbol) [0x00D4B4BE]
+	BaseThreadInitThunk [0x76CDFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x778E80CE+286]
+	RtlGetAppContainerNamedObjectPath [0x778E809E+238]
+
+2024-08-15 16:25:50,546:INFO:====== WebDriver manager ======
+2024-08-15 16:25:50,581:INFO:====== WebDriver manager ======
+2024-08-15 16:25:50,590:INFO:====== WebDriver manager ======
+2024-08-15 16:25:50,614:INFO:====== WebDriver manager ======
+2024-08-15 16:25:50,615:INFO:====== WebDriver manager ======
+2024-08-15 16:25:50,622:INFO:====== WebDriver manager ======
+2024-08-15 16:25:50,626:INFO:====== WebDriver manager ======
+2024-08-15 16:25:50,656:INFO:====== WebDriver manager ======
+2024-08-15 16:25:50,657:INFO:====== WebDriver manager ======
+2024-08-15 16:25:50,657:INFO:====== WebDriver manager ======
+2024-08-15 16:26:00,788:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:26:00,828:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:26:00,829:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:26:00,845:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:26:00,896:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:26:00,897:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:26:00,914:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 16:26:00,918:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:26:00,976:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 16:26:00,976:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:26:00,984:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 16:26:01,034:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 16:26:01,067:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:26:01,101:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:26:01,122:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:26:01,165:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:26:01,178:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 16:26:01,226:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 16:26:01,999:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:26:02,006:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:26:02,084:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:26:02,085:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:26:02,172:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 16:26:02,173:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 16:26:02,430:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:26:02,435:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:26:02,505:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:26:02,519:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:26:02,583:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 16:26:02,602:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 16:26:48,348:WARNING:Message: 
+Stacktrace:
+	GetHandleVerifier [0x00D88923+23283]
+	(No symbol) [0x00D4E934]
+	(No symbol) [0x00C80733]
+	(No symbol) [0x00CC326F]
+	(No symbol) [0x00CC34AB]
+	(No symbol) [0x00CFEE42]
+	(No symbol) [0x00CE4464]
+	(No symbol) [0x00CFCB8D]
+	(No symbol) [0x00CE41B6]
+	(No symbol) [0x00CB8017]
+	(No symbol) [0x00CB890D]
+	GetHandleVerifier [0x00E7A5F3+1013699]
+	GetHandleVerifier [0x00E83E4C+1052700]
+	GetHandleVerifier [0x00E7D4B4+1025668]
+	GetHandleVerifier [0x00DAEA2B+179195]
+	(No symbol) [0x00D56833]
+	(No symbol) [0x00D53198]
+	(No symbol) [0x00D53337]
+	(No symbol) [0x00D4B4BE]
+	BaseThreadInitThunk [0x76CDFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x778E80CE+286]
+	RtlGetAppContainerNamedObjectPath [0x778E809E+238]
+
+2024-08-15 16:26:49,979:WARNING:Message: 
+Stacktrace:
+	GetHandleVerifier [0x00D88923+23283]
+	(No symbol) [0x00D4E934]
+	(No symbol) [0x00C80733]
+	(No symbol) [0x00CC326F]
+	(No symbol) [0x00CC34AB]
+	(No symbol) [0x00CFEE42]
+	(No symbol) [0x00CE4464]
+	(No symbol) [0x00CFCB8D]
+	(No symbol) [0x00CE41B6]
+	(No symbol) [0x00CB8017]
+	(No symbol) [0x00CB890D]
+	GetHandleVerifier [0x00E7A5F3+1013699]
+	GetHandleVerifier [0x00E83E4C+1052700]
+	GetHandleVerifier [0x00E7D4B4+1025668]
+	GetHandleVerifier [0x00DAEA2B+179195]
+	(No symbol) [0x00D56833]
+	(No symbol) [0x00D53198]
+	(No symbol) [0x00D53337]
+	(No symbol) [0x00D4B4BE]
+	BaseThreadInitThunk [0x76CDFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x778E80CE+286]
+	RtlGetAppContainerNamedObjectPath [0x778E809E+238]
+
+2024-08-15 16:26:50,527:WARNING:Message: 
+Stacktrace:
+	GetHandleVerifier [0x00D88923+23283]
+	(No symbol) [0x00D4E934]
+	(No symbol) [0x00C80733]
+	(No symbol) [0x00CC326F]
+	(No symbol) [0x00CC34AB]
+	(No symbol) [0x00CFEE42]
+	(No symbol) [0x00CE4464]
+	(No symbol) [0x00CFCB8D]
+	(No symbol) [0x00CE41B6]
+	(No symbol) [0x00CB8017]
+	(No symbol) [0x00CB890D]
+	GetHandleVerifier [0x00E7A5F3+1013699]
+	GetHandleVerifier [0x00E83E4C+1052700]
+	GetHandleVerifier [0x00E7D4B4+1025668]
+	GetHandleVerifier [0x00DAEA2B+179195]
+	(No symbol) [0x00D56833]
+	(No symbol) [0x00D53198]
+	(No symbol) [0x00D53337]
+	(No symbol) [0x00D4B4BE]
+	BaseThreadInitThunk [0x76CDFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x778E80CE+286]
+	RtlGetAppContainerNamedObjectPath [0x778E809E+238]
+
+2024-08-15 16:26:51,662:WARNING:Message: 
+Stacktrace:
+	GetHandleVerifier [0x00D88923+23283]
+	(No symbol) [0x00D4E934]
+	(No symbol) [0x00C80733]
+	(No symbol) [0x00CC326F]
+	(No symbol) [0x00CC34AB]
+	(No symbol) [0x00CFEE42]
+	(No symbol) [0x00CE4464]
+	(No symbol) [0x00CFCB8D]
+	(No symbol) [0x00CE41B6]
+	(No symbol) [0x00CB8017]
+	(No symbol) [0x00CB890D]
+	GetHandleVerifier [0x00E7A5F3+1013699]
+	GetHandleVerifier [0x00E83E4C+1052700]
+	GetHandleVerifier [0x00E7D4B4+1025668]
+	GetHandleVerifier [0x00DAEA2B+179195]
+	(No symbol) [0x00D56833]
+	(No symbol) [0x00D53198]
+	(No symbol) [0x00D53337]
+	(No symbol) [0x00D4B4BE]
+	BaseThreadInitThunk [0x76CDFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x778E80CE+286]
+	RtlGetAppContainerNamedObjectPath [0x778E809E+238]
+
+2024-08-15 16:26:51,691:WARNING:Message: 
+Stacktrace:
+	GetHandleVerifier [0x00D88923+23283]
+	(No symbol) [0x00D4E934]
+	(No symbol) [0x00C80733]
+	(No symbol) [0x00CC326F]
+	(No symbol) [0x00CC34AB]
+	(No symbol) [0x00CFEE42]
+	(No symbol) [0x00CE4464]
+	(No symbol) [0x00CFCB8D]
+	(No symbol) [0x00CE41B6]
+	(No symbol) [0x00CB8017]
+	(No symbol) [0x00CB890D]
+	GetHandleVerifier [0x00E7A5F3+1013699]
+	GetHandleVerifier [0x00E83E4C+1052700]
+	GetHandleVerifier [0x00E7D4B4+1025668]
+	GetHandleVerifier [0x00DAEA2B+179195]
+	(No symbol) [0x00D56833]
+	(No symbol) [0x00D53198]
+	(No symbol) [0x00D53337]
+	(No symbol) [0x00D4B4BE]
+	BaseThreadInitThunk [0x76CDFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x778E80CE+286]
+	RtlGetAppContainerNamedObjectPath [0x778E809E+238]
+
+2024-08-15 16:26:52,395:WARNING:Message: 
+Stacktrace:
+	GetHandleVerifier [0x00D88923+23283]
+	(No symbol) [0x00D4E934]
+	(No symbol) [0x00C80733]
+	(No symbol) [0x00CC326F]
+	(No symbol) [0x00CC34AB]
+	(No symbol) [0x00CFEE42]
+	(No symbol) [0x00CE4464]
+	(No symbol) [0x00CFCB8D]
+	(No symbol) [0x00CE41B6]
+	(No symbol) [0x00CB8017]
+	(No symbol) [0x00CB890D]
+	GetHandleVerifier [0x00E7A5F3+1013699]
+	GetHandleVerifier [0x00E83E4C+1052700]
+	GetHandleVerifier [0x00E7D4B4+1025668]
+	GetHandleVerifier [0x00DAEA2B+179195]
+	(No symbol) [0x00D56833]
+	(No symbol) [0x00D53198]
+	(No symbol) [0x00D53337]
+	(No symbol) [0x00D4B4BE]
+	BaseThreadInitThunk [0x76CDFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x778E80CE+286]
+	RtlGetAppContainerNamedObjectPath [0x778E809E+238]
+
+2024-08-15 16:26:53,247:WARNING:Message: 
+Stacktrace:
+	GetHandleVerifier [0x00D88923+23283]
+	(No symbol) [0x00D4E934]
+	(No symbol) [0x00C80733]
+	(No symbol) [0x00CC326F]
+	(No symbol) [0x00CC34AB]
+	(No symbol) [0x00CFEE42]
+	(No symbol) [0x00CE4464]
+	(No symbol) [0x00CFCB8D]
+	(No symbol) [0x00CE41B6]
+	(No symbol) [0x00CB8017]
+	(No symbol) [0x00CB890D]
+	GetHandleVerifier [0x00E7A5F3+1013699]
+	GetHandleVerifier [0x00E83E4C+1052700]
+	GetHandleVerifier [0x00E7D4B4+1025668]
+	GetHandleVerifier [0x00DAEA2B+179195]
+	(No symbol) [0x00D56833]
+	(No symbol) [0x00D53198]
+	(No symbol) [0x00D53337]
+	(No symbol) [0x00D4B4BE]
+	BaseThreadInitThunk [0x76CDFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x778E80CE+286]
+	RtlGetAppContainerNamedObjectPath [0x778E809E+238]
+
+2024-08-15 16:27:27,521:INFO:====== WebDriver manager ======
+2024-08-15 16:27:27,575:INFO:====== WebDriver manager ======
+2024-08-15 16:27:27,593:INFO:====== WebDriver manager ======
+2024-08-15 16:27:27,596:INFO:====== WebDriver manager ======
+2024-08-15 16:27:27,614:INFO:====== WebDriver manager ======
+2024-08-15 16:27:27,636:INFO:====== WebDriver manager ======
+2024-08-15 16:27:27,672:INFO:====== WebDriver manager ======
+2024-08-15 16:27:27,673:INFO:====== WebDriver manager ======
+2024-08-15 16:27:27,673:INFO:====== WebDriver manager ======
+2024-08-15 16:27:27,673:INFO:====== WebDriver manager ======
+2024-08-15 16:27:41,423:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:27:41,512:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:27:41,588:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 16:27:41,689:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:27:41,771:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:27:41,833:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 16:27:41,924:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:27:42,008:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:27:42,090:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 16:27:42,268:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:27:42,341:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:27:42,408:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 16:27:42,932:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:27:43,009:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:27:43,080:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 16:27:43,138:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:27:43,213:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:27:43,281:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 16:27:43,332:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:27:43,417:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:27:43,480:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 16:27:43,717:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:27:43,785:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:27:43,853:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 16:27:44,277:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:27:44,351:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:27:44,501:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 16:27:44,610:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:27:44,704:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:27:44,862:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 16:28:29,955:WARNING:Message: 
+Stacktrace:
+	GetHandleVerifier [0x00D88923+23283]
+	(No symbol) [0x00D4E934]
+	(No symbol) [0x00C80733]
+	(No symbol) [0x00CC326F]
+	(No symbol) [0x00CC34AB]
+	(No symbol) [0x00CFEE42]
+	(No symbol) [0x00CE4464]
+	(No symbol) [0x00CFCB8D]
+	(No symbol) [0x00CE41B6]
+	(No symbol) [0x00CB8017]
+	(No symbol) [0x00CB890D]
+	GetHandleVerifier [0x00E7A5F3+1013699]
+	GetHandleVerifier [0x00E83E4C+1052700]
+	GetHandleVerifier [0x00E7D4B4+1025668]
+	GetHandleVerifier [0x00DAEA2B+179195]
+	(No symbol) [0x00D56833]
+	(No symbol) [0x00D53198]
+	(No symbol) [0x00D53337]
+	(No symbol) [0x00D4B4BE]
+	BaseThreadInitThunk [0x76CDFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x778E80CE+286]
+	RtlGetAppContainerNamedObjectPath [0x778E809E+238]
+
+2024-08-15 16:28:30,993:WARNING:Message: 
+Stacktrace:
+	GetHandleVerifier [0x00D88923+23283]
+	(No symbol) [0x00D4E934]
+	(No symbol) [0x00C80733]
+	(No symbol) [0x00CC326F]
+	(No symbol) [0x00CC34AB]
+	(No symbol) [0x00CFEE42]
+	(No symbol) [0x00CE4464]
+	(No symbol) [0x00CFCB8D]
+	(No symbol) [0x00CE41B6]
+	(No symbol) [0x00CB8017]
+	(No symbol) [0x00CB890D]
+	GetHandleVerifier [0x00E7A5F3+1013699]
+	GetHandleVerifier [0x00E83E4C+1052700]
+	GetHandleVerifier [0x00E7D4B4+1025668]
+	GetHandleVerifier [0x00DAEA2B+179195]
+	(No symbol) [0x00D56833]
+	(No symbol) [0x00D53198]
+	(No symbol) [0x00D53337]
+	(No symbol) [0x00D4B4BE]
+	BaseThreadInitThunk [0x76CDFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x778E80CE+286]
+	RtlGetAppContainerNamedObjectPath [0x778E809E+238]
+
+2024-08-15 16:28:31,074:WARNING:Message: 
+Stacktrace:
+	GetHandleVerifier [0x00D88923+23283]
+	(No symbol) [0x00D4E934]
+	(No symbol) [0x00C80733]
+	(No symbol) [0x00CC326F]
+	(No symbol) [0x00CC34AB]
+	(No symbol) [0x00CFEE42]
+	(No symbol) [0x00CE4464]
+	(No symbol) [0x00CFCB8D]
+	(No symbol) [0x00CE41B6]
+	(No symbol) [0x00CB8017]
+	(No symbol) [0x00CB890D]
+	GetHandleVerifier [0x00E7A5F3+1013699]
+	GetHandleVerifier [0x00E83E4C+1052700]
+	GetHandleVerifier [0x00E7D4B4+1025668]
+	GetHandleVerifier [0x00DAEA2B+179195]
+	(No symbol) [0x00D56833]
+	(No symbol) [0x00D53198]
+	(No symbol) [0x00D53337]
+	(No symbol) [0x00D4B4BE]
+	BaseThreadInitThunk [0x76CDFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x778E80CE+286]
+	RtlGetAppContainerNamedObjectPath [0x778E809E+238]
+
+2024-08-15 16:28:31,104:WARNING:Message: 
+Stacktrace:
+	GetHandleVerifier [0x00D88923+23283]
+	(No symbol) [0x00D4E934]
+	(No symbol) [0x00C80733]
+	(No symbol) [0x00CC326F]
+	(No symbol) [0x00CC34AB]
+	(No symbol) [0x00CFEE42]
+	(No symbol) [0x00CE4464]
+	(No symbol) [0x00CFCB8D]
+	(No symbol) [0x00CE41B6]
+	(No symbol) [0x00CB8017]
+	(No symbol) [0x00CB890D]
+	GetHandleVerifier [0x00E7A5F3+1013699]
+	GetHandleVerifier [0x00E83E4C+1052700]
+	GetHandleVerifier [0x00E7D4B4+1025668]
+	GetHandleVerifier [0x00DAEA2B+179195]
+	(No symbol) [0x00D56833]
+	(No symbol) [0x00D53198]
+	(No symbol) [0x00D53337]
+	(No symbol) [0x00D4B4BE]
+	BaseThreadInitThunk [0x76CDFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x778E80CE+286]
+	RtlGetAppContainerNamedObjectPath [0x778E809E+238]
+
+2024-08-15 16:28:31,651:WARNING:Message: 
+Stacktrace:
+	GetHandleVerifier [0x00D88923+23283]
+	(No symbol) [0x00D4E934]
+	(No symbol) [0x00C80733]
+	(No symbol) [0x00CC326F]
+	(No symbol) [0x00CC34AB]
+	(No symbol) [0x00CFEE42]
+	(No symbol) [0x00CE4464]
+	(No symbol) [0x00CFCB8D]
+	(No symbol) [0x00CE41B6]
+	(No symbol) [0x00CB8017]
+	(No symbol) [0x00CB890D]
+	GetHandleVerifier [0x00E7A5F3+1013699]
+	GetHandleVerifier [0x00E83E4C+1052700]
+	GetHandleVerifier [0x00E7D4B4+1025668]
+	GetHandleVerifier [0x00DAEA2B+179195]
+	(No symbol) [0x00D56833]
+	(No symbol) [0x00D53198]
+	(No symbol) [0x00D53337]
+	(No symbol) [0x00D4B4BE]
+	BaseThreadInitThunk [0x76CDFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x778E80CE+286]
+	RtlGetAppContainerNamedObjectPath [0x778E809E+238]
+
+2024-08-15 16:28:32,166:WARNING:Message: 
+Stacktrace:
+	GetHandleVerifier [0x00D88923+23283]
+	(No symbol) [0x00D4E934]
+	(No symbol) [0x00C80733]
+	(No symbol) [0x00CC326F]
+	(No symbol) [0x00CC34AB]
+	(No symbol) [0x00CFEE42]
+	(No symbol) [0x00CE4464]
+	(No symbol) [0x00CFCB8D]
+	(No symbol) [0x00CE41B6]
+	(No symbol) [0x00CB8017]
+	(No symbol) [0x00CB890D]
+	GetHandleVerifier [0x00E7A5F3+1013699]
+	GetHandleVerifier [0x00E83E4C+1052700]
+	GetHandleVerifier [0x00E7D4B4+1025668]
+	GetHandleVerifier [0x00DAEA2B+179195]
+	(No symbol) [0x00D56833]
+	(No symbol) [0x00D53198]
+	(No symbol) [0x00D53337]
+	(No symbol) [0x00D4B4BE]
+	BaseThreadInitThunk [0x76CDFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x778E80CE+286]
+	RtlGetAppContainerNamedObjectPath [0x778E809E+238]
+
+2024-08-15 16:28:32,243:WARNING:Message: 
+Stacktrace:
+	GetHandleVerifier [0x00D88923+23283]
+	(No symbol) [0x00D4E934]
+	(No symbol) [0x00C80733]
+	(No symbol) [0x00CC326F]
+	(No symbol) [0x00CC34AB]
+	(No symbol) [0x00CFEE42]
+	(No symbol) [0x00CE4464]
+	(No symbol) [0x00CFCB8D]
+	(No symbol) [0x00CE41B6]
+	(No symbol) [0x00CB8017]
+	(No symbol) [0x00CB890D]
+	GetHandleVerifier [0x00E7A5F3+1013699]
+	GetHandleVerifier [0x00E83E4C+1052700]
+	GetHandleVerifier [0x00E7D4B4+1025668]
+	GetHandleVerifier [0x00DAEA2B+179195]
+	(No symbol) [0x00D56833]
+	(No symbol) [0x00D53198]
+	(No symbol) [0x00D53337]
+	(No symbol) [0x00D4B4BE]
+	BaseThreadInitThunk [0x76CDFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x778E80CE+286]
+	RtlGetAppContainerNamedObjectPath [0x778E809E+238]
+
+2024-08-15 16:33:28,954:INFO:====== WebDriver manager ======
+2024-08-15 16:33:32,029:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:33:32,080:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:33:32,146:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 16:36:07,128:INFO:====== WebDriver manager ======
+2024-08-15 16:36:11,294:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:36:11,344:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:36:11,402:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 16:37:07,726:WARNING:Message: 
+Stacktrace:
+	GetHandleVerifier [0x00D88923+23283]
+	(No symbol) [0x00D4E934]
+	(No symbol) [0x00C80733]
+	(No symbol) [0x00CC326F]
+	(No symbol) [0x00CC34AB]
+	(No symbol) [0x00CFEE42]
+	(No symbol) [0x00CE4464]
+	(No symbol) [0x00CFCB8D]
+	(No symbol) [0x00CE41B6]
+	(No symbol) [0x00CB8017]
+	(No symbol) [0x00CB890D]
+	GetHandleVerifier [0x00E7A5F3+1013699]
+	GetHandleVerifier [0x00E83E4C+1052700]
+	GetHandleVerifier [0x00E7D4B4+1025668]
+	GetHandleVerifier [0x00DAEA2B+179195]
+	(No symbol) [0x00D56833]
+	(No symbol) [0x00D53198]
+	(No symbol) [0x00D53337]
+	(No symbol) [0x00D4B4BE]
+	BaseThreadInitThunk [0x76CDFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x778E80CE+286]
+	RtlGetAppContainerNamedObjectPath [0x778E809E+238]
+
+2024-08-15 16:38:19,803:INFO:====== WebDriver manager ======
+2024-08-15 16:38:22,832:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:38:22,949:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:38:23,091:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 16:39:23,232:WARNING:Message: 
+Stacktrace:
+	GetHandleVerifier [0x00D88923+23283]
+	(No symbol) [0x00D4E934]
+	(No symbol) [0x00C80733]
+	(No symbol) [0x00CC326F]
+	(No symbol) [0x00CC34AB]
+	(No symbol) [0x00CFEE42]
+	(No symbol) [0x00CE4464]
+	(No symbol) [0x00CFCB8D]
+	(No symbol) [0x00CE41B6]
+	(No symbol) [0x00CB8017]
+	(No symbol) [0x00CB890D]
+	GetHandleVerifier [0x00E7A5F3+1013699]
+	GetHandleVerifier [0x00E83E4C+1052700]
+	GetHandleVerifier [0x00E7D4B4+1025668]
+	GetHandleVerifier [0x00DAEA2B+179195]
+	(No symbol) [0x00D56833]
+	(No symbol) [0x00D53198]
+	(No symbol) [0x00D53337]
+	(No symbol) [0x00D4B4BE]
+	BaseThreadInitThunk [0x76CDFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x778E80CE+286]
+	RtlGetAppContainerNamedObjectPath [0x778E809E+238]
+
+2024-08-15 16:41:10,541:INFO:====== WebDriver manager ======
+2024-08-15 16:41:13,823:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:41:13,871:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:41:13,925:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 16:49:04,578:INFO:====== WebDriver manager ======
+2024-08-15 16:49:04,626:INFO:====== WebDriver manager ======
+2024-08-15 16:49:04,685:INFO:====== WebDriver manager ======
+2024-08-15 16:49:04,715:INFO:====== WebDriver manager ======
+2024-08-15 16:49:04,725:INFO:====== WebDriver manager ======
+2024-08-15 16:49:04,761:INFO:====== WebDriver manager ======
+2024-08-15 16:49:04,762:INFO:====== WebDriver manager ======
+2024-08-15 16:49:04,768:INFO:====== WebDriver manager ======
+2024-08-15 16:49:04,787:INFO:====== WebDriver manager ======
+2024-08-15 16:49:04,799:INFO:====== WebDriver manager ======
+2024-08-15 16:49:13,736:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:49:13,753:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:49:13,792:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:49:13,807:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:49:13,857:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 16:49:13,871:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 16:49:13,953:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:49:14,001:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:49:14,032:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:49:14,037:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:49:14,050:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:49:14,083:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:49:14,120:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:49:14,132:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:49:14,137:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:49:14,158:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 16:49:14,158:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:49:14,159:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:49:14,159:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:49:14,179:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:49:14,182:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:49:14,190:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 16:49:14,190:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:49:14,229:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 16:49:14,230:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 16:49:14,230:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 16:49:14,247:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 16:49:14,272:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 16:49:14,272:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:49:14,350:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 16:50:00,331:WARNING:Message: 
+Stacktrace:
+	GetHandleVerifier [0x00D88923+23283]
+	(No symbol) [0x00D4E934]
+	(No symbol) [0x00C80733]
+	(No symbol) [0x00CC326F]
+	(No symbol) [0x00CC34AB]
+	(No symbol) [0x00CFEE42]
+	(No symbol) [0x00CE4464]
+	(No symbol) [0x00CFCB8D]
+	(No symbol) [0x00CE41B6]
+	(No symbol) [0x00CB8017]
+	(No symbol) [0x00CB890D]
+	GetHandleVerifier [0x00E7A5F3+1013699]
+	GetHandleVerifier [0x00E83E4C+1052700]
+	GetHandleVerifier [0x00E7D4B4+1025668]
+	GetHandleVerifier [0x00DAEA2B+179195]
+	(No symbol) [0x00D56833]
+	(No symbol) [0x00D53198]
+	(No symbol) [0x00D53337]
+	(No symbol) [0x00D4B4BE]
+	BaseThreadInitThunk [0x76CDFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x778E80CE+286]
+	RtlGetAppContainerNamedObjectPath [0x778E809E+238]
+
+2024-08-15 16:50:00,754:WARNING:Message: 
+Stacktrace:
+	GetHandleVerifier [0x00D88923+23283]
+	(No symbol) [0x00D4E934]
+	(No symbol) [0x00C80733]
+	(No symbol) [0x00CC326F]
+	(No symbol) [0x00CC34AB]
+	(No symbol) [0x00CFEE42]
+	(No symbol) [0x00CE4464]
+	(No symbol) [0x00CFCB8D]
+	(No symbol) [0x00CE41B6]
+	(No symbol) [0x00CB8017]
+	(No symbol) [0x00CB890D]
+	GetHandleVerifier [0x00E7A5F3+1013699]
+	GetHandleVerifier [0x00E83E4C+1052700]
+	GetHandleVerifier [0x00E7D4B4+1025668]
+	GetHandleVerifier [0x00DAEA2B+179195]
+	(No symbol) [0x00D56833]
+	(No symbol) [0x00D53198]
+	(No symbol) [0x00D53337]
+	(No symbol) [0x00D4B4BE]
+	BaseThreadInitThunk [0x76CDFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x778E80CE+286]
+	RtlGetAppContainerNamedObjectPath [0x778E809E+238]
+
+2024-08-15 16:50:01,278:WARNING:Message: 
+Stacktrace:
+	GetHandleVerifier [0x00D88923+23283]
+	(No symbol) [0x00D4E934]
+	(No symbol) [0x00C80733]
+	(No symbol) [0x00CC326F]
+	(No symbol) [0x00CC34AB]
+	(No symbol) [0x00CFEE42]
+	(No symbol) [0x00CE4464]
+	(No symbol) [0x00CFCB8D]
+	(No symbol) [0x00CE41B6]
+	(No symbol) [0x00CB8017]
+	(No symbol) [0x00CB890D]
+	GetHandleVerifier [0x00E7A5F3+1013699]
+	GetHandleVerifier [0x00E83E4C+1052700]
+	GetHandleVerifier [0x00E7D4B4+1025668]
+	GetHandleVerifier [0x00DAEA2B+179195]
+	(No symbol) [0x00D56833]
+	(No symbol) [0x00D53198]
+	(No symbol) [0x00D53337]
+	(No symbol) [0x00D4B4BE]
+	BaseThreadInitThunk [0x76CDFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x778E80CE+286]
+	RtlGetAppContainerNamedObjectPath [0x778E809E+238]
+
+2024-08-15 16:50:01,827:WARNING:Message: 
+Stacktrace:
+	GetHandleVerifier [0x00D88923+23283]
+	(No symbol) [0x00D4E934]
+	(No symbol) [0x00C80733]
+	(No symbol) [0x00CC326F]
+	(No symbol) [0x00CC34AB]
+	(No symbol) [0x00CFEE42]
+	(No symbol) [0x00CE4464]
+	(No symbol) [0x00CFCB8D]
+	(No symbol) [0x00CE41B6]
+	(No symbol) [0x00CB8017]
+	(No symbol) [0x00CB890D]
+	GetHandleVerifier [0x00E7A5F3+1013699]
+	GetHandleVerifier [0x00E83E4C+1052700]
+	GetHandleVerifier [0x00E7D4B4+1025668]
+	GetHandleVerifier [0x00DAEA2B+179195]
+	(No symbol) [0x00D56833]
+	(No symbol) [0x00D53198]
+	(No symbol) [0x00D53337]
+	(No symbol) [0x00D4B4BE]
+	BaseThreadInitThunk [0x76CDFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x778E80CE+286]
+	RtlGetAppContainerNamedObjectPath [0x778E809E+238]
+
+2024-08-15 16:50:01,842:WARNING:Message: 
+Stacktrace:
+	GetHandleVerifier [0x00D88923+23283]
+	(No symbol) [0x00D4E934]
+	(No symbol) [0x00C80733]
+	(No symbol) [0x00CC326F]
+	(No symbol) [0x00CC34AB]
+	(No symbol) [0x00CFEE42]
+	(No symbol) [0x00CE4464]
+	(No symbol) [0x00CFCB8D]
+	(No symbol) [0x00CE41B6]
+	(No symbol) [0x00CB8017]
+	(No symbol) [0x00CB890D]
+	GetHandleVerifier [0x00E7A5F3+1013699]
+	GetHandleVerifier [0x00E83E4C+1052700]
+	GetHandleVerifier [0x00E7D4B4+1025668]
+	GetHandleVerifier [0x00DAEA2B+179195]
+	(No symbol) [0x00D56833]
+	(No symbol) [0x00D53198]
+	(No symbol) [0x00D53337]
+	(No symbol) [0x00D4B4BE]
+	BaseThreadInitThunk [0x76CDFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x778E80CE+286]
+	RtlGetAppContainerNamedObjectPath [0x778E809E+238]
+
+2024-08-15 16:50:01,918:WARNING:Message: 
+Stacktrace:
+	GetHandleVerifier [0x00D88923+23283]
+	(No symbol) [0x00D4E934]
+	(No symbol) [0x00C80733]
+	(No symbol) [0x00CC326F]
+	(No symbol) [0x00CC34AB]
+	(No symbol) [0x00CFEE42]
+	(No symbol) [0x00CE4464]
+	(No symbol) [0x00CFCB8D]
+	(No symbol) [0x00CE41B6]
+	(No symbol) [0x00CB8017]
+	(No symbol) [0x00CB890D]
+	GetHandleVerifier [0x00E7A5F3+1013699]
+	GetHandleVerifier [0x00E83E4C+1052700]
+	GetHandleVerifier [0x00E7D4B4+1025668]
+	GetHandleVerifier [0x00DAEA2B+179195]
+	(No symbol) [0x00D56833]
+	(No symbol) [0x00D53198]
+	(No symbol) [0x00D53337]
+	(No symbol) [0x00D4B4BE]
+	BaseThreadInitThunk [0x76CDFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x778E80CE+286]
+	RtlGetAppContainerNamedObjectPath [0x778E809E+238]
+
+2024-08-15 16:50:02,887:WARNING:Message: 
+Stacktrace:
+	GetHandleVerifier [0x00D88923+23283]
+	(No symbol) [0x00D4E934]
+	(No symbol) [0x00C80733]
+	(No symbol) [0x00CC326F]
+	(No symbol) [0x00CC34AB]
+	(No symbol) [0x00CFEE42]
+	(No symbol) [0x00CE4464]
+	(No symbol) [0x00CFCB8D]
+	(No symbol) [0x00CE41B6]
+	(No symbol) [0x00CB8017]
+	(No symbol) [0x00CB890D]
+	GetHandleVerifier [0x00E7A5F3+1013699]
+	GetHandleVerifier [0x00E83E4C+1052700]
+	GetHandleVerifier [0x00E7D4B4+1025668]
+	GetHandleVerifier [0x00DAEA2B+179195]
+	(No symbol) [0x00D56833]
+	(No symbol) [0x00D53198]
+	(No symbol) [0x00D53337]
+	(No symbol) [0x00D4B4BE]
+	BaseThreadInitThunk [0x76CDFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x778E80CE+286]
+	RtlGetAppContainerNamedObjectPath [0x778E809E+238]
+
+2024-08-15 16:52:11,195:INFO:====== WebDriver manager ======
+2024-08-15 16:52:11,197:INFO:====== WebDriver manager ======
+2024-08-15 16:52:11,230:INFO:====== WebDriver manager ======
+2024-08-15 16:52:11,234:INFO:====== WebDriver manager ======
+2024-08-15 16:52:11,234:INFO:====== WebDriver manager ======
+2024-08-15 16:52:11,288:INFO:====== WebDriver manager ======
+2024-08-15 16:52:11,290:INFO:====== WebDriver manager ======
+2024-08-15 16:52:11,291:INFO:====== WebDriver manager ======
+2024-08-15 16:52:11,293:INFO:====== WebDriver manager ======
+2024-08-15 16:52:11,309:INFO:====== WebDriver manager ======
+2024-08-15 16:52:20,005:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:52:20,099:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:52:20,126:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:52:20,164:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:52:20,186:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 16:52:20,206:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:52:20,224:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:52:20,268:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 16:52:20,326:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 16:52:20,378:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:52:20,434:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:52:20,486:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:52:20,497:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 16:52:20,528:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:52:20,552:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:52:20,581:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:52:20,618:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 16:52:20,646:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 16:52:20,673:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:52:20,699:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:52:20,728:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:52:20,756:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:52:20,777:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 16:52:20,805:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 16:52:20,880:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:52:20,940:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:52:21,001:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 16:52:21,154:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:52:21,216:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:52:21,275:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 16:52:44,847:ERROR:Fehler bei der Verarbeitung von 2: 'result'
+2024-08-15 16:53:05,563:WARNING:Message: 
+Stacktrace:
+	GetHandleVerifier [0x00D88923+23283]
+	(No symbol) [0x00D4E934]
+	(No symbol) [0x00C80733]
+	(No symbol) [0x00CC326F]
+	(No symbol) [0x00CC34AB]
+	(No symbol) [0x00CFEE42]
+	(No symbol) [0x00CE4464]
+	(No symbol) [0x00CFCB8D]
+	(No symbol) [0x00CE41B6]
+	(No symbol) [0x00CB8017]
+	(No symbol) [0x00CB890D]
+	GetHandleVerifier [0x00E7A5F3+1013699]
+	GetHandleVerifier [0x00E83E4C+1052700]
+	GetHandleVerifier [0x00E7D4B4+1025668]
+	GetHandleVerifier [0x00DAEA2B+179195]
+	(No symbol) [0x00D56833]
+	(No symbol) [0x00D53198]
+	(No symbol) [0x00D53337]
+	(No symbol) [0x00D4B4BE]
+	BaseThreadInitThunk [0x76CDFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x778E80CE+286]
+	RtlGetAppContainerNamedObjectPath [0x778E809E+238]
+
+2024-08-15 16:53:05,580:WARNING:Message: 
+Stacktrace:
+	GetHandleVerifier [0x00D88923+23283]
+	(No symbol) [0x00D4E934]
+	(No symbol) [0x00C80733]
+	(No symbol) [0x00CC326F]
+	(No symbol) [0x00CC34AB]
+	(No symbol) [0x00CFEE42]
+	(No symbol) [0x00CE4464]
+	(No symbol) [0x00CFCB8D]
+	(No symbol) [0x00CE41B6]
+	(No symbol) [0x00CB8017]
+	(No symbol) [0x00CB890D]
+	GetHandleVerifier [0x00E7A5F3+1013699]
+	GetHandleVerifier [0x00E83E4C+1052700]
+	GetHandleVerifier [0x00E7D4B4+1025668]
+	GetHandleVerifier [0x00DAEA2B+179195]
+	(No symbol) [0x00D56833]
+	(No symbol) [0x00D53198]
+	(No symbol) [0x00D53337]
+	(No symbol) [0x00D4B4BE]
+	BaseThreadInitThunk [0x76CDFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x778E80CE+286]
+	RtlGetAppContainerNamedObjectPath [0x778E809E+238]
+
+2024-08-15 16:53:06,620:WARNING:Message: 
+Stacktrace:
+	GetHandleVerifier [0x00D88923+23283]
+	(No symbol) [0x00D4E934]
+	(No symbol) [0x00C80733]
+	(No symbol) [0x00CC326F]
+	(No symbol) [0x00CC34AB]
+	(No symbol) [0x00CFEE42]
+	(No symbol) [0x00CE4464]
+	(No symbol) [0x00CFCB8D]
+	(No symbol) [0x00CE41B6]
+	(No symbol) [0x00CB8017]
+	(No symbol) [0x00CB890D]
+	GetHandleVerifier [0x00E7A5F3+1013699]
+	GetHandleVerifier [0x00E83E4C+1052700]
+	GetHandleVerifier [0x00E7D4B4+1025668]
+	GetHandleVerifier [0x00DAEA2B+179195]
+	(No symbol) [0x00D56833]
+	(No symbol) [0x00D53198]
+	(No symbol) [0x00D53337]
+	(No symbol) [0x00D4B4BE]
+	BaseThreadInitThunk [0x76CDFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x778E80CE+286]
+	RtlGetAppContainerNamedObjectPath [0x778E809E+238]
+
+2024-08-15 16:53:07,681:WARNING:Message: 
+Stacktrace:
+	GetHandleVerifier [0x00D88923+23283]
+	(No symbol) [0x00D4E934]
+	(No symbol) [0x00C80733]
+	(No symbol) [0x00CC326F]
+	(No symbol) [0x00CC34AB]
+	(No symbol) [0x00CFEE42]
+	(No symbol) [0x00CE4464]
+	(No symbol) [0x00CFCB8D]
+	(No symbol) [0x00CE41B6]
+	(No symbol) [0x00CB8017]
+	(No symbol) [0x00CB890D]
+	GetHandleVerifier [0x00E7A5F3+1013699]
+	GetHandleVerifier [0x00E83E4C+1052700]
+	GetHandleVerifier [0x00E7D4B4+1025668]
+	GetHandleVerifier [0x00DAEA2B+179195]
+	(No symbol) [0x00D56833]
+	(No symbol) [0x00D53198]
+	(No symbol) [0x00D53337]
+	(No symbol) [0x00D4B4BE]
+	BaseThreadInitThunk [0x76CDFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x778E80CE+286]
+	RtlGetAppContainerNamedObjectPath [0x778E809E+238]
+
+2024-08-15 16:53:07,681:WARNING:Message: 
+Stacktrace:
+	GetHandleVerifier [0x00D88923+23283]
+	(No symbol) [0x00D4E934]
+	(No symbol) [0x00C80733]
+	(No symbol) [0x00CC326F]
+	(No symbol) [0x00CC34AB]
+	(No symbol) [0x00CFEE42]
+	(No symbol) [0x00CE4464]
+	(No symbol) [0x00CFCB8D]
+	(No symbol) [0x00CE41B6]
+	(No symbol) [0x00CB8017]
+	(No symbol) [0x00CB890D]
+	GetHandleVerifier [0x00E7A5F3+1013699]
+	GetHandleVerifier [0x00E83E4C+1052700]
+	GetHandleVerifier [0x00E7D4B4+1025668]
+	GetHandleVerifier [0x00DAEA2B+179195]
+	(No symbol) [0x00D56833]
+	(No symbol) [0x00D53198]
+	(No symbol) [0x00D53337]
+	(No symbol) [0x00D4B4BE]
+	BaseThreadInitThunk [0x76CDFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x778E80CE+286]
+	RtlGetAppContainerNamedObjectPath [0x778E809E+238]
+
+2024-08-15 16:53:08,738:WARNING:Message: 
+Stacktrace:
+	GetHandleVerifier [0x00D88923+23283]
+	(No symbol) [0x00D4E934]
+	(No symbol) [0x00C80733]
+	(No symbol) [0x00CC326F]
+	(No symbol) [0x00CC34AB]
+	(No symbol) [0x00CFEE42]
+	(No symbol) [0x00CE4464]
+	(No symbol) [0x00CFCB8D]
+	(No symbol) [0x00CE41B6]
+	(No symbol) [0x00CB8017]
+	(No symbol) [0x00CB890D]
+	GetHandleVerifier [0x00E7A5F3+1013699]
+	GetHandleVerifier [0x00E83E4C+1052700]
+	GetHandleVerifier [0x00E7D4B4+1025668]
+	GetHandleVerifier [0x00DAEA2B+179195]
+	(No symbol) [0x00D56833]
+	(No symbol) [0x00D53198]
+	(No symbol) [0x00D53337]
+	(No symbol) [0x00D4B4BE]
+	BaseThreadInitThunk [0x76CDFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x778E80CE+286]
+	RtlGetAppContainerNamedObjectPath [0x778E809E+238]
+
+2024-08-15 16:53:13,885:ERROR:Fehler bei der Verarbeitung von 9: 'result'
+2024-08-15 16:58:45,308:INFO:====== WebDriver manager ======
+2024-08-15 16:58:45,396:INFO:====== WebDriver manager ======
+2024-08-15 16:58:45,418:INFO:====== WebDriver manager ======
+2024-08-15 16:58:45,432:INFO:====== WebDriver manager ======
+2024-08-15 16:58:45,435:INFO:====== WebDriver manager ======
+2024-08-15 16:58:45,457:INFO:====== WebDriver manager ======
+2024-08-15 16:58:45,495:INFO:====== WebDriver manager ======
+2024-08-15 16:58:45,515:INFO:====== WebDriver manager ======
+2024-08-15 16:58:45,517:INFO:====== WebDriver manager ======
+2024-08-15 16:58:45,519:INFO:====== WebDriver manager ======
+2024-08-15 16:58:56,212:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:58:56,276:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:58:56,283:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:58:56,284:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:58:56,298:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:58:56,340:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:58:56,343:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:58:56,362:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:58:56,368:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:58:56,369:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:58:56,379:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 16:58:56,387:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:58:56,388:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:58:56,409:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:58:56,410:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:58:56,415:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:58:56,425:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 16:58:56,444:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 16:58:56,446:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 16:58:56,450:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:58:56,460:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:58:56,491:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 16:58:56,494:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 16:58:56,494:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:58:56,502:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 16:58:56,524:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 16:58:56,563:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 16:58:56,694:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:58:56,747:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 16:58:56,802:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 16:59:44,680:WARNING:Message: 
+Stacktrace:
+	GetHandleVerifier [0x00D88923+23283]
+	(No symbol) [0x00D4E934]
+	(No symbol) [0x00C80733]
+	(No symbol) [0x00CC326F]
+	(No symbol) [0x00CC34AB]
+	(No symbol) [0x00CFEE42]
+	(No symbol) [0x00CE4464]
+	(No symbol) [0x00CFCB8D]
+	(No symbol) [0x00CE41B6]
+	(No symbol) [0x00CB8017]
+	(No symbol) [0x00CB890D]
+	GetHandleVerifier [0x00E7A5F3+1013699]
+	GetHandleVerifier [0x00E83E4C+1052700]
+	GetHandleVerifier [0x00E7D4B4+1025668]
+	GetHandleVerifier [0x00DAEA2B+179195]
+	(No symbol) [0x00D56833]
+	(No symbol) [0x00D53198]
+	(No symbol) [0x00D53337]
+	(No symbol) [0x00D4B4BE]
+	BaseThreadInitThunk [0x76CDFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x778E80CE+286]
+	RtlGetAppContainerNamedObjectPath [0x778E809E+238]
+
+2024-08-15 16:59:49,448:WARNING:Message: 
+Stacktrace:
+	GetHandleVerifier [0x00D88923+23283]
+	(No symbol) [0x00D4E934]
+	(No symbol) [0x00C80733]
+	(No symbol) [0x00CC326F]
+	(No symbol) [0x00CC34AB]
+	(No symbol) [0x00CFEE42]
+	(No symbol) [0x00CE4464]
+	(No symbol) [0x00CFCB8D]
+	(No symbol) [0x00CE41B6]
+	(No symbol) [0x00CB8017]
+	(No symbol) [0x00CB890D]
+	GetHandleVerifier [0x00E7A5F3+1013699]
+	GetHandleVerifier [0x00E83E4C+1052700]
+	GetHandleVerifier [0x00E7D4B4+1025668]
+	GetHandleVerifier [0x00DAEA2B+179195]
+	(No symbol) [0x00D56833]
+	(No symbol) [0x00D53198]
+	(No symbol) [0x00D53337]
+	(No symbol) [0x00D4B4BE]
+	BaseThreadInitThunk [0x76CDFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x778E80CE+286]
+	RtlGetAppContainerNamedObjectPath [0x778E809E+238]
+
+2024-08-15 16:59:49,463:WARNING:Message: 
+Stacktrace:
+	GetHandleVerifier [0x00D88923+23283]
+	(No symbol) [0x00D4E934]
+	(No symbol) [0x00C80733]
+	(No symbol) [0x00CC326F]
+	(No symbol) [0x00CC34AB]
+	(No symbol) [0x00CFEE42]
+	(No symbol) [0x00CE4464]
+	(No symbol) [0x00CFCB8D]
+	(No symbol) [0x00CE41B6]
+	(No symbol) [0x00CB8017]
+	(No symbol) [0x00CB890D]
+	GetHandleVerifier [0x00E7A5F3+1013699]
+	GetHandleVerifier [0x00E83E4C+1052700]
+	GetHandleVerifier [0x00E7D4B4+1025668]
+	GetHandleVerifier [0x00DAEA2B+179195]
+	(No symbol) [0x00D56833]
+	(No symbol) [0x00D53198]
+	(No symbol) [0x00D53337]
+	(No symbol) [0x00D4B4BE]
+	BaseThreadInitThunk [0x76CDFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x778E80CE+286]
+	RtlGetAppContainerNamedObjectPath [0x778E809E+238]
+
+2024-08-15 17:01:14,710:INFO:====== WebDriver manager ======
+2024-08-15 17:01:14,857:INFO:====== WebDriver manager ======
+2024-08-15 17:01:14,885:INFO:====== WebDriver manager ======
+2024-08-15 17:01:18,520:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 17:01:18,587:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 17:01:18,644:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 17:01:18,947:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 17:01:18,981:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 17:01:19,000:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 17:01:19,045:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 17:01:19,053:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 17:01:19,095:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 17:02:48,342:WARNING:Message: 
+Stacktrace:
+	GetHandleVerifier [0x00D88923+23283]
+	(No symbol) [0x00D4E934]
+	(No symbol) [0x00C80733]
+	(No symbol) [0x00CC326F]
+	(No symbol) [0x00CC34AB]
+	(No symbol) [0x00CFEE42]
+	(No symbol) [0x00CE4464]
+	(No symbol) [0x00CFCB8D]
+	(No symbol) [0x00CE41B6]
+	(No symbol) [0x00CB8017]
+	(No symbol) [0x00CB890D]
+	GetHandleVerifier [0x00E7A5F3+1013699]
+	GetHandleVerifier [0x00E83E4C+1052700]
+	GetHandleVerifier [0x00E7D4B4+1025668]
+	GetHandleVerifier [0x00DAEA2B+179195]
+	(No symbol) [0x00D56833]
+	(No symbol) [0x00D53198]
+	(No symbol) [0x00D53337]
+	(No symbol) [0x00D4B4BE]
+	BaseThreadInitThunk [0x76CDFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x778E80CE+286]
+	RtlGetAppContainerNamedObjectPath [0x778E809E+238]
+
+2024-08-15 17:02:49,421:WARNING:Message: 
+Stacktrace:
+	GetHandleVerifier [0x00D88923+23283]
+	(No symbol) [0x00D4E934]
+	(No symbol) [0x00C80733]
+	(No symbol) [0x00CC326F]
+	(No symbol) [0x00CC34AB]
+	(No symbol) [0x00CFEE42]
+	(No symbol) [0x00CE4464]
+	(No symbol) [0x00CFCB8D]
+	(No symbol) [0x00CE41B6]
+	(No symbol) [0x00CB8017]
+	(No symbol) [0x00CB890D]
+	GetHandleVerifier [0x00E7A5F3+1013699]
+	GetHandleVerifier [0x00E83E4C+1052700]
+	GetHandleVerifier [0x00E7D4B4+1025668]
+	GetHandleVerifier [0x00DAEA2B+179195]
+	(No symbol) [0x00D56833]
+	(No symbol) [0x00D53198]
+	(No symbol) [0x00D53337]
+	(No symbol) [0x00D4B4BE]
+	BaseThreadInitThunk [0x76CDFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x778E80CE+286]
+	RtlGetAppContainerNamedObjectPath [0x778E809E+238]
+
+2024-08-15 17:06:27,210:INFO:====== WebDriver manager ======
+2024-08-15 17:06:27,239:INFO:====== WebDriver manager ======
+2024-08-15 17:06:27,269:INFO:====== WebDriver manager ======
+2024-08-15 17:06:27,301:INFO:====== WebDriver manager ======
+2024-08-15 17:06:27,320:INFO:====== WebDriver manager ======
+2024-08-15 17:06:27,320:INFO:====== WebDriver manager ======
+2024-08-15 17:06:27,320:INFO:====== WebDriver manager ======
+2024-08-15 17:06:27,388:INFO:====== WebDriver manager ======
+2024-08-15 17:06:27,388:INFO:====== WebDriver manager ======
+2024-08-15 17:06:27,388:INFO:====== WebDriver manager ======
+2024-08-15 17:06:40,119:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 17:06:40,189:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 17:06:40,200:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 17:06:40,265:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 17:06:40,287:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 17:06:40,360:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 17:06:40,454:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 17:06:40,496:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 17:06:40,541:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 17:06:40,571:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 17:06:40,613:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 17:06:40,647:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 17:06:40,814:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 17:06:40,882:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 17:06:40,954:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 17:06:41,027:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 17:06:41,100:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 17:06:41,160:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 17:06:41,341:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 17:06:41,405:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 17:06:41,468:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 17:06:41,516:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 17:06:41,591:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 17:06:41,695:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 17:06:42,496:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 17:06:42,501:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 17:06:42,576:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 17:06:42,583:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 17:06:42,652:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 17:06:42,660:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 17:17:50,984:INFO:====== WebDriver manager ======
+2024-08-15 17:17:54,123:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 17:17:54,186:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 17:17:54,237:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 17:18:55,786:INFO:Found price 67.24 for ltc_usdt from uzx.kr
+2024-08-15 17:19:00,197:INFO:====== WebDriver manager ======
+2024-08-15 17:19:03,326:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 17:19:03,377:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 17:19:03,424:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 17:25:53,277:INFO:====== WebDriver manager ======
+2024-08-15 17:25:53,385:INFO:====== WebDriver manager ======
+2024-08-15 17:25:53,438:INFO:====== WebDriver manager ======
+2024-08-15 17:25:57,170:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 17:25:57,230:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 17:25:57,291:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 17:25:57,295:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 17:25:57,330:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 17:25:57,359:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 17:25:57,396:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 17:25:57,419:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 17:25:57,453:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 17:26:28,686:INFO:Found price 59700.40 for btc_usdt from uzx.kr
+2024-08-15 17:26:46,832:INFO:Found price 342.70 for bch_usdt from uzx.kr
+2024-08-15 17:27:13,372:INFO:Found price 109.8870 for aave_usdt from uzx.kr
+2024-08-15 17:30:19,524:INFO:====== WebDriver manager ======
+2024-08-15 17:30:19,529:INFO:====== WebDriver manager ======
+2024-08-15 17:30:19,536:INFO:====== WebDriver manager ======
+2024-08-15 17:30:24,289:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 17:30:24,323:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 17:30:24,339:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 17:30:24,368:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 17:30:24,372:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 17:30:24,386:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 17:30:24,418:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 17:30:24,428:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 17:30:24,471:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 17:30:37,158:ERROR:Fehler beim Abrufen des Preises für 1inch_usdt: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=127.0.6533.119)
+Stacktrace:
+	GetHandleVerifier [0x00D88923+23283]
+	(No symbol) [0x00D4E934]
+	(No symbol) [0x00C80733]
+	(No symbol) [0x00C5D2E3]
+	(No symbol) [0x00CEA64F]
+	(No symbol) [0x00CFC686]
+	(No symbol) [0x00CE41B6]
+	(No symbol) [0x00CB8017]
+	(No symbol) [0x00CB890D]
+	GetHandleVerifier [0x00E7A5F3+1013699]
+	GetHandleVerifier [0x00E83E4C+1052700]
+	GetHandleVerifier [0x00E7D4B4+1025668]
+	GetHandleVerifier [0x00DAEA2B+179195]
+	(No symbol) [0x00D56833]
+	(No symbol) [0x00D53198]
+	(No symbol) [0x00D53337]
+	(No symbol) [0x00D4B4BE]
+	BaseThreadInitThunk [0x76CDFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x778E80CE+286]
+	RtlGetAppContainerNamedObjectPath [0x778E809E+238]
+
+2024-08-15 17:30:41,226:INFO:Found price None for 1inch_usdt from uzx.kr
+2024-08-15 17:31:36,266:INFO:====== WebDriver manager ======
+2024-08-15 17:31:36,287:INFO:====== WebDriver manager ======
+2024-08-15 17:31:36,291:INFO:====== WebDriver manager ======
+2024-08-15 17:31:41,285:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 17:31:41,343:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 17:31:41,345:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 17:31:41,408:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 17:31:41,413:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 17:31:41,429:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 17:31:41,463:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 17:31:41,485:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 17:31:41,543:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 17:32:21,542:INFO:Found price 109.4913 for aave_usdt from uzx.kr
+2024-08-15 17:32:39,713:ERROR:Fehler beim Abrufen des Preises für 1inch_usdt: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00D88923+23283]
+	(No symbol) [0x00D4E934]
+	(No symbol) [0x00C80733]
+	(No symbol) [0x00CC326F]
+	(No symbol) [0x00CC34AB]
+	(No symbol) [0x00CFEE42]
+	(No symbol) [0x00CE4464]
+	(No symbol) [0x00CFCB8D]
+	(No symbol) [0x00CE41B6]
+	(No symbol) [0x00CB8017]
+	(No symbol) [0x00CB890D]
+	GetHandleVerifier [0x00E7A5F3+1013699]
+	GetHandleVerifier [0x00E83E4C+1052700]
+	GetHandleVerifier [0x00E7D4B4+1025668]
+	GetHandleVerifier [0x00DAEA2B+179195]
+	(No symbol) [0x00D56833]
+	(No symbol) [0x00D53198]
+	(No symbol) [0x00D53337]
+	(No symbol) [0x00D4B4BE]
+	BaseThreadInitThunk [0x76CDFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x778E80CE+286]
+	RtlGetAppContainerNamedObjectPath [0x778E809E+238]
+
+2024-08-15 17:32:40,458:ERROR:Fehler beim Abrufen des Preises für bat_usdt: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00D88923+23283]
+	(No symbol) [0x00D4E934]
+	(No symbol) [0x00C80733]
+	(No symbol) [0x00CC326F]
+	(No symbol) [0x00CC34AB]
+	(No symbol) [0x00CFEE42]
+	(No symbol) [0x00CE4464]
+	(No symbol) [0x00CFCB8D]
+	(No symbol) [0x00CE41B6]
+	(No symbol) [0x00CB8017]
+	(No symbol) [0x00CB890D]
+	GetHandleVerifier [0x00E7A5F3+1013699]
+	GetHandleVerifier [0x00E83E4C+1052700]
+	GetHandleVerifier [0x00E7D4B4+1025668]
+	GetHandleVerifier [0x00DAEA2B+179195]
+	(No symbol) [0x00D56833]
+	(No symbol) [0x00D53198]
+	(No symbol) [0x00D53337]
+	(No symbol) [0x00D4B4BE]
+	BaseThreadInitThunk [0x76CDFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x778E80CE+286]
+	RtlGetAppContainerNamedObjectPath [0x778E809E+238]
+
+2024-08-15 17:32:41,801:INFO:Found price None for 1inch_usdt from uzx.kr
+2024-08-15 17:32:42,566:INFO:Found price None for bat_usdt from uzx.kr
+2024-08-15 17:32:53,754:INFO:====== WebDriver manager ======
+2024-08-15 17:32:53,761:INFO:====== WebDriver manager ======
+2024-08-15 17:32:53,769:INFO:====== WebDriver manager ======
+2024-08-15 17:32:57,586:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 17:32:57,616:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 17:32:57,639:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 17:32:57,642:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 17:32:57,662:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 17:32:57,686:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 17:32:57,688:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 17:32:57,712:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 17:32:57,740:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 17:33:27,388:INFO:====== WebDriver manager ======
+2024-08-15 17:33:30,465:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 17:33:30,532:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 17:33:30,588:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 17:34:13,453:INFO:Found price 0.257921 for 1inch_usdt from uzx.kr
+2024-08-15 17:38:00,372:INFO:====== WebDriver manager ======
+2024-08-15 17:38:00,373:INFO:====== WebDriver manager ======
+2024-08-15 17:38:00,390:INFO:====== WebDriver manager ======
+2024-08-15 17:38:04,577:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 17:38:04,578:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 17:38:04,589:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 17:38:04,660:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 17:38:04,661:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 17:38:04,673:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 17:38:04,748:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 17:38:04,749:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 17:38:04,765:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 17:39:55,591:INFO:Found price 59472.13 for btc_usdt from uzx.kr
+2024-08-15 17:40:00,324:INFO:Found price 0.257604 for 1inch_usdt from uzx.kr
+2024-08-15 17:40:10,779:INFO:Found price 2661.20 for eth_usdt from uzx.kr
+2024-08-15 17:40:52,639:INFO:====== WebDriver manager ======
+2024-08-15 17:40:52,645:INFO:====== WebDriver manager ======
+2024-08-15 17:40:52,670:INFO:====== WebDriver manager ======
+2024-08-15 17:40:52,687:INFO:====== WebDriver manager ======
+2024-08-15 17:40:52,691:INFO:====== WebDriver manager ======
+2024-08-15 17:40:57,813:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 17:40:57,847:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 17:40:57,871:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 17:40:57,906:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 17:40:57,926:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 17:40:57,971:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 17:40:57,992:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 17:40:58,060:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 17:40:58,113:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 17:40:58,114:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 17:40:58,159:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 17:40:58,205:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 17:40:58,237:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 17:40:58,286:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 17:40:58,344:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 17:41:31,671:INFO:Found price 59449.00 for btc_usdt from uzx.kr
+2024-08-15 17:41:36,873:ERROR:Fehler beim Abrufen des Preises für avax_usdt: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00D88923+23283]
+	(No symbol) [0x00D4E934]
+	(No symbol) [0x00C80733]
+	(No symbol) [0x00CC326F]
+	(No symbol) [0x00CC34AB]
+	(No symbol) [0x00CFEE42]
+	(No symbol) [0x00CE4464]
+	(No symbol) [0x00CFCB8D]
+	(No symbol) [0x00CE41B6]
+	(No symbol) [0x00CB8017]
+	(No symbol) [0x00CB890D]
+	GetHandleVerifier [0x00E7A5F3+1013699]
+	GetHandleVerifier [0x00E83E4C+1052700]
+	GetHandleVerifier [0x00E7D4B4+1025668]
+	GetHandleVerifier [0x00DAEA2B+179195]
+	(No symbol) [0x00D56833]
+	(No symbol) [0x00D53198]
+	(No symbol) [0x00D53337]
+	(No symbol) [0x00D4B4BE]
+	BaseThreadInitThunk [0x76CDFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x778E80CE+286]
+	RtlGetAppContainerNamedObjectPath [0x778E809E+238]
+
+2024-08-15 17:41:39,046:INFO:Found price None for avax_usdt from uzx.kr
+2024-08-15 17:41:42,313:INFO:Found price 0.257626 for 1inch_usdt from uzx.kr
+2024-08-15 17:41:43,942:INFO:Found price 19.1797 for etc_usdt from uzx.kr
+2024-08-15 17:41:58,565:INFO:Found price 2663.000000 for eth_usdt from uzx.kr
+2024-08-15 17:45:26,196:INFO:====== WebDriver manager ======
+2024-08-15 17:45:26,292:INFO:====== WebDriver manager ======
+2024-08-15 17:45:26,334:INFO:====== WebDriver manager ======
+2024-08-15 17:45:26,348:INFO:====== WebDriver manager ======
+2024-08-15 17:45:30,853:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 17:45:30,862:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 17:45:30,916:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 17:45:30,917:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 17:45:30,978:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 17:45:30,978:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 17:45:31,046:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 17:45:31,055:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 17:45:31,093:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 17:45:31,103:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 17:45:31,144:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 17:45:31,147:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 17:46:25,300:ERROR:Fehler beim Abrufen des Preises für avax_usdt: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00D88923+23283]
+	(No symbol) [0x00D4E934]
+	(No symbol) [0x00C80733]
+	(No symbol) [0x00CC326F]
+	(No symbol) [0x00CC34AB]
+	(No symbol) [0x00CFEE42]
+	(No symbol) [0x00CE4464]
+	(No symbol) [0x00CFCB8D]
+	(No symbol) [0x00CE41B6]
+	(No symbol) [0x00CB8017]
+	(No symbol) [0x00CB890D]
+	GetHandleVerifier [0x00E7A5F3+1013699]
+	GetHandleVerifier [0x00E83E4C+1052700]
+	GetHandleVerifier [0x00E7D4B4+1025668]
+	GetHandleVerifier [0x00DAEA2B+179195]
+	(No symbol) [0x00D56833]
+	(No symbol) [0x00D53198]
+	(No symbol) [0x00D53337]
+	(No symbol) [0x00D4B4BE]
+	BaseThreadInitThunk [0x76CDFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x778E80CE+286]
+	RtlGetAppContainerNamedObjectPath [0x778E809E+238]
+
+2024-08-15 17:46:27,409:INFO:Found price None for avax_usdt from uzx.kr
+2024-08-15 17:46:32,769:ERROR:Fehler beim Abrufen des Preises für ada_usdt: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00D88923+23283]
+	(No symbol) [0x00D4E934]
+	(No symbol) [0x00C80733]
+	(No symbol) [0x00CC326F]
+	(No symbol) [0x00CC34AB]
+	(No symbol) [0x00CFEE42]
+	(No symbol) [0x00CE4464]
+	(No symbol) [0x00CFCB8D]
+	(No symbol) [0x00CE41B6]
+	(No symbol) [0x00CB8017]
+	(No symbol) [0x00CB890D]
+	GetHandleVerifier [0x00E7A5F3+1013699]
+	GetHandleVerifier [0x00E83E4C+1052700]
+	GetHandleVerifier [0x00E7D4B4+1025668]
+	GetHandleVerifier [0x00DAEA2B+179195]
+	(No symbol) [0x00D56833]
+	(No symbol) [0x00D53198]
+	(No symbol) [0x00D53337]
+	(No symbol) [0x00D4B4BE]
+	BaseThreadInitThunk [0x76CDFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x778E80CE+286]
+	RtlGetAppContainerNamedObjectPath [0x778E809E+238]
+
+2024-08-15 17:46:34,852:INFO:Found price None for ada_usdt from uzx.kr
+2024-08-15 17:46:39,259:ERROR:Fehler beim Abrufen des Preises für atom_usdt: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00D88923+23283]
+	(No symbol) [0x00D4E934]
+	(No symbol) [0x00C80733]
+	(No symbol) [0x00CC326F]
+	(No symbol) [0x00CC34AB]
+	(No symbol) [0x00CFEE42]
+	(No symbol) [0x00CE4464]
+	(No symbol) [0x00CFCB8D]
+	(No symbol) [0x00CE41B6]
+	(No symbol) [0x00CB8017]
+	(No symbol) [0x00CB890D]
+	GetHandleVerifier [0x00E7A5F3+1013699]
+	GetHandleVerifier [0x00E83E4C+1052700]
+	GetHandleVerifier [0x00E7D4B4+1025668]
+	GetHandleVerifier [0x00DAEA2B+179195]
+	(No symbol) [0x00D56833]
+	(No symbol) [0x00D53198]
+	(No symbol) [0x00D53337]
+	(No symbol) [0x00D4B4BE]
+	BaseThreadInitThunk [0x76CDFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x778E80CE+286]
+	RtlGetAppContainerNamedObjectPath [0x778E809E+238]
+
+2024-08-15 17:46:41,345:INFO:Found price None for atom_usdt from uzx.kr
+2024-08-15 17:47:19,454:INFO:Found price 0.258228 for 1inch_usdt from uzx.kr
+2024-08-15 17:47:52,160:INFO:====== WebDriver manager ======
+2024-08-15 17:47:52,171:INFO:====== WebDriver manager ======
+2024-08-15 17:47:52,177:INFO:====== WebDriver manager ======
+2024-08-15 17:47:52,179:INFO:====== WebDriver manager ======
+2024-08-15 17:47:56,954:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 17:47:57,013:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 17:47:57,024:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 17:47:57,053:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 17:47:57,074:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 17:47:57,075:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 17:47:57,102:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 17:47:57,120:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 17:47:57,159:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 17:47:57,240:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 17:47:57,286:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 17:47:57,336:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 17:48:21,537:INFO:Found price 0.258400 for 1inch_usdt from uzx.kr
+2024-08-15 17:48:25,208:INFO:Found price 109.9369 for aave_usdt from uzx.kr
+2024-08-15 17:48:38,962:ERROR:Fehler beim Abrufen des Preises für algo_usdt: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00D88923+23283]
+	(No symbol) [0x00D4E934]
+	(No symbol) [0x00C80733]
+	(No symbol) [0x00CC326F]
+	(No symbol) [0x00CC34AB]
+	(No symbol) [0x00CFEE42]
+	(No symbol) [0x00CE4464]
+	(No symbol) [0x00CFCB8D]
+	(No symbol) [0x00CE41B6]
+	(No symbol) [0x00CB8017]
+	(No symbol) [0x00CB890D]
+	GetHandleVerifier [0x00E7A5F3+1013699]
+	GetHandleVerifier [0x00E83E4C+1052700]
+	GetHandleVerifier [0x00E7D4B4+1025668]
+	GetHandleVerifier [0x00DAEA2B+179195]
+	(No symbol) [0x00D56833]
+	(No symbol) [0x00D53198]
+	(No symbol) [0x00D53337]
+	(No symbol) [0x00D4B4BE]
+	BaseThreadInitThunk [0x76CDFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x778E80CE+286]
+	RtlGetAppContainerNamedObjectPath [0x778E809E+238]
+
+2024-08-15 17:48:41,099:INFO:Found price None for algo_usdt from uzx.kr
+2024-08-15 17:48:55,711:ERROR:Fehler beim Abrufen des Preises für ada_usdt: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00D88923+23283]
+	(No symbol) [0x00D4E934]
+	(No symbol) [0x00C80733]
+	(No symbol) [0x00CC326F]
+	(No symbol) [0x00CC34AB]
+	(No symbol) [0x00CFEE42]
+	(No symbol) [0x00CE4464]
+	(No symbol) [0x00CFCB8D]
+	(No symbol) [0x00CE41B6]
+	(No symbol) [0x00CB8017]
+	(No symbol) [0x00CB890D]
+	GetHandleVerifier [0x00E7A5F3+1013699]
+	GetHandleVerifier [0x00E83E4C+1052700]
+	GetHandleVerifier [0x00E7D4B4+1025668]
+	GetHandleVerifier [0x00DAEA2B+179195]
+	(No symbol) [0x00D56833]
+	(No symbol) [0x00D53198]
+	(No symbol) [0x00D53337]
+	(No symbol) [0x00D4B4BE]
+	BaseThreadInitThunk [0x76CDFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x778E80CE+286]
+	RtlGetAppContainerNamedObjectPath [0x778E809E+238]
+
+2024-08-15 17:48:57,859:INFO:Found price None for ada_usdt from uzx.kr
+2024-08-15 17:49:42,924:INFO:====== WebDriver manager ======
+2024-08-15 17:49:42,933:INFO:====== WebDriver manager ======
+2024-08-15 17:49:42,960:INFO:====== WebDriver manager ======
+2024-08-15 17:49:42,964:INFO:====== WebDriver manager ======
+2024-08-15 17:49:47,523:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 17:49:47,557:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 17:49:47,576:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 17:49:47,605:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 17:49:47,617:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 17:49:47,624:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 17:49:47,653:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 17:49:47,664:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 17:49:47,690:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 17:49:47,709:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 17:49:47,738:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 17:49:47,785:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 17:50:36,670:ERROR:Fehler beim Abrufen des Preises für algo_usdt: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00D88923+23283]
+	(No symbol) [0x00D4E934]
+	(No symbol) [0x00C80733]
+	(No symbol) [0x00CC326F]
+	(No symbol) [0x00CC34AB]
+	(No symbol) [0x00CFEE42]
+	(No symbol) [0x00CE4464]
+	(No symbol) [0x00CFCB8D]
+	(No symbol) [0x00CE41B6]
+	(No symbol) [0x00CB8017]
+	(No symbol) [0x00CB890D]
+	GetHandleVerifier [0x00E7A5F3+1013699]
+	GetHandleVerifier [0x00E83E4C+1052700]
+	GetHandleVerifier [0x00E7D4B4+1025668]
+	GetHandleVerifier [0x00DAEA2B+179195]
+	(No symbol) [0x00D56833]
+	(No symbol) [0x00D53198]
+	(No symbol) [0x00D53337]
+	(No symbol) [0x00D4B4BE]
+	BaseThreadInitThunk [0x76CDFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x778E80CE+286]
+	RtlGetAppContainerNamedObjectPath [0x778E809E+238]
+
+2024-08-15 17:50:38,752:INFO:Found price None for algo_usdt from uzx.kr
+2024-08-15 17:50:43,576:INFO:Found price 0.258364 for 1inch_usdt from uzx.kr
+2024-08-15 17:51:05,058:ERROR:Fehler beim Abrufen des Preises für ada_usdt: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00D88923+23283]
+	(No symbol) [0x00D4E934]
+	(No symbol) [0x00C80733]
+	(No symbol) [0x00CC326F]
+	(No symbol) [0x00CC34AB]
+	(No symbol) [0x00CFEE42]
+	(No symbol) [0x00CE4464]
+	(No symbol) [0x00CFCB8D]
+	(No symbol) [0x00CE41B6]
+	(No symbol) [0x00CB8017]
+	(No symbol) [0x00CB890D]
+	GetHandleVerifier [0x00E7A5F3+1013699]
+	GetHandleVerifier [0x00E83E4C+1052700]
+	GetHandleVerifier [0x00E7D4B4+1025668]
+	GetHandleVerifier [0x00DAEA2B+179195]
+	(No symbol) [0x00D56833]
+	(No symbol) [0x00D53198]
+	(No symbol) [0x00D53337]
+	(No symbol) [0x00D4B4BE]
+	BaseThreadInitThunk [0x76CDFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x778E80CE+286]
+	RtlGetAppContainerNamedObjectPath [0x778E809E+238]
+
+2024-08-15 17:51:07,257:INFO:Found price None for ada_usdt from uzx.kr
+2024-08-15 17:51:12,612:INFO:Found price 110.3500 for aave_usdt from uzx.kr
+2024-08-15 17:51:40,924:INFO:====== WebDriver manager ======
+2024-08-15 17:51:40,936:INFO:====== WebDriver manager ======
+2024-08-15 17:51:40,950:INFO:====== WebDriver manager ======
+2024-08-15 17:51:40,954:INFO:====== WebDriver manager ======
+2024-08-15 17:51:45,938:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 17:51:46,002:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 17:51:46,063:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 17:51:46,270:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 17:51:46,322:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 17:51:46,370:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 17:51:46,386:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 17:51:46,388:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 17:51:46,449:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 17:51:46,450:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 17:51:46,500:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 17:51:46,503:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 17:52:34,351:INFO:Found price 0.259085 for 1inch_usdt from uzx.kr
+2024-08-15 17:52:35,967:INFO:Found price 110.7961 for aave_usdt from uzx.kr
+2024-08-15 17:52:51,776:ERROR:Fehler beim Abrufen des Preises für algo_usdt: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00D88923+23283]
+	(No symbol) [0x00D4E934]
+	(No symbol) [0x00C80733]
+	(No symbol) [0x00CC326F]
+	(No symbol) [0x00CC34AB]
+	(No symbol) [0x00CFEE42]
+	(No symbol) [0x00CE4464]
+	(No symbol) [0x00CFCB8D]
+	(No symbol) [0x00CE41B6]
+	(No symbol) [0x00CB8017]
+	(No symbol) [0x00CB890D]
+	GetHandleVerifier [0x00E7A5F3+1013699]
+	GetHandleVerifier [0x00E83E4C+1052700]
+	GetHandleVerifier [0x00E7D4B4+1025668]
+	GetHandleVerifier [0x00DAEA2B+179195]
+	(No symbol) [0x00D56833]
+	(No symbol) [0x00D53198]
+	(No symbol) [0x00D53337]
+	(No symbol) [0x00D4B4BE]
+	BaseThreadInitThunk [0x76CDFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x778E80CE+286]
+	RtlGetAppContainerNamedObjectPath [0x778E809E+238]
+
+2024-08-15 17:52:53,903:INFO:Found price None for algo_usdt from uzx.kr
+2024-08-15 17:53:08,274:ERROR:Fehler beim Abrufen des Preises für ada_usdt: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00D88923+23283]
+	(No symbol) [0x00D4E934]
+	(No symbol) [0x00C80733]
+	(No symbol) [0x00CC326F]
+	(No symbol) [0x00CC34AB]
+	(No symbol) [0x00CFEE42]
+	(No symbol) [0x00CE4464]
+	(No symbol) [0x00CFCB8D]
+	(No symbol) [0x00CE41B6]
+	(No symbol) [0x00CB8017]
+	(No symbol) [0x00CB890D]
+	GetHandleVerifier [0x00E7A5F3+1013699]
+	GetHandleVerifier [0x00E83E4C+1052700]
+	GetHandleVerifier [0x00E7D4B4+1025668]
+	GetHandleVerifier [0x00DAEA2B+179195]
+	(No symbol) [0x00D56833]
+	(No symbol) [0x00D53198]
+	(No symbol) [0x00D53337]
+	(No symbol) [0x00D4B4BE]
+	BaseThreadInitThunk [0x76CDFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x778E80CE+286]
+	RtlGetAppContainerNamedObjectPath [0x778E809E+238]
+
+2024-08-15 17:53:10,410:INFO:Found price None for ada_usdt from uzx.kr
+2024-08-15 17:53:49,408:INFO:====== WebDriver manager ======
+2024-08-15 17:53:49,415:INFO:====== WebDriver manager ======
+2024-08-15 17:53:49,430:INFO:====== WebDriver manager ======
+2024-08-15 17:53:53,630:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 17:53:53,630:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 17:53:53,633:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 17:53:53,681:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 17:53:53,685:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 17:53:53,686:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 17:53:53,734:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 17:53:53,734:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 17:53:53,735:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 17:54:38,099:ERROR:Fehler beim Abrufen des Preises für ada_usdt: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00D88923+23283]
+	(No symbol) [0x00D4E934]
+	(No symbol) [0x00C80733]
+	(No symbol) [0x00CC326F]
+	(No symbol) [0x00CC34AB]
+	(No symbol) [0x00CFEE42]
+	(No symbol) [0x00CE4464]
+	(No symbol) [0x00CFCB8D]
+	(No symbol) [0x00CE41B6]
+	(No symbol) [0x00CB8017]
+	(No symbol) [0x00CB890D]
+	GetHandleVerifier [0x00E7A5F3+1013699]
+	GetHandleVerifier [0x00E83E4C+1052700]
+	GetHandleVerifier [0x00E7D4B4+1025668]
+	GetHandleVerifier [0x00DAEA2B+179195]
+	(No symbol) [0x00D56833]
+	(No symbol) [0x00D53198]
+	(No symbol) [0x00D53337]
+	(No symbol) [0x00D4B4BE]
+	BaseThreadInitThunk [0x76CDFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x778E80CE+286]
+	RtlGetAppContainerNamedObjectPath [0x778E809E+238]
+
+2024-08-15 17:54:40,314:INFO:Found price None for ada_usdt from uzx.kr
+2024-08-15 17:55:02,478:INFO:Found price 110.8476 for aave_usdt from uzx.kr
+2024-08-15 17:55:13,232:ERROR:Fehler beim Abrufen des Preises für algo_usdt: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00D88923+23283]
+	(No symbol) [0x00D4E934]
+	(No symbol) [0x00C80733]
+	(No symbol) [0x00CC326F]
+	(No symbol) [0x00CC34AB]
+	(No symbol) [0x00CFEE42]
+	(No symbol) [0x00CE4464]
+	(No symbol) [0x00CFCB8D]
+	(No symbol) [0x00CE41B6]
+	(No symbol) [0x00CB8017]
+	(No symbol) [0x00CB890D]
+	GetHandleVerifier [0x00E7A5F3+1013699]
+	GetHandleVerifier [0x00E83E4C+1052700]
+	GetHandleVerifier [0x00E7D4B4+1025668]
+	GetHandleVerifier [0x00DAEA2B+179195]
+	(No symbol) [0x00D56833]
+	(No symbol) [0x00D53198]
+	(No symbol) [0x00D53337]
+	(No symbol) [0x00D4B4BE]
+	BaseThreadInitThunk [0x76CDFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x778E80CE+286]
+	RtlGetAppContainerNamedObjectPath [0x778E809E+238]
+
+2024-08-15 17:55:15,352:INFO:Found price None for algo_usdt from uzx.kr
+2024-08-15 18:02:10,244:INFO:====== WebDriver manager ======
+2024-08-15 18:02:10,248:INFO:====== WebDriver manager ======
+2024-08-15 18:02:10,283:INFO:====== WebDriver manager ======
+2024-08-15 18:02:10,295:INFO:====== WebDriver manager ======
+2024-08-15 18:02:10,304:INFO:====== WebDriver manager ======
+2024-08-15 18:02:10,325:INFO:====== WebDriver manager ======
+2024-08-15 18:02:10,329:INFO:====== WebDriver manager ======
+2024-08-15 18:02:10,333:INFO:====== WebDriver manager ======
+2024-08-15 18:02:10,336:INFO:====== WebDriver manager ======
+2024-08-15 18:02:10,338:INFO:====== WebDriver manager ======
+2024-08-15 18:02:24,978:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 18:02:25,036:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 18:02:25,100:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 18:02:25,366:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 18:02:25,424:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 18:02:25,506:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 18:02:25,536:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 18:02:25,537:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 18:02:25,537:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 18:02:25,631:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 18:02:25,633:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 18:02:25,633:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 18:02:25,747:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 18:02:25,750:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 18:02:25,751:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 18:02:25,822:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 18:02:25,918:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 18:02:26,000:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 18:02:26,082:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 18:02:26,122:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 18:02:26,139:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 18:02:26,179:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 18:02:26,184:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 18:02:26,197:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 18:02:26,235:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 18:02:26,239:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 18:02:26,276:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 18:02:26,286:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 18:02:26,327:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 18:02:26,380:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 18:02:48,640:INFO:Found price 19.2191 for etc_usdt from uzx.kr
+2024-08-15 18:02:48,686:INFO:Found price 0.258532 for 1inch_usdt from uzx.kr
+2024-08-15 18:02:48,701:INFO:Found price 2670.11 for eth_usdt from uzx.kr
+2024-08-15 18:02:48,763:INFO:Found price 10.6680 for link_usdt from uzx.kr
+2024-08-15 18:02:49,009:INFO:Found price 0.105410 for doge_usdt from uzx.kr
+2024-08-15 18:02:49,733:INFO:Found price 111.1454 for aave_usdt from uzx.kr
+2024-08-15 18:02:54,382:INFO:Found price 67.41 for ltc_usdt from uzx.kr
+2024-08-15 18:02:56,453:INFO:Found price 3.6896 for fil_usdt from uzx.kr
+2024-08-15 18:02:58,534:ERROR:Fehler beim Abrufen des Preises für uni_usdt: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00D88923+23283]
+	(No symbol) [0x00D4E934]
+	(No symbol) [0x00C80733]
+	(No symbol) [0x00CC326F]
+	(No symbol) [0x00CC34AB]
+	(No symbol) [0x00CFEE42]
+	(No symbol) [0x00CE4464]
+	(No symbol) [0x00CFCB8D]
+	(No symbol) [0x00CE41B6]
+	(No symbol) [0x00CB8017]
+	(No symbol) [0x00CB890D]
+	GetHandleVerifier [0x00E7A5F3+1013699]
+	GetHandleVerifier [0x00E83E4C+1052700]
+	GetHandleVerifier [0x00E7D4B4+1025668]
+	GetHandleVerifier [0x00DAEA2B+179195]
+	(No symbol) [0x00D56833]
+	(No symbol) [0x00D53198]
+	(No symbol) [0x00D53337]
+	(No symbol) [0x00D4B4BE]
+	BaseThreadInitThunk [0x76CDFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x778E80CE+286]
+	RtlGetAppContainerNamedObjectPath [0x778E809E+238]
+
+2024-08-15 18:03:00,659:INFO:Found price None for uni_usdt from uzx.kr
+2024-08-15 18:03:01,216:ERROR:Fehler beim Abrufen des Preises für btc_usdt: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00D88923+23283]
+	(No symbol) [0x00D4E934]
+	(No symbol) [0x00C80733]
+	(No symbol) [0x00CC326F]
+	(No symbol) [0x00CC34AB]
+	(No symbol) [0x00CFEE42]
+	(No symbol) [0x00CE4464]
+	(No symbol) [0x00CFCB8D]
+	(No symbol) [0x00CE41B6]
+	(No symbol) [0x00CB8017]
+	(No symbol) [0x00CB890D]
+	GetHandleVerifier [0x00E7A5F3+1013699]
+	GetHandleVerifier [0x00E83E4C+1052700]
+	GetHandleVerifier [0x00E7D4B4+1025668]
+	GetHandleVerifier [0x00DAEA2B+179195]
+	(No symbol) [0x00D56833]
+	(No symbol) [0x00D53198]
+	(No symbol) [0x00D53337]
+	(No symbol) [0x00D4B4BE]
+	BaseThreadInitThunk [0x76CDFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x778E80CE+286]
+	RtlGetAppContainerNamedObjectPath [0x778E809E+238]
+
+2024-08-15 18:03:03,380:INFO:Found price None for btc_usdt from uzx.kr
+2024-08-15 18:03:15,760:INFO:====== WebDriver manager ======
+2024-08-15 18:03:15,773:INFO:====== WebDriver manager ======
+2024-08-15 18:03:15,786:INFO:====== WebDriver manager ======
+2024-08-15 18:03:15,802:INFO:====== WebDriver manager ======
+2024-08-15 18:03:15,811:INFO:====== WebDriver manager ======
+2024-08-15 18:03:15,821:INFO:====== WebDriver manager ======
+2024-08-15 18:03:15,827:INFO:====== WebDriver manager ======
+2024-08-15 18:03:15,829:INFO:====== WebDriver manager ======
+2024-08-15 18:03:15,831:INFO:====== WebDriver manager ======
+2024-08-15 18:03:15,836:INFO:====== WebDriver manager ======
+2024-08-15 18:03:26,711:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 18:03:26,767:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 18:03:26,849:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 18:03:26,857:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 18:03:26,893:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 18:03:26,901:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 18:03:26,910:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 18:03:26,969:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 18:03:26,969:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 18:03:27,132:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 18:03:27,138:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 18:03:27,196:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 18:03:27,196:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 18:03:27,296:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 18:03:27,318:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 18:03:27,829:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 18:03:27,833:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 18:03:27,881:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 18:03:27,886:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 18:03:27,941:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 18:03:27,941:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 18:03:28,009:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 18:03:28,061:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 18:03:28,110:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 18:03:28,155:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 18:03:28,219:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 18:03:28,266:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 18:03:28,274:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 18:03:28,320:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 18:03:28,370:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 18:03:48,537:INFO:Found price 2671.20 for eth_usdt from uzx.kr
+2024-08-15 18:03:51,672:INFO:Found price 10.6700 for link_usdt from uzx.kr
+2024-08-15 18:03:51,779:INFO:Found price 59740.50 for btc_usdt from uzx.kr
+2024-08-15 18:03:52,341:INFO:Found price 3.6900 for fil_usdt from uzx.kr
+2024-08-15 18:03:52,387:INFO:Found price 111.1280 for aave_usdt from uzx.kr
+2024-08-15 18:03:53,115:INFO:Found price 0.105499 for doge_usdt from uzx.kr
+2024-08-15 18:03:53,117:INFO:Found price 0.258900 for 1inch_usdt from uzx.kr
+2024-08-15 18:03:57,032:ERROR:Fehler beim Abrufen des Preises für etc_usdt: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00D88923+23283]
+	(No symbol) [0x00D4E934]
+	(No symbol) [0x00C80733]
+	(No symbol) [0x00CC326F]
+	(No symbol) [0x00CC34AB]
+	(No symbol) [0x00CFEE42]
+	(No symbol) [0x00CE4464]
+	(No symbol) [0x00CFCB8D]
+	(No symbol) [0x00CE41B6]
+	(No symbol) [0x00CB8017]
+	(No symbol) [0x00CB890D]
+	GetHandleVerifier [0x00E7A5F3+1013699]
+	GetHandleVerifier [0x00E83E4C+1052700]
+	GetHandleVerifier [0x00E7D4B4+1025668]
+	GetHandleVerifier [0x00DAEA2B+179195]
+	(No symbol) [0x00D56833]
+	(No symbol) [0x00D53198]
+	(No symbol) [0x00D53337]
+	(No symbol) [0x00D4B4BE]
+	BaseThreadInitThunk [0x76CDFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x778E80CE+286]
+	RtlGetAppContainerNamedObjectPath [0x778E809E+238]
+
+2024-08-15 18:03:59,443:INFO:Found price None for etc_usdt from uzx.kr
+2024-08-15 18:04:00,877:INFO:Found price 67.41 for ltc_usdt from uzx.kr
+2024-08-15 18:04:01,043:ERROR:Fehler beim Abrufen des Preises für uni_usdt: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00D88923+23283]
+	(No symbol) [0x00D4E934]
+	(No symbol) [0x00C80733]
+	(No symbol) [0x00CC326F]
+	(No symbol) [0x00CC34AB]
+	(No symbol) [0x00CFEE42]
+	(No symbol) [0x00CE4464]
+	(No symbol) [0x00CFCB8D]
+	(No symbol) [0x00CE41B6]
+	(No symbol) [0x00CB8017]
+	(No symbol) [0x00CB890D]
+	GetHandleVerifier [0x00E7A5F3+1013699]
+	GetHandleVerifier [0x00E83E4C+1052700]
+	GetHandleVerifier [0x00E7D4B4+1025668]
+	GetHandleVerifier [0x00DAEA2B+179195]
+	(No symbol) [0x00D56833]
+	(No symbol) [0x00D53198]
+	(No symbol) [0x00D53337]
+	(No symbol) [0x00D4B4BE]
+	BaseThreadInitThunk [0x76CDFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x778E80CE+286]
+	RtlGetAppContainerNamedObjectPath [0x778E809E+238]
+
+2024-08-15 18:04:03,204:INFO:Found price None for uni_usdt from uzx.kr
+2024-08-15 18:04:30,721:INFO:====== WebDriver manager ======
+2024-08-15 18:04:33,937:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 18:04:33,987:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 18:04:34,037:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 18:05:25,424:INFO:Found price 6.4300 for uni_usdt from uzx.kr
+2024-08-15 18:13:39,600:INFO:====== WebDriver manager ======
+2024-08-15 18:13:39,605:INFO:====== WebDriver manager ======
+2024-08-15 18:13:43,270:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 18:13:43,282:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 18:13:43,320:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 18:13:43,327:INFO:Get LATEST chromedriver version for google-chrome
+2024-08-15 18:13:43,377:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 18:13:43,380:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\127.0.6533.119\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-15 18:14:37,367:INFO:Found price 59632.00 for btc_usdt from uzx.kr
+2024-08-15 18:14:46,309:ERROR:Fehler beim Abrufen des Preises für atom_usdt: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00D88923+23283]
+	(No symbol) [0x00D4E934]
+	(No symbol) [0x00C80733]
+	(No symbol) [0x00CC326F]
+	(No symbol) [0x00CC34AB]
+	(No symbol) [0x00CFEE42]
+	(No symbol) [0x00CE4464]
+	(No symbol) [0x00CFCB8D]
+	(No symbol) [0x00CE41B6]
+	(No symbol) [0x00CB8017]
+	(No symbol) [0x00CB890D]
+	GetHandleVerifier [0x00E7A5F3+1013699]
+	GetHandleVerifier [0x00E83E4C+1052700]
+	GetHandleVerifier [0x00E7D4B4+1025668]
+	GetHandleVerifier [0x00DAEA2B+179195]
+	(No symbol) [0x00D56833]
+	(No symbol) [0x00D53198]
+	(No symbol) [0x00D53337]
+	(No symbol) [0x00D4B4BE]
+	BaseThreadInitThunk [0x76CDFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x778E80CE+286]
+	RtlGetAppContainerNamedObjectPath [0x778E809E+238]
+
+2024-08-15 18:14:48,436:INFO:Found price None for atom_usdt from uzx.kr
+2024-09-02 01:31:49,742:INFO:====== WebDriver manager ======
+2024-09-02 01:31:49,750:INFO:====== WebDriver manager ======
+2024-09-02 01:31:49,756:INFO:====== WebDriver manager ======
+2024-09-02 01:31:49,791:INFO:====== WebDriver manager ======
+2024-09-02 01:31:49,818:INFO:====== WebDriver manager ======
+2024-09-02 01:31:49,821:INFO:====== WebDriver manager ======
+2024-09-02 01:31:49,833:INFO:====== WebDriver manager ======
+2024-09-02 01:31:49,839:INFO:====== WebDriver manager ======
+2024-09-02 01:31:49,844:INFO:====== WebDriver manager ======
+2024-09-02 01:31:49,846:INFO:====== WebDriver manager ======
+2024-09-02 01:31:54,341:INFO:Get LATEST chromedriver version for google-chrome
+2024-09-02 01:31:54,341:INFO:Get LATEST chromedriver version for google-chrome
+2024-09-02 01:31:54,342:INFO:Get LATEST chromedriver version for google-chrome
+2024-09-02 01:31:54,346:INFO:Get LATEST chromedriver version for google-chrome
+2024-09-02 01:31:54,359:INFO:Get LATEST chromedriver version for google-chrome
+2024-09-02 01:31:54,360:INFO:Get LATEST chromedriver version for google-chrome
+2024-09-02 01:31:54,361:INFO:Get LATEST chromedriver version for google-chrome
+2024-09-02 01:31:54,368:INFO:Get LATEST chromedriver version for google-chrome
+2024-09-02 01:31:54,391:INFO:Get LATEST chromedriver version for google-chrome
+2024-09-02 01:31:54,410:INFO:Get LATEST chromedriver version for google-chrome
+2024-09-02 01:31:54,410:INFO:Get LATEST chromedriver version for google-chrome
+2024-09-02 01:31:54,411:INFO:Get LATEST chromedriver version for google-chrome
+2024-09-02 01:31:54,416:INFO:Get LATEST chromedriver version for google-chrome
+2024-09-02 01:31:54,421:INFO:Get LATEST chromedriver version for google-chrome
+2024-09-02 01:31:54,422:INFO:Get LATEST chromedriver version for google-chrome
+2024-09-02 01:31:54,422:INFO:Get LATEST chromedriver version for google-chrome
+2024-09-02 01:31:54,422:INFO:Get LATEST chromedriver version for google-chrome
+2024-09-02 01:31:54,422:INFO:Get LATEST chromedriver version for google-chrome
+2024-09-02 01:31:54,439:INFO:Get LATEST chromedriver version for google-chrome
+2024-09-02 01:31:54,456:INFO:There is no [win64] chromedriver "128.0.6613.86" for browser google-chrome "128.0.6613" in cache
+2024-09-02 01:31:54,456:INFO:Get LATEST chromedriver version for google-chrome
+2024-09-02 01:31:54,461:INFO:There is no [win64] chromedriver "128.0.6613.86" for browser google-chrome "128.0.6613" in cache
+2024-09-02 01:31:54,461:INFO:Get LATEST chromedriver version for google-chrome
+2024-09-02 01:31:54,462:INFO:There is no [win64] chromedriver "128.0.6613.86" for browser google-chrome "128.0.6613" in cache
+2024-09-02 01:31:54,462:INFO:Get LATEST chromedriver version for google-chrome
+2024-09-02 01:31:54,466:INFO:Get LATEST chromedriver version for google-chrome
+2024-09-02 01:31:54,468:INFO:There is no [win64] chromedriver "128.0.6613.86" for browser google-chrome "128.0.6613" in cache
+2024-09-02 01:31:54,469:INFO:Get LATEST chromedriver version for google-chrome
+2024-09-02 01:31:54,470:INFO:There is no [win64] chromedriver "128.0.6613.86" for browser google-chrome "128.0.6613" in cache
+2024-09-02 01:31:54,470:INFO:Get LATEST chromedriver version for google-chrome
+2024-09-02 01:31:54,474:INFO:There is no [win64] chromedriver "128.0.6613.86" for browser google-chrome "128.0.6613" in cache
+2024-09-02 01:31:54,474:INFO:Get LATEST chromedriver version for google-chrome
+2024-09-02 01:31:54,476:INFO:There is no [win64] chromedriver "128.0.6613.86" for browser google-chrome "128.0.6613" in cache
+2024-09-02 01:31:54,476:INFO:Get LATEST chromedriver version for google-chrome
+2024-09-02 01:31:54,477:INFO:There is no [win64] chromedriver "128.0.6613.86" for browser google-chrome "128.0.6613" in cache
+2024-09-02 01:31:54,477:INFO:Get LATEST chromedriver version for google-chrome
+2024-09-02 01:31:54,484:INFO:There is no [win64] chromedriver "128.0.6613.86" for browser google-chrome "128.0.6613" in cache
+2024-09-02 01:31:54,486:INFO:Get LATEST chromedriver version for google-chrome
+2024-09-02 01:31:54,519:INFO:There is no [win64] chromedriver "128.0.6613.86" for browser google-chrome "128.0.6613" in cache
+2024-09-02 01:31:54,519:INFO:Get LATEST chromedriver version for google-chrome
+2024-09-02 01:31:54,614:INFO:WebDriver version 128.0.6613.86 selected
+2024-09-02 01:31:54,617:INFO:Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/128.0.6613.86/win32/chromedriver-win32.zip
+2024-09-02 01:31:54,618:INFO:About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/128.0.6613.86/win32/chromedriver-win32.zip
+2024-09-02 01:31:54,650:INFO:WebDriver version 128.0.6613.86 selected
+2024-09-02 01:31:54,655:INFO:Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/128.0.6613.86/win32/chromedriver-win32.zip
+2024-09-02 01:31:54,656:INFO:About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/128.0.6613.86/win32/chromedriver-win32.zip
+2024-09-02 01:31:54,680:INFO:WebDriver version 128.0.6613.86 selected
+2024-09-02 01:31:54,685:INFO:Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/128.0.6613.86/win32/chromedriver-win32.zip
+2024-09-02 01:31:54,698:INFO:About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/128.0.6613.86/win32/chromedriver-win32.zip
+2024-09-02 01:31:54,699:INFO:WebDriver version 128.0.6613.86 selected
+2024-09-02 01:31:54,711:INFO:WebDriver version 128.0.6613.86 selected
+2024-09-02 01:31:54,719:INFO:Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/128.0.6613.86/win32/chromedriver-win32.zip
+2024-09-02 01:31:54,719:INFO:About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/128.0.6613.86/win32/chromedriver-win32.zip
+2024-09-02 01:31:54,723:INFO:Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/128.0.6613.86/win32/chromedriver-win32.zip
+2024-09-02 01:31:54,723:INFO:About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/128.0.6613.86/win32/chromedriver-win32.zip
+2024-09-02 01:31:54,775:INFO:WebDriver version 128.0.6613.86 selected
+2024-09-02 01:31:54,776:INFO:WebDriver version 128.0.6613.86 selected
+2024-09-02 01:31:54,780:INFO:Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/128.0.6613.86/win32/chromedriver-win32.zip
+2024-09-02 01:31:54,799:INFO:Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/128.0.6613.86/win32/chromedriver-win32.zip
+2024-09-02 01:31:54,800:INFO:Driver downloading response is 200
+2024-09-02 01:31:54,810:INFO:WebDriver version 128.0.6613.86 selected
+2024-09-02 01:31:54,810:INFO:About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/128.0.6613.86/win32/chromedriver-win32.zip
+2024-09-02 01:31:54,811:INFO:WebDriver version 128.0.6613.86 selected
+2024-09-02 01:31:54,812:INFO:Driver downloading response is 200
+2024-09-02 01:31:54,812:INFO:About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/128.0.6613.86/win32/chromedriver-win32.zip
+2024-09-02 01:31:54,815:INFO:Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/128.0.6613.86/win32/chromedriver-win32.zip
+2024-09-02 01:31:54,819:INFO:Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/128.0.6613.86/win32/chromedriver-win32.zip
+2024-09-02 01:31:54,823:INFO:About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/128.0.6613.86/win32/chromedriver-win32.zip
+2024-09-02 01:31:54,824:INFO:About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/128.0.6613.86/win32/chromedriver-win32.zip
+2024-09-02 01:31:54,833:INFO:WebDriver version 128.0.6613.86 selected
+2024-09-02 01:31:54,837:INFO:Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/128.0.6613.86/win32/chromedriver-win32.zip
+2024-09-02 01:31:54,837:INFO:About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/128.0.6613.86/win32/chromedriver-win32.zip
+2024-09-02 01:31:54,845:INFO:Driver downloading response is 200
+2024-09-02 01:31:54,875:INFO:Driver downloading response is 200
+2024-09-02 01:31:54,893:INFO:Driver downloading response is 200
+2024-09-02 01:31:54,911:INFO:Driver downloading response is 200
+2024-09-02 01:31:54,932:INFO:Driver downloading response is 200
+2024-09-02 01:31:54,968:INFO:Driver downloading response is 200
+2024-09-02 01:31:55,307:INFO:Driver downloading response is 200
+2024-09-02 01:31:55,315:INFO:Driver downloading response is 200
+2024-09-02 01:32:02,028:INFO:Get LATEST chromedriver version for google-chrome
+2024-09-02 01:32:02,389:INFO:Driver has been saved in cache [C:\Users\gross\.wdm\drivers\chromedriver\win64\128.0.6613.86]
+2024-09-02 01:32:03,755:INFO:Get LATEST chromedriver version for google-chrome
+2024-09-02 01:32:03,917:INFO:Driver has been saved in cache [C:\Users\gross\.wdm\drivers\chromedriver\win64\128.0.6613.86]
+2024-09-02 01:32:04,253:INFO:Get LATEST chromedriver version for google-chrome
+2024-09-02 01:32:04,577:INFO:Driver has been saved in cache [C:\Users\gross\.wdm\drivers\chromedriver\win64\128.0.6613.86]
+2024-09-02 01:32:04,605:INFO:Get LATEST chromedriver version for google-chrome
+2024-09-02 01:32:04,788:ERROR:Fehler bei der Verarbeitung von 8: [WinError 5] Zugriff verweigert: 'C:\\Users\\gross\\.wdm\\drivers\\chromedriver\\win64\\128.0.6613.86\\chromedriver-win32\\chromedriver.exe' -> 'C:\\Users\\gross\\.wdm\\drivers\\chromedriver\\win64\\128.0.6613.86\\chromedriver.exe'
+2024-09-02 01:32:06,030:INFO:Get LATEST chromedriver version for google-chrome
+2024-09-02 01:32:06,165:INFO:Driver has been saved in cache [C:\Users\gross\.wdm\drivers\chromedriver\win64\128.0.6613.86]
+2024-09-02 01:32:06,289:INFO:Get LATEST chromedriver version for google-chrome
+2024-09-02 01:32:06,587:INFO:Get LATEST chromedriver version for google-chrome
+2024-09-02 01:32:06,622:INFO:Get LATEST chromedriver version for google-chrome
+2024-09-02 01:32:06,635:INFO:Driver has been saved in cache [C:\Users\gross\.wdm\drivers\chromedriver\win64\128.0.6613.86]
+2024-09-02 01:32:06,724:ERROR:Fehler bei der Verarbeitung von 9: [WinError 5] Zugriff verweigert: 'C:\\Users\\gross\\.wdm\\drivers\\chromedriver\\win64\\128.0.6613.86\\chromedriver-win32\\chromedriver.exe' -> 'C:\\Users\\gross\\.wdm\\drivers\\chromedriver\\win64\\128.0.6613.86\\chromedriver.exe'
+2024-09-02 01:32:06,736:ERROR:Fehler bei der Verarbeitung von 5: [WinError 5] Zugriff verweigert: 'C:\\Users\\gross\\.wdm\\drivers\\chromedriver\\win64\\128.0.6613.86\\chromedriver-win32\\chromedriver.exe' -> 'C:\\Users\\gross\\.wdm\\drivers\\chromedriver\\win64\\128.0.6613.86\\chromedriver.exe'
+2024-09-02 01:32:06,759:INFO:Get LATEST chromedriver version for google-chrome
+2024-09-02 01:32:06,833:ERROR:Fehler bei der Verarbeitung von 6: [WinError 5] Zugriff verweigert: 'C:\\Users\\gross\\.wdm\\drivers\\chromedriver\\win64\\128.0.6613.86\\chromedriver-win32\\chromedriver.exe' -> 'C:\\Users\\gross\\.wdm\\drivers\\chromedriver\\win64\\128.0.6613.86\\chromedriver.exe'
+2024-09-02 01:32:07,007:INFO:Get LATEST chromedriver version for google-chrome
+2024-09-02 01:32:07,104:ERROR:Fehler bei der Verarbeitung von 3: [WinError 5] Zugriff verweigert: 'C:\\Users\\gross\\.wdm\\drivers\\chromedriver\\win64\\128.0.6613.86\\chromedriver-win32\\chromedriver.exe' -> 'C:\\Users\\gross\\.wdm\\drivers\\chromedriver\\win64\\128.0.6613.86\\chromedriver.exe'
+2024-09-02 01:32:22,355:INFO:Found price 2428.00 for eth_usdt from uzx.kr
+2024-09-02 01:32:23,841:INFO:Found price 57460.90 for btc_usdt from uzx.kr
+2024-09-02 01:32:24,490:INFO:Found price 122.3280 for aave_usdt from uzx.kr
+2024-09-02 01:32:33,394:ERROR:Fehler beim Abrufen des Preises für enj_usdt: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00858283+26163]
+	(No symbol) [0x007E9D34]
+	(No symbol) [0x006E24C3]
+	(No symbol) [0x00727453]
+	(No symbol) [0x0072762B]
+	(No symbol) [0x00766B62]
+	(No symbol) [0x0074AD04]
+	(No symbol) [0x00764661]
+	(No symbol) [0x0074AA56]
+	(No symbol) [0x0071BE89]
+	(No symbol) [0x0071C8CD]
+	GetHandleVerifier [0x00B2CF73+2994979]
+	GetHandleVerifier [0x00B817E9+3341209]
+	GetHandleVerifier [0x008E7B5F+614159]
+	GetHandleVerifier [0x008EF1EC+644508]
+	(No symbol) [0x007F286D]
+	(No symbol) [0x007EF768]
+	(No symbol) [0x007EF905]
+	(No symbol) [0x007E1C86]
+	BaseThreadInitThunk [0x76CDFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x778E80CE+286]
+	RtlGetAppContainerNamedObjectPath [0x778E809E+238]
+
+2024-09-02 01:32:33,954:ERROR:Fehler beim Abrufen des Preises für chz_usdt: Message: 
+Stacktrace:
+	GetHandleVerifier [0x010C8283+26163]
+	(No symbol) [0x01059D34]
+	(No symbol) [0x00F524C3]
+	(No symbol) [0x00F97453]
+	(No symbol) [0x00F9762B]
+	(No symbol) [0x00FD6B62]
+	(No symbol) [0x00FBAD04]
+	(No symbol) [0x00FD4661]
+	(No symbol) [0x00FBAA56]
+	(No symbol) [0x00F8BE89]
+	(No symbol) [0x00F8C8CD]
+	GetHandleVerifier [0x0139CF73+2994979]
+	GetHandleVerifier [0x013F17E9+3341209]
+	GetHandleVerifier [0x01157B5F+614159]
+	GetHandleVerifier [0x0115F1EC+644508]
+	(No symbol) [0x0106286D]
+	(No symbol) [0x0105F768]
+	(No symbol) [0x0105F905]
+	(No symbol) [0x01051C86]
+	BaseThreadInitThunk [0x76CDFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x778E80CE+286]
+	RtlGetAppContainerNamedObjectPath [0x778E809E+238]
+
+2024-09-02 01:32:35,758:INFO:Found price None for enj_usdt from uzx.kr
+2024-09-02 01:32:36,287:INFO:Found price None for chz_usdt from uzx.kr
+2024-09-02 01:32:45,935:INFO:====== WebDriver manager ======
+2024-09-02 01:32:45,944:INFO:====== WebDriver manager ======
+2024-09-02 01:32:45,953:INFO:====== WebDriver manager ======
+2024-09-02 01:32:45,980:INFO:====== WebDriver manager ======
+2024-09-02 01:32:45,990:INFO:====== WebDriver manager ======
+2024-09-02 01:32:45,996:INFO:====== WebDriver manager ======
+2024-09-02 01:32:46,011:INFO:====== WebDriver manager ======
+2024-09-02 01:32:46,016:INFO:====== WebDriver manager ======
+2024-09-02 01:32:46,027:INFO:====== WebDriver manager ======
+2024-09-02 01:32:46,029:INFO:====== WebDriver manager ======
+2024-09-02 01:32:49,553:INFO:Get LATEST chromedriver version for google-chrome
+2024-09-02 01:32:49,556:INFO:Get LATEST chromedriver version for google-chrome
+2024-09-02 01:32:49,561:INFO:Get LATEST chromedriver version for google-chrome
+2024-09-02 01:32:49,564:INFO:Get LATEST chromedriver version for google-chrome
+2024-09-02 01:32:49,565:INFO:Get LATEST chromedriver version for google-chrome
+2024-09-02 01:32:49,571:INFO:Get LATEST chromedriver version for google-chrome
+2024-09-02 01:33:19,370:INFO:====== WebDriver manager ======
+2024-09-02 01:33:19,376:INFO:====== WebDriver manager ======
+2024-09-02 01:33:19,380:INFO:====== WebDriver manager ======
+2024-09-02 01:33:19,401:INFO:====== WebDriver manager ======
+2024-09-02 01:33:19,409:INFO:====== WebDriver manager ======
+2024-09-02 01:33:21,926:INFO:Get LATEST chromedriver version for google-chrome
+2024-09-02 01:33:21,937:INFO:Get LATEST chromedriver version for google-chrome
+2024-09-02 01:33:21,937:INFO:Get LATEST chromedriver version for google-chrome
+2024-09-02 01:33:21,945:INFO:Get LATEST chromedriver version for google-chrome
+2024-09-02 01:33:21,974:INFO:Get LATEST chromedriver version for google-chrome
+2024-09-02 01:33:21,982:INFO:Get LATEST chromedriver version for google-chrome
+2024-09-02 01:33:21,984:INFO:Get LATEST chromedriver version for google-chrome
+2024-09-02 01:33:21,987:INFO:Get LATEST chromedriver version for google-chrome
+2024-09-02 01:33:21,990:INFO:Get LATEST chromedriver version for google-chrome
+2024-09-02 01:33:22,026:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\128.0.6613.86\chromedriver-win32/chromedriver.exe] found in cache
+2024-09-02 01:33:22,028:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\128.0.6613.86\chromedriver-win32/chromedriver.exe] found in cache
+2024-09-02 01:33:22,029:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\128.0.6613.86\chromedriver-win32/chromedriver.exe] found in cache
+2024-09-02 01:33:22,033:INFO:Get LATEST chromedriver version for google-chrome
+2024-09-02 01:33:22,037:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\128.0.6613.86\chromedriver-win32/chromedriver.exe] found in cache
+2024-09-02 01:33:22,079:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\128.0.6613.86\chromedriver-win32/chromedriver.exe] found in cache
+2024-09-02 01:33:51,793:ERROR:Fehler beim Abrufen des Preises für ada_usdt: Message: 
+Stacktrace:
+	GetHandleVerifier [0x01118283+26163]
+	(No symbol) [0x010A9D34]
+	(No symbol) [0x00FA24C3]
+	(No symbol) [0x00FE7453]
+	(No symbol) [0x00FE762B]
+	(No symbol) [0x01026B62]
+	(No symbol) [0x0100AD04]
+	(No symbol) [0x01024661]
+	(No symbol) [0x0100AA56]
+	(No symbol) [0x00FDBE89]
+	(No symbol) [0x00FDC8CD]
+	GetHandleVerifier [0x013ECF73+2994979]
+	GetHandleVerifier [0x014417E9+3341209]
+	GetHandleVerifier [0x011A7B5F+614159]
+	GetHandleVerifier [0x011AF1EC+644508]
+	(No symbol) [0x010B286D]
+	(No symbol) [0x010AF768]
+	(No symbol) [0x010AF905]
+	(No symbol) [0x010A1C86]
+	BaseThreadInitThunk [0x76CDFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x778E80CE+286]
+	RtlGetAppContainerNamedObjectPath [0x778E809E+238]
+
+2024-09-02 01:33:54,261:INFO:Found price None for ada_usdt from uzx.kr
+2024-09-02 01:34:12,996:INFO:Found price 57412.74 for btc_usdt from uzx.kr
+2024-09-02 01:34:13,666:INFO:Found price 0.226110 for 1inch_usdt from uzx.kr
+2024-09-02 01:34:17,176:INFO:Found price 2427.24 for eth_usdt from uzx.kr
+2024-09-02 01:34:17,378:INFO:Found price 0.098387 for doge_usdt from uzx.kr
+2024-09-02 01:34:21,527:INFO:====== WebDriver manager ======
+2024-09-02 01:34:21,544:INFO:====== WebDriver manager ======
+2024-09-02 01:34:21,549:INFO:====== WebDriver manager ======
+2024-09-02 01:34:21,553:INFO:====== WebDriver manager ======
+2024-09-02 01:34:21,555:INFO:====== WebDriver manager ======
+2024-09-02 01:34:23,993:INFO:Get LATEST chromedriver version for google-chrome
+2024-09-02 01:34:24,044:INFO:Get LATEST chromedriver version for google-chrome
+2024-09-02 01:34:24,044:INFO:Get LATEST chromedriver version for google-chrome
+2024-09-02 01:34:24,047:INFO:Get LATEST chromedriver version for google-chrome
+2024-09-02 01:34:24,065:INFO:Get LATEST chromedriver version for google-chrome
+2024-09-02 01:34:24,065:INFO:Get LATEST chromedriver version for google-chrome
+2024-09-02 01:34:24,089:INFO:Get LATEST chromedriver version for google-chrome
+2024-09-02 01:34:24,090:INFO:Get LATEST chromedriver version for google-chrome
+2024-09-02 01:34:24,091:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\128.0.6613.86\chromedriver-win32/chromedriver.exe] found in cache
+2024-09-02 01:34:24,111:INFO:Get LATEST chromedriver version for google-chrome
+2024-09-02 01:34:24,111:INFO:Get LATEST chromedriver version for google-chrome
+2024-09-02 01:34:24,135:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\128.0.6613.86\chromedriver-win32/chromedriver.exe] found in cache
+2024-09-02 01:34:24,139:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\128.0.6613.86\chromedriver-win32/chromedriver.exe] found in cache
+2024-09-02 01:34:24,156:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\128.0.6613.86\chromedriver-win32/chromedriver.exe] found in cache
+2024-09-02 01:34:24,159:INFO:Driver [C:\Users\gross\.wdm\drivers\chromedriver\win64\128.0.6613.86\chromedriver-win32/chromedriver.exe] found in cache
+2024-09-02 01:34:47,609:ERROR:Fehler beim Abrufen des Preises für ada_usdt: Message: 
+Stacktrace:
+	GetHandleVerifier [0x01118283+26163]
+	(No symbol) [0x010A9D34]
+	(No symbol) [0x00FA24C3]
+	(No symbol) [0x00FE7453]
+	(No symbol) [0x00FE762B]
+	(No symbol) [0x01026B62]
+	(No symbol) [0x0100AD04]
+	(No symbol) [0x01024661]
+	(No symbol) [0x0100AA56]
+	(No symbol) [0x00FDBE89]
+	(No symbol) [0x00FDC8CD]
+	GetHandleVerifier [0x013ECF73+2994979]
+	GetHandleVerifier [0x014417E9+3341209]
+	GetHandleVerifier [0x011A7B5F+614159]
+	GetHandleVerifier [0x011AF1EC+644508]
+	(No symbol) [0x010B286D]
+	(No symbol) [0x010AF768]
+	(No symbol) [0x010AF905]
+	(No symbol) [0x010A1C86]
+	BaseThreadInitThunk [0x76CDFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x778E80CE+286]
+	RtlGetAppContainerNamedObjectPath [0x778E809E+238]
+
+2024-09-02 01:34:50,477:INFO:Found price None for ada_usdt from uzx.kr
+2024-09-02 01:34:50,538:INFO:Found price 0.098403 for doge_usdt from uzx.kr
+2024-09-02 01:34:54,058:INFO:Found price 57409.65 for btc_usdt from uzx.kr
+2024-09-02 01:34:54,608:INFO:Found price 2427.24 for eth_usdt from uzx.kr
+2024-09-02 01:35:05,738:INFO:Found price 0.226200 for 1inch_usdt from uzx.kr

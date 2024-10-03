@@ -1,5 +1,4 @@
 import logging
-import time
 import tkinter as tk
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from tkinter import ttk
@@ -11,9 +10,9 @@ from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import WebDriverWait
+from webdriver_manager.chrome import ChromeDriverManager
 
 # Pfad zur ChromeDriver-Datei
-chrome_driver_path = 'C:/Users/gross/chromedriver-win64/chromedriver.exe'
 
 # Logging-Konfiguration
 logging.basicConfig(filename='crypto_data.log', level=logging.INFO,
@@ -21,8 +20,7 @@ logging.basicConfig(filename='crypto_data.log', level=logging.INFO,
 
 # API-Endpunkte und Symbol-Mappings
 API_ENDPOINTS = {
-    'Bybit': "https://api.bybit.com//spot/v3/public/quote/ticker/price?symbol={}",
-    'Binance': "https://api.binance.com/api/v3/ticker/price?symbol={}",
+    'Binance': "https://api.binance.us/api/v3/ticker/price?symbol={}",
     'Coinbase': "https://api.coinbase.com/v2/prices/{}/spot",
     'Crypto.com': "https://api.crypto.com/v2/public/get-ticker?instrument_name={}",
     'Kraken': "https://api.kraken.com/0/public/Ticker?pair={}",
@@ -105,6 +103,7 @@ API_SYMBOL_MAPPINGS = {
     'NEARUSDT': {'Bybit': 'NEARUSDT', 'Binance': 'NEARUSDT', 'Coinbase': 'NEAR-USD', 'Crypto.com': 'NEAR_USDT',
                  'Kraken': '', 'uzx.kr': 'near_usdt'}}
 
+
 def main():
     root = tk.Tk()
     root.title("Crypto Prices")
@@ -130,7 +129,7 @@ def main():
     # Tabelle erstellen
     table_frame = scrollable_frame
 
-    labels = ["Coin", "Bybit", "Binance", "Crypto.com", "Kraken", "Coinbase", "uzx.kr"]
+    labels = ["Coin", "Binance", "Crypto.com", "Kraken", "Coinbase", "uzx.kr"]
     for i, label in enumerate(labels):
         tk.Label(table_frame, text=label).grid(row=0, column=i, padx=10)
 
@@ -189,7 +188,7 @@ def update_selected_prices(table_frame, coin_comboboxes):
 
 def fetch_prices_for_coin(coin):
     prices = []
-    with ThreadPoolExecutor(max_workers=5) as executor:
+    with ThreadPoolExecutor(max_workers=10) as executor:
         futures = []
         for exchange in API_ENDPOINTS.keys():
             mapped_symbol = get_mapped_symbol(exchange, coin)
@@ -231,48 +230,35 @@ def parse_price_data(exchange, data, symbol):
 
 
 def get_uzx_price(coin):
-    # Chrome-Optionen (optional, falls du das Browser-Fenster nicht sehen möchtest)
     chrome_options = Options()
-    chrome_options.add_argument("--headless")  # Kommentar entfernen, wenn du den Browser sehen möchtest
+    chrome_options.add_argument("--headless")  # Aktiviert den Headless-Modus
+    chrome_options.add_argument('--disable-gpu')  # Vermeidet unnötige GPU-Nutzung
 
-    # WebDriver initialisieren
-    service = Service(chrome_driver_path)
+    driver_path = ChromeDriverManager().install()
+    service = Service(driver_path)
     driver = webdriver.Chrome(service=service, options=chrome_options)
 
-    # URL der Webseite
-    url = f'https://uzx.com/#/exchange/{coin}'
+    url = f'https://uzx.kr/#/exchange/{coin}'
     driver.get(url)
 
-    # Warten, bis das Preis-Element sichtbar ist
     try:
-        wait = WebDriverWait(driver, 30)
-
-        # Initialer Preis, um die erste Erfassung zu starten
-        last_price = None
-        current_price = None
-
-        # Warten, bis der Preis sich stabilisiert hat
-        for _ in range(10):  # Versuche 10 mal
-            price_element = wait.until(
-                EC.visibility_of_element_located((By.CSS_SELECTOR, 'div.singlePrice_price_val.sell'))
-            )
-            current_price = price_element.text.strip()
-
-            if current_price != last_price:
-                last_price = current_price
-                time.sleep(2)  # Kurze Pause, um den Preis erneut zu überprüfen
-            else:
-                break
-
-        print(f"Finaler {coin} Preis: {current_price}")
-        return current_price
-
-    except Exception as e:
-        logging.warning(e)
-        return None
-
+        wait = WebDriverWait(driver, 10)
+        # Versuche zuerst das "buy"-Element zu finden
+        price_element = wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, "span.orderForm_price.buy")))
+        price = price_element.text
+    except:
+        try:
+            # Wenn "buy" nicht gefunden wird, versuche das "sell"-Element zu finden
+            price_element = wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, "span.orderForm_price.sell")))
+            price = price_element.text
+        except Exception as e:
+            logging.error(f"Fehler beim Abrufen des Preises für {coin}: {e}")
+            price = None
     finally:
         driver.quit()
+
+    logging.info(f"Found price {price} for {coin} from uzx.kr")
+    return price
 
 
 def get_mapped_symbol(exchange, coin):
